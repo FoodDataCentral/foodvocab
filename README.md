@@ -9,7 +9,7 @@ Database of Standard Reference (SR-Legacy)](https://www.ars.usda.gov/ARSUserFile
 
 ## Accessing the FDC Food Vocabulary
 
-The **FDC Food Vocabulary** is available in `OWL`, `JSON`, and `CSV` formats hosted [in the release directory:](release/). Quick links to the files are as follows:
+The **FDC Food Vocabulary** is available in `OWL`, `JSON`, and `CSV` formats hosted [in the release directory](release/). Quick links to the files are as follows:
 
 * [fdc-foodvocab.owl](release/fdc-foodvocab.owl)
 * [fdc-foodvocab.json](release/fdc-foodvocab.json)
