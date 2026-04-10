@@ -54,3 +54,6 @@ robot convert --input release/fdc-foodvocab.owl --prefix "FDCFOOD:https://fdc.na
 robot export --input release/fdc-foodvocab.owl --prefix "FDCFOOD:https://fdc.nal.usda.gov/vocab/FDCFOOD_" --header "ID|LABEL|SubClass Of|source|hasTopConcept|altLabel|IRI|seeAlso|comment|definition|isDefinedBy|historyNote|" --sort "SubClass Of" --strict --export release/fdc-foodvocab.csv
 ```
 
+## Contact
+
+For inquiries about this website any of it's content see https://fdc.nal.usda.gov/contact.
