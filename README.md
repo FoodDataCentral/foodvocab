@@ -2,9 +2,7 @@
 
 ## Introduction
 
-Welcome to the USDA [Food DataCentral (FDC)](https://fdc.nal.usda.gov/) Food Vocabulary github repository. 
-
-The **FDC Food Vocabulary** is a hierarchically-structured a web vocabulary describing the foods and food-products analyzed for components of nutritional interest in FDC. The **FDC Food Vocabulary** extends the **Nutrient Data Bank (NDB)** numbering system used in the [Nutrient
+Welcome to the USDA [Food DataCentral (FDC)](https://fdc.nal.usda.gov/) Food Vocabulary github repository. The **FDC Food Vocabulary** is a hierarchically-structured a web vocabulary describing the foods and food-products analyzed for components of nutritional interest in FDC. The **FDC Food Vocabulary** extends the **Nutrient Data Bank (NDB)** numbering system used in the [Nutrient
 Database of Standard Reference (SR-Legacy)](https://www.ars.usda.gov/ARSUserFiles/80400525/Data/SR-Legacy/SR-Legacy_Doc.pdf), as well as the [Foundation Foods](https://fdc.nal.usda.gov/Foundation_Foods_Documentation) datasets. Existing NDB numbers have been used to create web-identifiers for terminology in the FDC Food Vocabulary. In addition, the vocabulary includes a hierarchical structure of existing, as well as new terms created to facilitate search and discovery of FDC data.  
 
 ## Accessing the FDC Food Vocabulary
