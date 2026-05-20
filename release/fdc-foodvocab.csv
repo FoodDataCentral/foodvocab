@@ -1,4 +1,4 @@
-ID,LABEL,SubClass Of,source,hasTopConcept,altLabel,IRI,seeAlso,comment,definition,isDefinedBy,historyNote
+ID,LABEL,SubClass Of,source,hasTopConcept,altLabel,IRI,hiddenLabel,comment,definition,isDefinedBy,historyNote
 FDCFOOD:15156,"Mollusks, abalone, mixed species, cooked, fried",Abalones,SR Legacy,Finfish and Shellfish Products,,https://fdc.nal.usda.gov/vocab/FDCFOOD_15156,,,,,NDB number 15156.
 FDCFOOD:15155,"Mollusks, abalone, mixed species, raw",Abalones,SR Legacy,Finfish and Shellfish Products,,https://fdc.nal.usda.gov/vocab/FDCFOOD_15155,,,,,NDB number 15155.
 FDCFOOD:9427,"Abiyuch, raw",Abiyuch,SR Legacy,Fruits and Fruit Juices,,https://fdc.nal.usda.gov/vocab/FDCFOOD_9427,,,,,NDB number 9427.

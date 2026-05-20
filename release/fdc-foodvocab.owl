@@ -47,15 +47,15 @@
     
 
 
-    <!-- http://www.w3.org/2004/02/skos/core#historyNote -->
+    <!-- http://www.w3.org/2004/02/skos/core#hiddenLabel -->
 
-    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#historyNote"/>
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#hiddenLabel"/>
     
 
 
-    <!-- http://www.w3.org/2004/02/skos/core#seeAlso -->
+    <!-- http://www.w3.org/2004/02/skos/core#historyNote -->
 
-    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#seeAlso"/>
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#historyNote"/>
     
 
 
@@ -197,8 +197,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Butter, salted</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Butter, stick, salted</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1001.</skos:historyNote>
-        <skos:seeAlso>Butter, stick, salted</skos:seeAlso>
     </owl:Class>
     
 
@@ -1832,8 +1832,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Cheese, cheddar (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Cheese, cheddar</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1009.</skos:historyNote>
-        <skos:seeAlso>Cheese, cheddar</skos:seeAlso>
     </owl:Class>
     
 
@@ -2169,8 +2169,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Cheese, cottage, creamed, large or small curd</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Cottage cheese, full fat, large or small curd</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1012.</skos:historyNote>
-        <skos:seeAlso>Cottage cheese, full fat, large or small curd</skos:seeAlso>
     </owl:Class>
     
 
@@ -2545,8 +2545,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Cheese, cream</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Cream cheese, full fat, block</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1017.</skos:historyNote>
-        <skos:seeAlso>Cream cheese, full fat, block</skos:seeAlso>
     </owl:Class>
     
 
@@ -2798,8 +2798,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Cheese, feta</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Cheese, feta, whole milk, crumbled</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1019.</skos:historyNote>
-        <skos:seeAlso>Cheese, feta, whole milk, crumbled</skos:seeAlso>
     </owl:Class>
     
 
@@ -3159,8 +3159,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Pork, fresh, ground, raw</rdfs:label>
         <skos:hasTopConcept>Pork Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Pork, ground, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 10219.</skos:historyNote>
-        <skos:seeAlso>Pork, ground, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -3536,8 +3536,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Cheese, pasteurized process, American, fortified with vitamin D</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Cheese, pasteurized process, American, vitamin D fortified</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1042.</skos:historyNote>
-        <skos:seeAlso>Cheese, pasteurized process, American, vitamin D fortified</skos:seeAlso>
     </owl:Class>
     
 
@@ -3657,8 +3657,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Cream, fluid, heavy whipping</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Cream, heavy</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1053.</skos:historyNote>
-        <skos:seeAlso>Cream, heavy</skos:seeAlso>
     </owl:Class>
     
 
@@ -3694,8 +3694,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Cream, sour, cultured</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Cream, sour, full fat</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1056.</skos:historyNote>
-        <skos:seeAlso>Cream, sour, full fat</skos:seeAlso>
     </owl:Class>
     
 
@@ -4395,8 +4395,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Milk, buttermilk, fluid, cultured, lowfat</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Buttermilk, low fat</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1088.</skos:historyNote>
-        <skos:seeAlso>Buttermilk, low fat</skos:seeAlso>
     </owl:Class>
     
 
@@ -6765,8 +6765,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Cabbage, raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Cabbage, green, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11109.</skos:historyNote>
-        <skos:seeAlso>Cabbage, green, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -6947,8 +6947,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Carrots, raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Carrots, mature, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11124.</skos:historyNote>
-        <skos:seeAlso>Carrots, mature, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -7008,8 +7008,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Carrots, frozen, unprepared (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Carrots, frozen, unprepared</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11130.</skos:historyNote>
-        <skos:seeAlso>Carrots, frozen, unprepared</skos:seeAlso>
     </owl:Class>
     
 
@@ -8023,8 +8023,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Egg, whole, raw, fresh</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Eggs, Grade A, Large, egg whole</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1123.</skos:historyNote>
-        <skos:seeAlso>Eggs, Grade A, Large, egg whole</skos:seeAlso>
     </owl:Class>
     
 
@@ -8134,8 +8134,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Mushrooms, shiitake, raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Mushrooms, shiitake</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11238.</skos:historyNote>
-        <skos:seeAlso>Mushrooms, shiitake</skos:seeAlso>
     </owl:Class>
     
 
@@ -8159,8 +8159,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Egg, white, raw, fresh</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Eggs, Grade A, Large, egg white</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1124.</skos:historyNote>
-        <skos:seeAlso>Eggs, Grade A, Large, egg white</skos:seeAlso>
     </owl:Class>
     
 
@@ -8208,8 +8208,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Mushrooms, portabella, grilled</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Mushroom, portabella</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11243.</skos:historyNote>
-        <skos:seeAlso>Mushroom, portabella</skos:seeAlso>
     </owl:Class>
     
 
@@ -8293,8 +8293,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Egg, yolk, raw, fresh</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Eggs, Grade A, Large, egg yolk</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1125.</skos:historyNote>
-        <skos:seeAlso>Eggs, Grade A, Large, egg yolk</skos:seeAlso>
     </owl:Class>
     
 
@@ -8331,8 +8331,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Lettuce, iceberg (includes crisphead types), raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Lettuce, iceberg, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11252.</skos:historyNote>
-        <skos:seeAlso>Lettuce, iceberg, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -8344,8 +8344,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Lettuce, green leaf, raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Lettuce, leaf, green, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11253.</skos:historyNote>
-        <skos:seeAlso>Lettuce, leaf, green, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -8381,8 +8381,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Lettuce, red leaf, raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Lettuce, leaf, red, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11257.</skos:historyNote>
-        <skos:seeAlso>Lettuce, leaf, red, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -8431,8 +8431,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Mushrooms, white, raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Mushrooms, white button</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11260.</skos:historyNote>
-        <skos:seeAlso>Mushrooms, white button</skos:seeAlso>
     </owl:Class>
     
 
@@ -8492,8 +8492,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Mushrooms, brown, italian, or crimini, raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Mushroom, crimini</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11266.</skos:historyNote>
-        <skos:seeAlso>Mushroom, crimini</skos:seeAlso>
     </owl:Class>
     
 
@@ -9239,8 +9239,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Peppers, sweet, green, raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Peppers, bell, green, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11333.</skos:historyNote>
-        <skos:seeAlso>Peppers, bell, green, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -10121,8 +10121,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Potato flour</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Flour, potato</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11413.</skos:historyNote>
-        <skos:seeAlso>Flour, potato</skos:seeAlso>
     </owl:Class>
     
 
@@ -10459,8 +10459,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Butter, without salt</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Butter, stick, unsalted</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1145.</skos:historyNote>
-        <skos:seeAlso>Butter, stick, unsalted</skos:seeAlso>
     </owl:Class>
     
 
@@ -10532,8 +10532,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Spinach, raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Spinach, mature</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11457.</skos:historyNote>
-        <skos:seeAlso>Spinach, mature</skos:seeAlso>
     </owl:Class>
     
 
@@ -11326,8 +11326,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Tomato juice, canned, with salt added</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Tomato juice, with added ingredients, from concentrate, shelf stable</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11540.</skos:historyNote>
-        <skos:seeAlso>Tomato juice, with added ingredients, from concentrate, shelf stable</skos:seeAlso>
     </owl:Class>
     
 
@@ -12661,8 +12661,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Egg, whole, raw, frozen, pasteurized (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Egg, whole, raw, frozen, pasteurized</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1171.</skos:historyNote>
-        <skos:seeAlso>Egg, whole, raw, frozen, pasteurized</skos:seeAlso>
     </owl:Class>
     
 
@@ -14068,8 +14068,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Peppers, sweet, red, raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Peppers, bell, red, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11821.</skos:historyNote>
-        <skos:seeAlso>Peppers, bell, red, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -15669,8 +15669,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Mushrooms, enoki, raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Mushroom, enoki</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11950.</skos:historyNote>
-        <skos:seeAlso>Mushroom, enoki</skos:seeAlso>
     </owl:Class>
     
 
@@ -15682,8 +15682,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Peppers, sweet, yellow, raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Peppers, bell, yellow, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11951.</skos:historyNote>
-        <skos:seeAlso>Peppers, bell, yellow, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -16104,8 +16104,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Mushrooms, oyster, raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Mushroom, oyster</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11987.</skos:historyNote>
-        <skos:seeAlso>Mushroom, oyster</skos:seeAlso>
     </owl:Class>
     
 
@@ -16189,8 +16189,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Mushrooms, maitake, raw</rdfs:label>
         <skos:hasTopConcept>Vegetables and Vegetable Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Mushroom, maitake</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 11993.</skos:historyNote>
-        <skos:seeAlso>Mushroom, maitake</skos:seeAlso>
     </owl:Class>
     
 
@@ -16382,8 +16382,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Seeds, pumpkin and squash seed kernels, dried</rdfs:label>
         <skos:hasTopConcept>Nut and Seed Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Seeds, pumpkin seeds (pepitas), raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 12014.</skos:historyNote>
-        <skos:seeAlso>Seeds, pumpkin seeds (pepitas), raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -16527,8 +16527,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Seeds, sunflower seed kernels, dried</rdfs:label>
         <skos:hasTopConcept>Nut and Seed Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Seeds, sunflower seed, kernel, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 12036.</skos:historyNote>
-        <skos:seeAlso>Seeds, sunflower seed, kernel, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -16673,8 +16673,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Nuts, almonds</rdfs:label>
         <skos:hasTopConcept>Nut and Seed Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Nuts, almonds, whole, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 12061.</skos:historyNote>
-        <skos:seeAlso>Nuts, almonds, whole, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -17095,8 +17095,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Nuts, hazelnuts or filberts</rdfs:label>
         <skos:hasTopConcept>Nut and Seed Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Nuts, hazelnuts or filberts, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 12120.</skos:historyNote>
-        <skos:seeAlso>Nuts, hazelnuts or filberts, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -17277,8 +17277,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Nuts, pecans</rdfs:label>
         <skos:hasTopConcept>Nut and Seed Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Nuts, pecans, halves, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 12142.</skos:historyNote>
-        <skos:seeAlso>Nuts, pecans, halves, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -17326,8 +17326,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Nuts, pine nuts, dried</rdfs:label>
         <skos:hasTopConcept>Nut and Seed Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Nuts, pine nuts, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 12147.</skos:historyNote>
-        <skos:seeAlso>Nuts, pine nuts, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -17400,8 +17400,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Nuts, walnuts, english</rdfs:label>
         <skos:hasTopConcept>Nut and Seed Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Nuts, walnuts, English, halves, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 12155.</skos:historyNote>
-        <skos:seeAlso>Nuts, walnuts, English, halves, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -17655,8 +17655,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Nuts, almond butter, plain, without salt added</rdfs:label>
         <skos:hasTopConcept>Nut and Seed Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Almond butter, creamy</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 12195.</skos:historyNote>
-        <skos:seeAlso>Almond butter, creamy</skos:seeAlso>
     </owl:Class>
     
 
@@ -17800,8 +17800,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Seeds, flaxseed</rdfs:label>
         <skos:hasTopConcept>Nut and Seed Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Flaxseed, ground</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 12220.</skos:historyNote>
-        <skos:seeAlso>Flaxseed, ground</skos:seeAlso>
     </owl:Class>
     
 
@@ -18211,8 +18211,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Yogurt, Greek, plain, nonfat (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Dairy and Egg Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Yogurt, Greek, plain, nonfat</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 1256.</skos:historyNote>
-        <skos:seeAlso>Yogurt, Greek, plain, nonfat</skos:seeAlso>
     </owl:Class>
     
 
@@ -24282,8 +24282,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Beverages, almond milk, unsweetened, shelf stable</rdfs:label>
         <skos:hasTopConcept>Beverages</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Almond milk, unsweetened, plain, shelf stable</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 14091.</skos:historyNote>
-        <skos:seeAlso>Almond milk, unsweetened, plain, shelf stable</skos:seeAlso>
     </owl:Class>
     
 
@@ -28601,8 +28601,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Fish, pollock, Alaska, raw (may contain additives to retain moisture)</rdfs:label>
         <skos:hasTopConcept>Finfish and Shellfish Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Fish, pollock, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 15066.</skos:historyNote>
-        <skos:seeAlso>Fish, pollock, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -29250,8 +29250,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Fish, tuna, light, canned in water, drained solids (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Finfish and Shellfish Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Fish, tuna, light, canned in water, drained solids</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 15121.</skos:historyNote>
-        <skos:seeAlso>Fish, tuna, light, canned in water, drained solids</skos:seeAlso>
     </owl:Class>
     
 
@@ -31916,8 +31916,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Peanuts, all types, raw</rdfs:label>
         <skos:hasTopConcept>Legumes and Legume Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Peanuts, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 16087.</skos:historyNote>
-        <skos:seeAlso>Peanuts, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -32049,8 +32049,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Peanut butter, smooth style, with salt (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Legumes and Legume Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Peanut butter, creamy</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 16098.</skos:historyNote>
-        <skos:seeAlso>Peanut butter, creamy</skos:seeAlso>
     </owl:Class>
     
 
@@ -32242,8 +32242,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Soy flour, full-fat, raw</rdfs:label>
         <skos:hasTopConcept>Legumes and Legume Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Flour, soy, full-fat</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 16115.</skos:historyNote>
-        <skos:seeAlso>Flour, soy, full-fat</skos:seeAlso>
     </owl:Class>
     
 
@@ -32267,8 +32267,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Soy flour, defatted</rdfs:label>
         <skos:hasTopConcept>Legumes and Legume Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Flour, soy, defatted</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 16117.</skos:historyNote>
-        <skos:seeAlso>Flour, soy, defatted</skos:seeAlso>
     </owl:Class>
     
 
@@ -32917,8 +32917,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Soymilk (all flavors), unsweetened, with added calcium, vitamins A and D</rdfs:label>
         <skos:hasTopConcept>Legumes and Legume Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Soy milk, unsweetened, plain, shelf stable</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 16222.</skos:historyNote>
-        <skos:seeAlso>Soy milk, unsweetened, plain, shelf stable</skos:seeAlso>
     </owl:Class>
     
 
@@ -40568,8 +40568,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Bread, white, commercially prepared (includes soft bread crumbs)</rdfs:label>
         <skos:hasTopConcept>Baked Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Bread, white, commercially prepared</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 18069.</skos:historyNote>
-        <skos:seeAlso>Bread, white, commercially prepared</skos:seeAlso>
     </owl:Class>
     
 
@@ -51032,8 +51032,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Buckwheat</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Buckwheat, whole grain</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20008.</skos:historyNote>
-        <skos:seeAlso>Buckwheat, whole grain</skos:seeAlso>
     </owl:Class>
     
 
@@ -51377,8 +51377,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Buckwheat flour, whole-groat</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Flour, buckwheat</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20011.</skos:historyNote>
-        <skos:seeAlso>Flour, buckwheat</skos:seeAlso>
     </owl:Class>
     
 
@@ -53735,8 +53735,8 @@
         <rdfs:comment xml:lang="en">Based on the value for the SR data it must be whole grain millet according to Dr. George Annor. The FF version is likely proso millet and probably de-hulled.</rdfs:comment>
         <rdfs:label xml:lang="en">Millet, raw</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Millet, whole grain</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20031.</skos:historyNote>
-        <skos:seeAlso>Millet, whole grain</skos:seeAlso>
     </owl:Class>
     
 
@@ -54334,8 +54334,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Rice, brown, long-grain, raw (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Rice, brown, long grain, unenriched, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20036.</skos:historyNote>
-        <skos:seeAlso>Rice, brown, long grain, unenriched, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -54553,8 +54553,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Oats (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Oats, whole grain, rolled, old fashioned</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20038.</skos:historyNote>
-        <skos:seeAlso>Oats, whole grain, rolled, old fashioned</skos:seeAlso>
     </owl:Class>
     
 
@@ -57170,8 +57170,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Rice flour, white, unenriched</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Flour, rice, white, unenriched</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20061.</skos:historyNote>
-        <skos:seeAlso>Flour, rice, white, unenriched</skos:seeAlso>
     </owl:Class>
     
 
@@ -59377,8 +59377,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Wheat flour, whole-grain (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Flour, whole wheat, unenriched</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20080.</skos:historyNote>
-        <skos:seeAlso>Flour, whole wheat, unenriched</skos:seeAlso>
     </owl:Class>
     
 
@@ -59491,8 +59491,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Wheat flour, white, all-purpose, enriched, bleached</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Flour, wheat, all-purpose, enriched, bleached</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20081.</skos:historyNote>
-        <skos:seeAlso>Flour, wheat, all-purpose, enriched, bleached</skos:seeAlso>
     </owl:Class>
     
 
@@ -59726,8 +59726,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Wheat flour, white, bread, enriched</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Flour, bread, white, enriched, unbleached</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20083.</skos:historyNote>
-        <skos:seeAlso>Flour, bread, white, enriched, unbleached</skos:seeAlso>
     </owl:Class>
     
 
@@ -60539,8 +60539,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Rice flour, brown</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Flour, rice, brown</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20090.</skos:historyNote>
-        <skos:seeAlso>Flour, rice, brown</skos:seeAlso>
     </owl:Class>
     
 
@@ -65121,8 +65121,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Barley flour or meal</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Flour, barley</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20130.</skos:historyNote>
-        <skos:seeAlso>Flour, barley</skos:seeAlso>
     </owl:Class>
     
 
@@ -66272,8 +66272,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Spelt, uncooked</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Flour, spelt, whole grain</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20140.</skos:historyNote>
-        <skos:seeAlso>Flour, spelt, whole grain</skos:seeAlso>
     </owl:Class>
     
 
@@ -70669,8 +70669,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Rice, white, long-grain, regular, raw, unenriched</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Rice, white, long grain, unenriched, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20444.</skos:historyNote>
-        <skos:seeAlso>Rice, white, long grain, unenriched, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -70804,8 +70804,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Salt, table</rdfs:label>
         <skos:hasTopConcept>Spices and Herbs</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Salt, table, iodized</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 2047.</skos:historyNote>
-        <skos:seeAlso>Salt, table, iodized</skos:seeAlso>
     </owl:Class>
     
 
@@ -70829,8 +70829,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Wheat flour, white, all-purpose, unenriched</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Flour, wheat, all-purpose, unenriched, unbleached</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20481.</skos:historyNote>
-        <skos:seeAlso>Flour, wheat, all-purpose, unenriched, unbleached</skos:seeAlso>
     </owl:Class>
     
 
@@ -70987,8 +70987,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Wheat flour, white, all-purpose, enriched, unbleached</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Flour, wheat, all-purpose, enriched, unbleached</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 20581.</skos:historyNote>
-        <skos:seeAlso>Flour, wheat, all-purpose, enriched, unbleached</skos:seeAlso>
     </owl:Class>
     
 
@@ -92972,8 +92972,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Oil, peanut, salad or cooking</rdfs:label>
         <skos:hasTopConcept>Fats and Oils</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Oil, peanut</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 4042.</skos:historyNote>
-        <skos:seeAlso>Oil, peanut</skos:seeAlso>
     </owl:Class>
     
 
@@ -92985,8 +92985,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Oil, soybean, salad or cooking</rdfs:label>
         <skos:hasTopConcept>Fats and Oils</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Oil, soybean</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 4044.</skos:historyNote>
-        <skos:seeAlso>Oil, soybean</skos:seeAlso>
     </owl:Class>
     
 
@@ -95101,8 +95101,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Cranberry juice, unsweetened</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Cranberry juice, not fortified, from concentrate, shelf stable</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 43382.</skos:historyNote>
-        <skos:seeAlso>Cranberry juice, not fortified, from concentrate, shelf stable</skos:seeAlso>
     </owl:Class>
     
 
@@ -95875,8 +95875,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Oil, safflower, salad or cooking, high oleic (primary safflower oil of commerce)</rdfs:label>
         <skos:hasTopConcept>Fats and Oils</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Oil, safflower</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 4511.</skos:historyNote>
-        <skos:seeAlso>Oil, safflower</skos:seeAlso>
     </owl:Class>
     
 
@@ -95948,8 +95948,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Oil, corn, industrial and retail, all purpose salad or cooking</rdfs:label>
         <skos:hasTopConcept>Fats and Oils</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Oil, corn</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 4518.</skos:historyNote>
-        <skos:seeAlso>Oil, corn</skos:seeAlso>
     </owl:Class>
     
 
@@ -100381,8 +100381,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Chicken, ground, raw</rdfs:label>
         <skos:hasTopConcept>Poultry Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Chicken, ground, with additives, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 5332.</skos:historyNote>
-        <skos:seeAlso>Chicken, ground, with additives, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -101069,8 +101069,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Turkey, ground, 93% lean, 7% fat, raw</rdfs:label>
         <skos:hasTopConcept>Poultry Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Turkey, ground, 93% lean/ 7% fat, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 5665.</skos:historyNote>
-        <skos:seeAlso>Turkey, ground, 93% lean/ 7% fat, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -101143,8 +101143,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, braised</rdfs:label>
         <skos:hasTopConcept>Poultry Products</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Chicken, broilers or fryers, drumstick, meat only, cooked, braised</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 5671.</skos:historyNote>
-        <skos:seeAlso>Chicken, broilers or fryers, drumstick, meat only, cooked, braised</skos:seeAlso>
     </owl:Class>
     
 
@@ -109417,8 +109417,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Bananas, raw</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Bananas, ripe and slightly ripe, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9040.</skos:historyNote>
-        <skos:seeAlso>Bananas, ripe and slightly ripe, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -109731,8 +109731,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Cherries, sweet, raw</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Cherries, sweet, dark red, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9070.</skos:historyNote>
-        <skos:seeAlso>Cherries, sweet, dark red, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -110384,8 +110384,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Grape juice, canned or bottled, unsweetened, with added ascorbic acid</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Grape juice, purple, with added vitamin C, from concentrate, shelf stable</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9130.</skos:historyNote>
-        <skos:seeAlso>Grape juice, purple, with added vitamin C, from concentrate, shelf stable</skos:seeAlso>
     </owl:Class>
     
 
@@ -110940,8 +110940,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Oranges, raw, navels (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Oranges, raw, navels</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9202.</skos:historyNote>
-        <skos:seeAlso>Oranges, raw, navels</skos:seeAlso>
     </owl:Class>
     
 
@@ -110977,8 +110977,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Orange juice, raw (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Orange juice, no pulp, not fortified, not from concentrate, refrigerated</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9206.</skos:historyNote>
-        <skos:seeAlso>Orange juice, no pulp, not fortified, not from concentrate, refrigerated</skos:seeAlso>
     </owl:Class>
     
 
@@ -111002,8 +111002,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Orange juice, chilled, includes from concentrate</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Orange juice, no pulp, not fortified, from concentrate, refrigerated</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9209.</skos:historyNote>
-        <skos:seeAlso>Orange juice, no pulp, not fortified, from concentrate, refrigerated</skos:seeAlso>
     </owl:Class>
     
 
@@ -111581,8 +111581,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Pineapple, raw, all varieties</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Pineapple, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9266.</skos:historyNote>
-        <skos:seeAlso>Pineapple, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -112402,8 +112402,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Apple juice, canned or bottled, unsweetened, with added ascorbic acid</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Apple juice, with added vitamin C, from concentrate, shelf stable</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9400.</skos:historyNote>
-        <skos:seeAlso>Apple juice, with added vitamin C, from concentrate, shelf stable</skos:seeAlso>
     </owl:Class>
     
 
@@ -112415,8 +112415,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Applesauce, canned, unsweetened, with added ascorbic acid</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Applesauce, unsweetened, with added vitamin C</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9401.</skos:historyNote>
-        <skos:seeAlso>Applesauce, unsweetened, with added vitamin C</skos:seeAlso>
     </owl:Class>
     
 
@@ -112512,8 +112512,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Pears, raw, bartlett (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Pears, raw, bartlett</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9412.</skos:historyNote>
-        <skos:seeAlso>Pears, raw, bartlett</skos:seeAlso>
     </owl:Class>
     
 
@@ -112862,8 +112862,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Apples, raw, red delicious, with skin (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Apples, red delicious, with skin, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9500.</skos:historyNote>
-        <skos:seeAlso>Apples, red delicious, with skin, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -112875,8 +112875,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Apples, raw, golden delicious, with skin</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Apples, honeycrisp, with skin, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9501.</skos:historyNote>
-        <skos:seeAlso>Apples, honeycrisp, with skin, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -112888,8 +112888,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Apples, raw, granny smith, with skin (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Apples, granny smith, with skin, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9502.</skos:historyNote>
-        <skos:seeAlso>Apples, granny smith, with skin, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -112901,8 +112901,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Apples, raw, gala, with skin (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Apples, gala, with skin, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9503.</skos:historyNote>
-        <skos:seeAlso>Apples, gala, with skin, raw</skos:seeAlso>
     </owl:Class>
     
 
@@ -112914,8 +112914,8 @@
         <terms:source>SR Legacy</terms:source>
         <rdfs:label xml:lang="en">Apples, raw, fuji, with skin (Includes foods for USDA&apos;s Food Distribution Program)</rdfs:label>
         <skos:hasTopConcept>Fruits and Fruit Juices</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Apples, fuji, with skin, raw</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 9504.</skos:historyNote>
-        <skos:seeAlso>Apples, fuji, with skin, raw</skos:seeAlso>
     </owl:Class>
     
 

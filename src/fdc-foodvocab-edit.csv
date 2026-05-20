@@ -1,5 +1,5 @@
 NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Comment,Definition,Definition Source,NDB History
-,ID,AL rdfs:label@en,SC % SPLIT=|,A dc:source SPLIT=|,A skos:hasTopConcept,AL skos:altLabel@en SPLIT=|,A skos:seeAlso,AL rdfs:comment@en,AL rdfs:definition@en,A rdfs:isDefinedBy,AL skos:historyNote@en
+,ID,AL rdfs:label@en,SC % SPLIT=|,A dc:source SPLIT=|,A skos:hasTopConcept,AL skos:altLabel@en SPLIT=|,AL skos:hiddenLabel@en SPLIT=|,AL rdfs:comment@en,AL rdfs:definition@en,A rdfs:isDefinedBy,AL skos:historyNote@en
 200000,FDCFOOD:200000,Dairy and Egg Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 100.
 200001,FDCFOOD:200001,Spices and Herbs,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 200.
 200002,FDCFOOD:200002,Baby Foods,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 300.

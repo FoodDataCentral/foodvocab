@@ -173,11 +173,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Butter, stick, salted"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1001."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Butter, stick, salted"
         } ]
       }
     }, {
@@ -2352,11 +2352,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Cheese, cheddar"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1009."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Cheese, cheddar"
         } ]
       }
     }, {
@@ -2803,11 +2803,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Cottage cheese, full fat, large or small curd"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1012."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Cottage cheese, full fat, large or small curd"
         } ]
       }
     }, {
@@ -3305,11 +3305,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Cream cheese, full fat, block"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1017."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Cream cheese, full fat, block"
         } ]
       }
     }, {
@@ -3644,11 +3644,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Cheese, feta, whole milk, crumbled"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1019."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Cheese, feta, whole milk, crumbled"
         } ]
       }
     }, {
@@ -4127,11 +4127,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Pork Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Pork, ground, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 10219."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Pork, ground, raw"
         } ]
       }
     }, {
@@ -4638,11 +4638,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Cheese, pasteurized process, American, vitamin D fortified"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1042."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Cheese, pasteurized process, American, vitamin D fortified"
         } ]
       }
     }, {
@@ -4801,11 +4801,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Cream, heavy"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1053."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Cream, heavy"
         } ]
       }
     }, {
@@ -4852,11 +4852,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Cream, sour, full fat"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1056."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Cream, sour, full fat"
         } ]
       }
     }, {
@@ -5795,11 +5795,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Buttermilk, low fat"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1088."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Buttermilk, low fat"
         } ]
       }
     }, {
@@ -8960,11 +8960,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Cabbage, green, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11109."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Cabbage, green, raw"
         } ]
       }
     }, {
@@ -9206,11 +9206,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Carrots, mature, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11124."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Carrots, mature, raw"
         } ]
       }
     }, {
@@ -9289,11 +9289,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Carrots, frozen, unprepared"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11130."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Carrots, frozen, unprepared"
         } ]
       }
     }, {
@@ -10648,11 +10648,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Eggs, Grade A, Large, egg whole"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1123."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Eggs, Grade A, Large, egg whole"
         } ]
       }
     }, {
@@ -10801,11 +10801,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Mushrooms, shiitake"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11238."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Mushrooms, shiitake"
         } ]
       }
     }, {
@@ -10836,11 +10836,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Eggs, Grade A, Large, egg white"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1124."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Eggs, Grade A, Large, egg white"
         } ]
       }
     }, {
@@ -10903,11 +10903,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Mushroom, portabella"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11243."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Mushroom, portabella"
         } ]
       }
     }, {
@@ -11018,11 +11018,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Eggs, Grade A, Large, egg yolk"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1125."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Eggs, Grade A, Large, egg yolk"
         } ]
       }
     }, {
@@ -11072,11 +11072,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Lettuce, iceberg, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11252."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Lettuce, iceberg, raw"
         } ]
       }
     }, {
@@ -11091,11 +11091,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Lettuce, leaf, green, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11253."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Lettuce, leaf, green, raw"
         } ]
       }
     }, {
@@ -11142,11 +11142,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Lettuce, leaf, red, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11257."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Lettuce, leaf, red, raw"
         } ]
       }
     }, {
@@ -11212,11 +11212,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Mushrooms, white button"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11260."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Mushrooms, white button"
         } ]
       }
     }, {
@@ -11295,11 +11295,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Mushroom, crimini"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11266."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Mushroom, crimini"
         } ]
       }
     }, {
@@ -12296,11 +12296,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Peppers, bell, green, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11333."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Peppers, bell, green, raw"
         } ]
       }
     }, {
@@ -13470,11 +13470,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Flour, potato"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11413."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Flour, potato"
         } ]
       }
     }, {
@@ -13921,11 +13921,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Butter, stick, unsalted"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1145."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Butter, stick, unsalted"
         } ]
       }
     }, {
@@ -14020,11 +14020,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Spinach, mature"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11457."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Spinach, mature"
         } ]
       }
     }, {
@@ -15079,11 +15079,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Tomato juice, with added ingredients, from concentrate, shelf stable"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11540."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Tomato juice, with added ingredients, from concentrate, shelf stable"
         } ]
       }
     }, {
@@ -16858,11 +16858,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Egg, whole, raw, frozen, pasteurized"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1171."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Egg, whole, raw, frozen, pasteurized"
         } ]
       }
     }, {
@@ -18739,11 +18739,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Peppers, bell, red, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11821."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Peppers, bell, red, raw"
         } ]
       }
     }, {
@@ -20879,11 +20879,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Mushroom, enoki"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11950."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Mushroom, enoki"
         } ]
       }
     }, {
@@ -20898,11 +20898,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Peppers, bell, yellow, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11951."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Peppers, bell, yellow, raw"
         } ]
       }
     }, {
@@ -21464,11 +21464,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Mushroom, oyster"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11987."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Mushroom, oyster"
         } ]
       }
     }, {
@@ -21579,11 +21579,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Vegetables and Vegetable Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Mushroom, maitake"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 11993."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Mushroom, maitake"
         } ]
       }
     }, {
@@ -21838,11 +21838,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Nut and Seed Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Seeds, pumpkin seeds (pepitas), raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 12014."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Seeds, pumpkin seeds (pepitas), raw"
         } ]
       }
     }, {
@@ -22033,11 +22033,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Nut and Seed Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Seeds, sunflower seed, kernel, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 12036."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Seeds, sunflower seed, kernel, raw"
         } ]
       }
     }, {
@@ -22228,11 +22228,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Nut and Seed Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Nuts, almonds, whole, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 12061."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Nuts, almonds, whole, raw"
         } ]
       }
     }, {
@@ -22794,11 +22794,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Nut and Seed Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Nuts, hazelnuts or filberts, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 12120."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Nuts, hazelnuts or filberts, raw"
         } ]
       }
     }, {
@@ -23040,11 +23040,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Nut and Seed Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Nuts, pecans, halves, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 12142."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Nuts, pecans, halves, raw"
         } ]
       }
     }, {
@@ -23107,11 +23107,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Nut and Seed Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Nuts, pine nuts, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 12147."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Nuts, pine nuts, raw"
         } ]
       }
     }, {
@@ -23209,11 +23209,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Nut and Seed Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Nuts, walnuts, English, halves, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 12155."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Nuts, walnuts, English, halves, raw"
         } ]
       }
     }, {
@@ -23551,11 +23551,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Nut and Seed Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Almond butter, creamy"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 12195."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Almond butter, creamy"
         } ]
       }
     }, {
@@ -23746,11 +23746,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Nut and Seed Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Flaxseed, ground"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 12220."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Flaxseed, ground"
         } ]
       }
     }, {
@@ -24299,11 +24299,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Dairy and Egg Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Yogurt, Greek, plain, nonfat"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 1256."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Yogurt, Greek, plain, nonfat"
         } ]
       }
     }, {
@@ -32397,11 +32397,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Beverages"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Almond milk, unsweetened, plain, shelf stable"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 14091."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Almond milk, unsweetened, plain, shelf stable"
         } ]
       }
     }, {
@@ -38150,11 +38150,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Finfish and Shellfish Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Fish, pollock, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 15066."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Fish, pollock, raw"
         } ]
       }
     }, {
@@ -39017,11 +39017,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Finfish and Shellfish Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Fish, tuna, light, canned in water, drained solids"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 15121."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Fish, tuna, light, canned in water, drained solids"
         } ]
       }
     }, {
@@ -42572,11 +42572,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Legumes and Legume Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Peanuts, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 16087."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Peanuts, raw"
         } ]
       }
     }, {
@@ -42751,11 +42751,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Legumes and Legume Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Peanut butter, creamy"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 16098."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Peanut butter, creamy"
         } ]
       }
     }, {
@@ -43010,11 +43010,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Legumes and Legume Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Flour, soy, full-fat"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 16115."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Flour, soy, full-fat"
         } ]
       }
     }, {
@@ -43045,11 +43045,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Legumes and Legume Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Flour, soy, defatted"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 16117."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Flour, soy, defatted"
         } ]
       }
     }, {
@@ -43915,11 +43915,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Legumes and Legume Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Soy milk, unsweetened, plain, shelf stable"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 16222."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Soy milk, unsweetened, plain, shelf stable"
         } ]
       }
     }, {
@@ -54110,11 +54110,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Baked Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Bread, white, commercially prepared"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 18069."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Bread, white, commercially prepared"
         } ]
       }
     }, {
@@ -67854,11 +67854,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Buckwheat, whole grain"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20008."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Buckwheat, whole grain"
         } ]
       }
     }, {
@@ -68211,11 +68211,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Flour, buckwheat"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20011."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Flour, buckwheat"
         } ]
       }
     }, {
@@ -70646,11 +70646,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Millet, whole grain"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20031."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Millet, whole grain"
         } ]
       }
     }, {
@@ -71270,11 +71270,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Rice, brown, long grain, unenriched, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20036."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Rice, brown, long grain, unenriched, raw"
         } ]
       }
     }, {
@@ -71499,11 +71499,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Oats, whole grain, rolled, old fashioned"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20038."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Oats, whole grain, rolled, old fashioned"
         } ]
       }
     }, {
@@ -74229,11 +74229,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Flour, rice, white, unenriched"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20061."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Flour, rice, white, unenriched"
         } ]
       }
     }, {
@@ -76598,11 +76598,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Flour, whole wheat, unenriched"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20080."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Flour, whole wheat, unenriched"
         } ]
       }
     }, {
@@ -76718,11 +76718,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Flour, wheat, all-purpose, enriched, bleached"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20081."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Flour, wheat, all-purpose, enriched, bleached"
         } ]
       }
     }, {
@@ -76969,11 +76969,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Flour, bread, white, enriched, unbleached"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20083."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Flour, bread, white, enriched, unbleached"
         } ]
       }
     }, {
@@ -77835,11 +77835,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Flour, rice, brown"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20090."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Flour, rice, brown"
         } ]
       }
     }, {
@@ -82738,11 +82738,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Flour, barley"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20130."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Flour, barley"
         } ]
       }
     }, {
@@ -83947,11 +83947,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Flour, spelt, whole grain"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20140."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Flour, spelt, whole grain"
         } ]
       }
     }, {
@@ -88516,11 +88516,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Rice, white, long grain, unenriched, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20444."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Rice, white, long grain, unenriched, raw"
         } ]
       }
     }, {
@@ -88698,11 +88698,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Spices and Herbs"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Salt, table, iodized"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 2047."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Salt, table, iodized"
         } ]
       }
     }, {
@@ -88733,11 +88733,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Flour, wheat, all-purpose, unenriched, unbleached"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20481."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Flour, wheat, all-purpose, unenriched, unbleached"
         } ]
       }
     }, {
@@ -88944,11 +88944,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Cereal Grains and Pasta"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Flour, wheat, all-purpose, enriched, unbleached"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 20581."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Flour, wheat, all-purpose, enriched, unbleached"
         } ]
       }
     }, {
@@ -118069,11 +118069,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fats and Oils"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Oil, peanut"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 4042."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Oil, peanut"
         } ]
       }
     }, {
@@ -118088,11 +118088,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fats and Oils"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Oil, soybean"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 4044."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Oil, soybean"
         } ]
       }
     }, {
@@ -120896,11 +120896,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Cranberry juice, not fortified, from concentrate, shelf stable"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 43382."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Cranberry juice, not fortified, from concentrate, shelf stable"
         } ]
       }
     }, {
@@ -121923,11 +121923,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fats and Oils"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Oil, safflower"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 4511."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Oil, safflower"
         } ]
       }
     }, {
@@ -122022,11 +122022,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fats and Oils"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Oil, corn"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 4518."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Oil, corn"
         } ]
       }
     }, {
@@ -127919,11 +127919,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Poultry Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Chicken, ground, with additives, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 5332."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Chicken, ground, with additives, raw"
         } ]
       }
     }, {
@@ -128834,11 +128834,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Poultry Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Turkey, ground, 93% lean/ 7% fat, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 5665."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Turkey, ground, 93% lean/ 7% fat, raw"
         } ]
       }
     }, {
@@ -128936,11 +128936,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Poultry Products"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Chicken, broilers or fryers, drumstick, meat only, cooked, braised"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 5671."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Chicken, broilers or fryers, drumstick, meat only, cooked, braised"
         } ]
       }
     }, {
@@ -139859,11 +139859,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Bananas, ripe and slightly ripe, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9040."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Bananas, ripe and slightly ripe, raw"
         } ]
       }
     }, {
@@ -140281,11 +140281,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Cherries, sweet, dark red, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9070."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Cherries, sweet, dark red, raw"
         } ]
       }
     }, {
@@ -141160,11 +141160,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Grape juice, purple, with added vitamin C, from concentrate, shelf stable"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9130."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Grape juice, purple, with added vitamin C, from concentrate, shelf stable"
         } ]
       }
     }, {
@@ -141908,11 +141908,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Oranges, raw, navels"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9202."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Oranges, raw, navels"
         } ]
       }
     }, {
@@ -141959,11 +141959,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Orange juice, no pulp, not fortified, not from concentrate, refrigerated"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9206."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Orange juice, no pulp, not fortified, not from concentrate, refrigerated"
         } ]
       }
     }, {
@@ -141994,11 +141994,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Orange juice, no pulp, not fortified, from concentrate, refrigerated"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9209."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Orange juice, no pulp, not fortified, from concentrate, refrigerated"
         } ]
       }
     }, {
@@ -142768,11 +142768,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Pineapple, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9266."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Pineapple, raw"
         } ]
       }
     }, {
@@ -143865,11 +143865,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Apple juice, with added vitamin C, from concentrate, shelf stable"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9400."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Apple juice, with added vitamin C, from concentrate, shelf stable"
         } ]
       }
     }, {
@@ -143884,11 +143884,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Applesauce, unsweetened, with added vitamin C"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9401."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Applesauce, unsweetened, with added vitamin C"
         } ]
       }
     }, {
@@ -144015,11 +144015,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Pears, raw, bartlett"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9412."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Pears, raw, bartlett"
         } ]
       }
     }, {
@@ -144482,11 +144482,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Apples, red delicious, with skin, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9500."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Apples, red delicious, with skin, raw"
         } ]
       }
     }, {
@@ -144501,11 +144501,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Apples, honeycrisp, with skin, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9501."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Apples, honeycrisp, with skin, raw"
         } ]
       }
     }, {
@@ -144520,11 +144520,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Apples, granny smith, with skin, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9502."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Apples, granny smith, with skin, raw"
         } ]
       }
     }, {
@@ -144539,11 +144539,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Apples, gala, with skin, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9503."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Apples, gala, with skin, raw"
         } ]
       }
     }, {
@@ -144558,11 +144558,11 @@
           "pred" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
           "val" : "Fruits and Fruit Juices"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Apples, fuji, with skin, raw"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
           "val" : "NDB number 9504."
-        }, {
-          "pred" : "http://www.w3.org/2004/02/skos/core#seeAlso",
-          "val" : "Apples, fuji, with skin, raw"
         } ]
       }
     }, {
