@@ -51,7 +51,7 @@ robot convert --input release/fdc-foodvocab.owl --prefix "FDCFOOD:https://fdc.na
 
 **Update the `CSV` file**
 ```
-robot export --input release/fdc-foodvocab.owl --prefix "FDCFOOD:https://fdc.nal.usda.gov/vocab/FDCFOOD_" --header "ID|LABEL|SubClass Of|source|hasTopConcept|altLabel|IRI|seeAlso|comment|definition|isDefinedBy|historyNote|" --sort "SubClass Of" --strict --export release/fdc-foodvocab.csv
+robot export --input release/fdc-foodvocab.owl --prefix "FDCFOOD:https://fdc.nal.usda.gov/vocab/FDCFOOD_" --header "ID|LABEL|SubClass Of|source|hasTopConcept|altLabel|IRI|hiddenLabel|comment|definition|isDefinedBy|historyNote|" --sort "SubClass Of" --strict --export release/fdc-foodvocab.csv
 ```
 
 ## Contact
