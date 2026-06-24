@@ -29,7 +29,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 200026,,Quality Control Materials,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 2600. Deprecated
 200027,FDCFOOD:200027,Alcoholic Beverages,"Beverages|Beverages, fermented",FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 1410.
 200028,FDCFOOD:200028,Cheese,Dairy product,FDC vocabulary upgrade,,,,,,,
-200029,FDCFOOD:200029,"Cheese, cheddar",Cheese,FDC vocabulary upgrade,,,,,,,
+200029,,"Cheese, cheddar",Cheese,FDC vocabulary upgrade,,,,,,,
 200030,FDCFOOD:200030,"Cheese, cottage",Cheese,FDC vocabulary upgrade,,,,,,,
 200031,FDCFOOD:200031,"Cheese, goat",Cheese,FDC vocabulary upgrade,,,,,,,
 200032,FDCFOOD:200032,"Cheese, Hispanic-style",Cheese,FDC vocabulary upgrade,,"Cheese, Mexican",,,,,
@@ -165,7 +165,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 200163,FDCFOOD:200163,"Oil, soy",Plant oil,FDC vocabulary upgrade,,,,,,,
 200164,FDCFOOD:200164,Plant oil blend,Plant oil,FDC vocabulary upgrade,,,,,,,
 200165,FDCFOOD:200165,"Oil, olive",Plant oil,FDC vocabulary upgrade,,,,,,,
-200166,FDCFOOD:200166,"Oil, safflower",Plant oil,FDC vocabulary upgrade,,,,,,,
+200166,,"Oil, safflower",Plant oil,FDC vocabulary upgrade,,,,,,,
 200167,FDCFOOD:200167,"Oil, cottonseed",Plant oil,FDC vocabulary upgrade,,,,,,,
 200168,FDCFOOD:200168,"Oil, flaxseed",Plant oil,FDC vocabulary upgrade,,,,,,,
 200169,FDCFOOD:200169,Seed flour,Flour|Nut and Seed Products,FDC vocabulary upgrade,,,,,,,
@@ -232,9 +232,9 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 200230,FDCFOOD:200230,Crustaceans,Finfish and Shellfish Products,FDC vocabulary upgrade,,,,Crustacea,,,
 200231,FDCFOOD:200231,Crab,Crustaceans,FDC vocabulary upgrade,,,,Brachyura,,,
 200232,FDCFOOD:200232,Alaska king crab,Crab,FDC vocabulary upgrade,,,,Paralithodes camtschaticus,,,
-200233,FDCFOOD:200233,Blue crab,Crab,FDC vocabulary upgrade,,,,Callinectes sapidus,,,
+200233,FDCFOOD:200233,Blue crab,Crab,FDC vocabulary upgrade,,blue swimmer crab|blue manna crab|flower crab|Portunus pelagicus,,Callinectes sapidus,,,
 200234,FDCFOOD:200234,Dungeness crab,Crab,FDC vocabulary upgrade,,,,Metacarcinus magister,,,
-200235,FDCFOOD:200235,Queen crab,Crab,FDC vocabulary upgrade,,,,Chionoecetes,,,
+200235,FDCFOOD:200235,Snow crab,Crab,FDC vocabulary upgrade,,Queen crab|Chionoecetes,,,,,
 200236,FDCFOOD:200236,Crayfish,Crustaceans,FDC vocabulary upgrade,,,,Astacidea,,,
 200237,FDCFOOD:200237,Lobster,Crustaceans,FDC vocabulary upgrade,,,,Nephropidae,,,
 200238,FDCFOOD:200238,Shrimp,Crustaceans,FDC vocabulary upgrade,,,,Various taxonomic groups,,,
@@ -1765,7 +1765,24 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 201765,FDCFOOD:201765,Beef spleen,Beef offal,FDC vocabulary upgrade,,,,,,,
 201766,FDCFOOD:201766,Beef suet,Beef fat,FDC vocabulary upgrade,,,,,,,
 201767,FDCFOOD:201767,Beef thymus,Beef offal,FDC vocabulary upgrade,,Beef sweetbread,,,,,
-,,,,,,,,,,,
+201768,FDCFOOD:201768,"Cheese, cream",Cheese,FDC vocabulary upgrade,,,,,,,
+201769,FDCFOOD:201769,"Nuts, almonds",Nuts|Almond-derived foods,FDC vocabulary upgrade,,,,,,,
+201770,FDCFOOD:201770,"Nuts, hazelnuts or filberts",Nuts,FDC vocabulary upgrade,,,,,,,
+201771,FDCFOOD:201771,"Nuts, pecans",Nuts,FDC vocabulary upgrade,,,,,,,
+201772,FDCFOOD:201772,Buckwheat,Cereal grains,FDC vocabulary upgrade,,,,,,,
+201773,FDCFOOD:201773,Black rice,Rice,FDC vocabulary upgrade,,,,,,,
+201774,FDCFOOD:201774,Red rice,Rice,FDC vocabulary upgrade,,,,,,,
+201775,FDCFOOD:201775,Farro,Wheat,FDC vocabulary upgrade,,,,,,,
+201776,FDCFOOD:201776,Einkorn,Farro,FDC vocabulary upgrade,,,,,,,
+201777,FDCFOOD:201777,Fonio,Cereal grains,FDC vocabulary upgrade,,,,,,,
+201778,FDCFOOD:201778,Sorghum bran,Cereal grain bran,FDC vocabulary upgrade,,,,,,,
+201779,FDCFOOD:201779,Pawpaw,Fruits,FDC vocabulary upgrade,,American papaw|paw paw|paw-paw|Asimina triloba,,,,,
+201780,FDCFOOD:201780,Prune juice,Fruit juices,FDC vocabulary upgrade,,,,,,,
+201781,FDCFOOD:201781,Pomegranate juice,Fruit juices,FDC vocabulary upgrade,,,,,,,
+201782,FDCFOOD:201782,Poblano pepper,Chili pepper,FDC vocabulary upgrade,,,,,,,
+201783,FDCFOOD:201783,Serrano pepper,Chili pepper,FDC vocabulary upgrade,,,,,,,
+201784,FDCFOOD:201784,Chilean sea bass,Fish,FDC vocabulary upgrade,,Patagonian toothfish|Dissostichus eleginoides,,,,,
+201785,FDCFOOD:201785,Rhubarb stalk,Rhubarb,FDC vocabulary upgrade,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
@@ -1942,9 +1959,9 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 43260,FDCFOOD:43260,"Beverage, instant breakfast powder, chocolate, sugar-free, not reconstituted","Beverages, dairy beverage|Beverages, chocolate beverage mix, powder",SR Legacy,Dairy and Egg Products,,,,,,NDB number 43260.
 1003,FDCFOOD:1003,"Butter oil, anhydrous",Butter oil,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1003.
 1323,FDCFOOD:1323,"Butter, Clarified butter (ghee)",Butter oil,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1323.
-1001,FDCFOOD:1001,"Butter, salted",Butter,SR Legacy,Dairy and Egg Products,,"Butter, stick, salted",,,,NDB number 1001.
+1001,FDCFOOD:1001,"Butter, stick, salted",Butter,SR Legacy|Foundation Foods,Dairy and Egg Products,,"Butter, salted",,,,NDB number 1001.
 1002,FDCFOOD:1002,"Butter, whipped, with salt",Butter,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1002.
-1145,FDCFOOD:1145,"Butter, without salt",Butter,SR Legacy,Dairy and Egg Products,,"Butter, stick, unsalted",,,,NDB number 1145.
+1145,FDCFOOD:1145,"Butter, stick, unsalted",Butter,SR Legacy|Foundation Foods,Dairy and Egg Products,,"Butter, without salt",,,,NDB number 1145.
 1045,FDCFOOD:1045,"Cheese food, cold pack, American",Cheese spread,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1045.
 1046,FDCFOOD:1046,"Cheese food, pasteurized process, American, vitamin D fortified",pasteurized process American cheese food,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1046.
 1254,FDCFOOD:1254,"Cheese food, pasteurized process, American, without added vitamin D",pasteurized process American cheese food,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1254.
@@ -1964,13 +1981,13 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 1006,FDCFOOD:1006,"Cheese, brie",Cheese,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1006.
 1007,FDCFOOD:1007,"Cheese, camembert",Cheese,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1007.
 1008,FDCFOOD:1008,"Cheese, caraway",Cheese,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1008.
-1009,FDCFOOD:1009,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)","Cheese, cheddar",SR Legacy,Dairy and Egg Products,,"Cheese, cheddar",,,,NDB number 1009.
+1009,FDCFOOD:1009,"Cheese, cheddar",Cheese,SR Legacy|Foundation Foods,Dairy and Egg Products,,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",,,,NDB number 1009.
 1265,FDCFOOD:1265,"Cheese, cheddar, nonfat or fat free","Cheese, cheddar",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1265.
 1260,FDCFOOD:1260,"Cheese, cheddar, reduced fat (Includes foods for USDA's Food Distribution Program)","Cheese, cheddar",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1260.
 1270,FDCFOOD:1270,"Cheese, cheddar, sharp, sliced","Cheese, cheddar",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1270.
 1010,FDCFOOD:1010,"Cheese, cheshire",Cheese,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1010.
 1011,FDCFOOD:1011,"Cheese, colby",Cheese,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1011.
-1012,FDCFOOD:1012,"Cheese, cottage, creamed, large or small curd","Cheese, cottage",SR Legacy,Dairy and Egg Products,,"Cottage cheese, full fat, large or small curd",,,,NDB number 1012.
+1012,FDCFOOD:1012,"Cottage cheese, full fat, large or small curd","Cheese, cottage",SR Legacy|Foundation Foods,Dairy and Egg Products,,"Cheese, cottage, creamed, large or small curd",,,,NDB number 1012.
 1013,FDCFOOD:1013,"Cheese, cottage, creamed, with fruit","Cheese, cottage",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1013.
 1016,FDCFOOD:1016,"Cheese, cottage, lowfat, 1% milkfat","Cheese, cottage",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1016.
 42235,FDCFOOD:42235,"Cheese, cottage, lowfat, 1% milkfat, lactose reduced","Cheese, cottage",SR Legacy,Dairy and Egg Products,,,,,,NDB number 42235.
@@ -1979,12 +1996,12 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 1015,FDCFOOD:1015,"Cheese, cottage, lowfat, 2% milkfat","Cheese, cottage",SR Legacy|Foundation Foods,Dairy and Egg Products,,,,,,NDB number 1015.
 1014,FDCFOOD:1014,"Cheese, cottage, nonfat, uncreamed, dry, large or small curd","Cheese, cottage",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1014.
 43273,FDCFOOD:43273,"Cheese, cottage, with vegetables","Cheese, cottage",SR Legacy,Dairy and Egg Products,,,,,,NDB number 43273.
-1017,FDCFOOD:1017,"Cheese, cream",Cheese,SR Legacy,Dairy and Egg Products,,"Cream cheese, full fat, block",,,,NDB number 1017.
+1017,FDCFOOD:1017,"Cream cheese, full fat, block",Cheese,SR Legacy|Foundation Foods,Dairy and Egg Products,,"Cheese, cream",,,,NDB number 1017.
 1186,FDCFOOD:1186,"Cheese, cream, fat free","Cheese, cream",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1186.
 43274,FDCFOOD:43274,"Cheese, cream, low fat","Cheese, cream",SR Legacy,Dairy and Egg Products,,,,,,NDB number 43274.
 1227,FDCFOOD:1227,"Cheese, dry white, queso seco","Cheese, white",SR Legacy|Foundation Foods,Dairy and Egg Products,,,,,,NDB number 1227.
 1018,FDCFOOD:1018,"Cheese, edam",Cheese,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1018.
-1019,FDCFOOD:1019,"Cheese, feta",Cheese,SR Legacy,Dairy and Egg Products,,"Cheese, feta, whole milk, crumbled",,,,NDB number 1019.
+1019,FDCFOOD:1019,"Cheese, feta, whole milk, crumbled",Cheese,SR Legacy|Foundation Foods,Dairy and Egg Products,,"Cheese, feta",,,,NDB number 1019.
 1020,FDCFOOD:1020,"Cheese, fontina",Cheese,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1020.
 1228,FDCFOOD:1228,"Cheese, fresh, queso fresco",Cheese,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1228.
 1021,FDCFOOD:1021,"Cheese, gjetost",Cheese,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1021.
@@ -2020,7 +2037,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 1033,FDCFOOD:1033,"Cheese, parmesan, hard","Cheese, parmesan",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1033.
 43340,FDCFOOD:43340,"Cheese, parmesan, low sodium","Cheese, parmesan",SR Legacy,Dairy and Egg Products,,,,,,NDB number 43340.
 1146,FDCFOOD:1146,"Cheese, parmesan, shredded","Cheese, parmesan",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1146.
-1042,FDCFOOD:1042,"Cheese, pasteurized process, American, fortified with vitamin D",pasteurized process American cheese,SR Legacy,Dairy and Egg Products,,"Cheese, pasteurized process, American, vitamin D fortified",,,,NDB number 1042.
+1042,FDCFOOD:1042,"Cheese, pasteurized process, American, vitamin D fortified",pasteurized process American cheese,SR Legacy|Foundation Foods,Dairy and Egg Products,,"Cheese, pasteurized process, American, fortified with vitamin D",,,,NDB number 1042.
 43275,FDCFOOD:43275,"Cheese, pasteurized process, American, low fat",pasteurized process American cheese,SR Legacy,Dairy and Egg Products,,,,,,NDB number 43275.
 1253,FDCFOOD:1253,"Cheese, pasteurized process, American, without added vitamin D",pasteurized process American cheese,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1253.
 43398,FDCFOOD:43398,"Cheese, pasteurized process, cheddar or American, low sodium",pasteurized process cheese,SR Legacy,Dairy and Egg Products,,,,,,NDB number 43398.
@@ -2047,12 +2064,12 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 1069,FDCFOOD:1069,"Cream substitute, powdered",Cream substitute,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1069.
 42136,FDCFOOD:42136,"Cream substitute, powdered, light",Cream substitute,SR Legacy,Dairy and Egg Products,,,,,,NDB number 42136.
 1049,FDCFOOD:1049,"Cream, fluid, half and half","Cream, fluid",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1049.
-1053,FDCFOOD:1053,"Cream, fluid, heavy whipping","Cream, fluid",SR Legacy,Dairy and Egg Products,,"Cream, heavy",,,,NDB number 1053.
+1053,FDCFOOD:1053,"Cream, heavy","Cream, fluid",SR Legacy|Foundation Foods,Dairy and Egg Products,,"Cream, fluid, heavy whipping",,,,NDB number 1053.
 1050,FDCFOOD:1050,"Cream, fluid, light (coffee cream or table cream)","Cream, fluid",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1050.
 1052,FDCFOOD:1052,"Cream, fluid, light whipping","Cream, fluid",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1052.
 1199,FDCFOOD:1199,"Cream, half and half, fat free","Cream, fluid, half and half",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1199.
 1303,FDCFOOD:1303,"Cream, half and half, lowfat","Cream, fluid, half and half",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1303.
-1056,FDCFOOD:1056,"Cream, sour, cultured","Cream, sour",SR Legacy,Dairy and Egg Products,,"Cream, sour, full fat",,,,NDB number 1056.
+1056,FDCFOOD:1056,"Cream, sour, full fat","Cream, sour",SR Legacy|Foundation Foods,Dairy and Egg Products,,"Cream, sour, cultured",,,,NDB number 1056.
 1055,FDCFOOD:1055,"Cream, sour, reduced fat, cultured","Cream, sour",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1055.
 1054,FDCFOOD:1054,"Cream, whipped, cream topping, pressurized",Cream,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1054.
 1070,FDCFOOD:1070,"Dessert topping, powdered",Dairy topping,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1070.
@@ -2070,7 +2087,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 1135,FDCFOOD:1135,"Egg, white, dried, flakes, stabilized, glucose reduced","Egg, white, dried",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1135.
 1136,FDCFOOD:1136,"Egg, white, dried, powder, stabilized, glucose reduced","Egg, white, dried",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1136.
 1258,FDCFOOD:1258,"Egg, white, dried, stabilized, glucose reduced","Egg, white, dried",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1258.
-1124,FDCFOOD:1124,"Egg, white, raw, fresh","Egg, white",SR Legacy,Dairy and Egg Products,,"Eggs, Grade A, Large, egg white",,,,NDB number 1124.
+1124,FDCFOOD:1124,"Eggs, Grade A, Large, egg white","Egg, white",SR Legacy|Foundation Foods,Dairy and Egg Products,,"Egg, white, raw, fresh",,,,NDB number 1124.
 1172,FDCFOOD:1172,"Egg, white, raw, frozen, pasteurized","Egg, white",SR Legacy|Foundation Foods,Dairy and Egg Products,,,,,,NDB number 1172.
 1128,FDCFOOD:1128,"Egg, whole, cooked, fried","Egg, whole",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1128.
 1129,FDCFOOD:1129,"Egg, whole, cooked, hard-boiled","Egg, whole",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1129.
@@ -2079,11 +2096,11 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 1132,FDCFOOD:1132,"Egg, whole, cooked, scrambled","Egg, whole",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1132.
 1133,FDCFOOD:1133,"Egg, whole, dried","Egg, whole",SR Legacy|Foundation Foods,Dairy and Egg Products,,,,,,NDB number 1133.
 1134,FDCFOOD:1134,"Egg, whole, dried, stabilized, glucose reduced","Egg, whole",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1134.
-1123,FDCFOOD:1123,"Egg, whole, raw, fresh","Egg, whole",SR Legacy,Dairy and Egg Products,,"Eggs, Grade A, Large, egg whole",,,,NDB number 1123.
-1171,FDCFOOD:1171,"Egg, whole, raw, frozen, pasteurized (Includes foods for USDA's Food Distribution Program)","Egg, whole",SR Legacy,Dairy and Egg Products,,"Egg, whole, raw, frozen, pasteurized",,,,NDB number 1171.
+1123,FDCFOOD:1123,"Eggs, Grade A, Large, egg whole","Egg, whole",SR Legacy|Foundation Foods,Dairy and Egg Products,,"Egg, whole, raw, fresh",,,,NDB number 1123.
+1171,FDCFOOD:1171,"Egg, whole, raw, frozen, pasteurized","Egg, whole",SR Legacy|Foundation Foods,Dairy and Egg Products,,"Egg, whole, raw, frozen, pasteurized (Includes foods for USDA's Food Distribution Program)",,,,NDB number 1171.
 1255,FDCFOOD:1255,"Egg, whole, raw, frozen, salted, pasteurized","Egg, whole",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1255.
 1137,FDCFOOD:1137,"Egg, yolk, dried","Egg, yolk",SR Legacy|Foundation Foods,Dairy and Egg Products,,,,,,NDB number 1137.
-1125,FDCFOOD:1125,"Egg, yolk, raw, fresh","Egg, yolk",SR Legacy,Dairy and Egg Products,,"Eggs, Grade A, Large, egg yolk",,,,NDB number 1125.
+1125,FDCFOOD:1125,"Eggs, Grade A, Large, egg yolk","Egg, yolk",SR Legacy|Foundation Foods,Dairy and Egg Products,,"Egg, yolk, raw, fresh",,,,NDB number 1125.
 1126,FDCFOOD:1126,"Egg, yolk, raw, frozen, pasteurized","Egg, yolk",SR Legacy|Foundation Foods,Dairy and Egg Products,,,,,,NDB number 1126.
 1160,FDCFOOD:1160,"Egg, yolk, raw, frozen, salted, pasteurized","Egg, yolk",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1160.
 1127,FDCFOOD:1127,"Egg, yolk, raw, frozen, sugared, pasteurized","Egg, yolk",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1127.
@@ -2118,10 +2135,10 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 1111,FDCFOOD:1111,"Milk shakes, thick vanilla",Milkshakes,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1111.
 1076,FDCFOOD:1076,"Milk substitutes, fluid, with lauric acid oil",Milk substitute,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1076.
 1094,FDCFOOD:1094,"Milk, buttermilk, dried",Buttermilk,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1094.
-1088,FDCFOOD:1088,"Milk, buttermilk, fluid, cultured, lowfat",Buttermilk,SR Legacy,Dairy and Egg Products,,"Buttermilk, low fat",,,,NDB number 1088.
+1088,FDCFOOD:1088,"Buttermilk, low fat",Buttermilk,SR Legacy|Foundation Foods,Dairy and Egg Products,,"Milk, buttermilk, fluid, cultured, lowfat",,,,NDB number 1088.
 42189,FDCFOOD:42189,"Milk, buttermilk, fluid, cultured, reduced fat",Buttermilk,SR Legacy,Dairy and Egg Products,,,,,,NDB number 42189.
 1230,FDCFOOD:1230,"Milk, buttermilk, fluid, whole",Buttermilk,SR Legacy,Dairy and Egg Products,,,,,,NDB number 1230.
-1095,FDCFOOD:1095,"Milk, canned, condensed, sweetened","Milk, canned",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1095.
+1095,FDCFOOD:1095,Sweetened condensed milk,"Milk, canned",SR Legacy|Foundation Foods,Dairy and Egg Products,,"Milk, canned, condensed, sweetened",,,,NDB number 1095.
 1097,FDCFOOD:1097,"Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D","Milk, canned",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1097.
 1153,FDCFOOD:1153,"Milk, canned, evaporated, with added vitamin A","Milk, canned",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1153.
 1096,FDCFOOD:1096,"Milk, canned, evaporated, with added vitamin D and without added vitamin A","Milk, canned",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1096.
@@ -2214,7 +2231,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 1275,FDCFOOD:1275,"Yogurt, Greek, nonfat, vanilla, CHOBANI","Yogurt, Greek, nonfat",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1275.
 1278,FDCFOOD:1278,"Yogurt, Greek, nonfat, vanilla, DANNON OIKOS","Yogurt, Greek, nonfat",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1278.
 1287,FDCFOOD:1287,"Yogurt, Greek, plain, lowfat","Yogurt, Greek, plain",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1287.
-1256,FDCFOOD:1256,"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)","Yogurt, Greek, plain",SR Legacy,Dairy and Egg Products,,"Yogurt, Greek, plain, nonfat",,,,NDB number 1256.
+1256,FDCFOOD:1256,"Yogurt, Greek, plain, nonfat","Yogurt, Greek, plain",SR Legacy|Foundation Foods,Dairy and Egg Products,,"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)",,,,NDB number 1256.
 1293,FDCFOOD:1293,"Yogurt, Greek, plain, whole milk","Yogurt, Greek, plain",SR Legacy|Foundation Foods,Dairy and Egg Products,,,,,,NDB number 1293.
 1276,FDCFOOD:1276,"Yogurt, Greek, strawberry, DANNON OIKOS","Yogurt, Greek, fruit",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1276.
 1284,FDCFOOD:1284,"Yogurt, Greek, strawberry, lowfat","Yogurt, Greek, fruit",SR Legacy,Dairy and Egg Products,,,,,,NDB number 1284.
@@ -2307,7 +2324,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 14056,FDCFOOD:14056,"Beverages, Acai berry drink, fortified","Beverages, fruit juice drink",SR Legacy,Beverages,,,,,,NDB number 14056.
 14054,FDCFOOD:14054,"Beverages, almond milk, chocolate, ready-to-drink",Almond milk,SR Legacy,Beverages,,,,,,NDB number 14054.
 14016,FDCFOOD:14016,"Beverages, almond milk, sweetened, vanilla flavor, ready-to-drink",Almond milk,SR Legacy,Beverages,,,,,,NDB number 14016.
-14091,FDCFOOD:14091,"Beverages, almond milk, unsweetened, shelf stable",Almond milk,SR Legacy,Beverages,,"Almond milk, unsweetened, plain, shelf stable",,,,NDB number 14091.
+14091,FDCFOOD:14091,"Almond milk, unsweetened, plain, shelf stable",Almond milk,SR Legacy|Foundation Foods,Beverages,,"Beverages, almond milk, unsweetened, shelf stable",,,,NDB number 14091.
 14216,FDCFOOD:14216,"Beverages, aloe vera juice drink, fortified with Vitamin C","Beverages, fruit juice drink",SR Legacy,Beverages,,,,,,NDB number 14216.
 14250,FDCFOOD:14250,"Beverages, AMBER, hard cider",Alcoholic Beverages,SR Legacy,Beverages,,,,,,NDB number 14250.
 14162,FDCFOOD:14162,"Beverages, Apple juice drink, light, fortified with vitamin C","Beverages, fruit juice drink",SR Legacy,Beverages,,,,,,NDB number 14162.
@@ -2606,7 +2623,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 2046,FDCFOOD:2046,"Mustard, prepared, yellow",Spices,SR Legacy|Foundation Foods,Spices and Herbs,,,,,,NDB number 2046.
 2064,FDCFOOD:2064,"Peppermint, fresh","Herbs, fresh",SR Legacy,Spices and Herbs,,,,,,NDB number 2064.
 2063,FDCFOOD:2063,"Rosemary, fresh","Herbs, fresh",SR Legacy,Spices and Herbs,,,,,,NDB number 2063.
-2047,FDCFOOD:2047,"Salt, table",Spices,SR Legacy,Spices and Herbs,,"Salt, table, iodized",,,,NDB number 2047.
+2047,FDCFOOD:2047,"Salt, table, iodized",Spices,SR Legacy|Foundation Foods,Spices and Herbs,,"Salt, table",,,,NDB number 2047.
 2076,FDCFOOD:2076,"Seasoning mix, dry, chili, original",Seasoning mix,SR Legacy,Spices and Herbs,,,,,,NDB number 2076.
 2074,FDCFOOD:2074,"Seasoning mix, dry, sazon, coriander & annatto",Seasoning mix,SR Legacy,Spices and Herbs,,,,,,NDB number 2074.
 2075,FDCFOOD:2075,"Seasoning mix, dry, taco, original",Seasoning mix,SR Legacy,Spices and Herbs,,,,,,NDB number 2075.
@@ -2738,7 +2755,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 4047,FDCFOOD:4047,"Oil, coconut",Plant oil,SR Legacy|Foundation Foods,Fats and Oils,,,,,,NDB number 4047.
 4685,FDCFOOD:4685,"Oil, cooking and salad, ENOVA, 80% diglycerides",Plant oil blend,SR Legacy,Fats and Oils,,,,,,NDB number 4685.
 42289,FDCFOOD:42289,"Oil, corn and canola",Plant oil blend,SR Legacy,Fats and Oils,,,,,,NDB number 42289.
-4518,FDCFOOD:4518,"Oil, corn, industrial and retail, all purpose salad or cooking",Plant oil,SR Legacy,Fats and Oils,,"Oil, corn",,,,NDB number 4518.
+4518,FDCFOOD:4518,"Oil, corn",Plant oil,SR Legacy|Foundation Foods,Fats and Oils,,"Oil, corn, industrial and retail, all purpose salad or cooking",,,,NDB number 4518.
 44005,FDCFOOD:44005,"Oil, corn, peanut, and olive",Plant oil blend,SR Legacy,Fats and Oils,,,,,,NDB number 44005.
 4502,FDCFOOD:4502,"Oil, cottonseed, salad or cooking","Oil, cottonseed",SR Legacy,Fats and Oils,,,,,,NDB number 4502.
 4541,FDCFOOD:4541,"Oil, cupu assu",Plant oil,SR Legacy,Fats and Oils,,,,,,NDB number 4541.
@@ -2779,15 +2796,15 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 4053,FDCFOOD:4053,"Oil, olive, salad or cooking","Oil, olive",SR Legacy,Fats and Oils,,,,,,NDB number 4053.
 4055,FDCFOOD:4055,"Oil, palm",Plant oil,SR Legacy,Fats and Oils,,,,,,NDB number 4055.
 4679,FDCFOOD:4679,"Oil, PAM cooking spray, original",Plant oil blend,SR Legacy,Fats and Oils,,,,,,NDB number 4679.
-4042,FDCFOOD:4042,"Oil, peanut, salad or cooking",Plant oil,SR Legacy,Fats and Oils,,"Oil, peanut",,,,NDB number 4042.
+4042,FDCFOOD:4042,"Oil, peanut",Plant oil,SR Legacy|Foundation Foods,Fats and Oils,,"Oil, peanut, salad or cooking",,,,NDB number 4042.
 4514,FDCFOOD:4514,"Oil, poppyseed",Plant oil,SR Legacy,Fats and Oils,,,,,,NDB number 4514.
 4037,FDCFOOD:4037,"Oil, rice bran",Plant oil,SR Legacy,Fats and Oils,,,,,,NDB number 4037.
-4511,FDCFOOD:4511,"Oil, safflower, salad or cooking, high oleic (primary safflower oil of commerce)","Oil, safflower",SR Legacy,Fats and Oils,,"Oil, safflower",,,,NDB number 4511.
+4511,FDCFOOD:4511,"Oil, safflower",Plant oil,SR Legacy|Foundation Foods,Fats and Oils,,"Oil, safflower, salad or cooking, high oleic (primary safflower oil of commerce)",,,,NDB number 4511.
 4510,FDCFOOD:4510,"Oil, safflower, salad or cooking, linoleic, (over 70%)","Oil, safflower",SR Legacy,Fats and Oils,,,,,,NDB number 4510.
 4058,FDCFOOD:4058,"Oil, sesame, salad or cooking",Plant oil,SR Legacy,Fats and Oils,,,,,,NDB number 4058.
 4536,FDCFOOD:4536,"Oil, sheanut",Plant oil,SR Legacy,Fats and Oils,,,,,,NDB number 4536.
 4531,FDCFOOD:4531,"Oil, soybean lecithin","Oil, soy",SR Legacy,Fats and Oils,,,,,,NDB number 4531.
-4044,FDCFOOD:4044,"Oil, soybean, salad or cooking","Oil, soy",SR Legacy,Fats and Oils,,"Oil, soybean",,,,NDB number 4044.
+4044,FDCFOOD:4044,"Oil, soybean","Oil, soy",SR Legacy|Foundation Foods,Fats and Oils,,"Oil, soybean, salad or cooking",,,,NDB number 4044.
 4034,FDCFOOD:4034,"Oil, soybean, salad or cooking, (partially hydrogenated)","Oil, soy",SR Legacy,Fats and Oils,,,,,,NDB number 4034.
 4543,FDCFOOD:4543,"Oil, soybean, salad or cooking, (partially hydrogenated) and cottonseed","Oil, soy",SR Legacy,Fats and Oils,,,,,,NDB number 4543.
 100262,FDCFOOD:100262,"Oil, sunflower",Plant oil,Foundation Foods,Fats and Oils,,,,,,NDB number 100262.
@@ -2826,7 +2843,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 4686,FDCFOOD:4686,"Salad dressing, honey mustard dressing, reduced calorie",Dressing,SR Legacy,Fats and Oils,,,,,,NDB number 4686.
 4703,FDCFOOD:4703,"Salad dressing, honey mustard, regular",Dressing,SR Legacy,Fats and Oils,,,,,,NDB number 4703.
 4021,FDCFOOD:4021,"Salad dressing, italian dressing, commercial, reduced fat",Dressing,SR Legacy,Fats and Oils,,,,,,NDB number 4021.
-4114,FDCFOOD:4114,"Salad dressing, italian dressing, commercial, regular",Dressing,SR Legacy,Fats and Oils,,,,,,NDB number 4114.
+4114,FDCFOOD:4114,"Salad dressing, italian dressing, commercial, regular",Dressing,SR Legacy|Foundation Foods,Fats and Oils,,,,,,NDB number 4114.
 4143,FDCFOOD:4143,"Salad dressing, italian dressing, commercial, regular, without salt",Dressing,SR Legacy,Fats and Oils,,,,,,NDB number 4143.
 4636,FDCFOOD:4636,"Salad dressing, italian dressing, fat-free",Dressing,SR Legacy,Fats and Oils,,,,,,NDB number 4636.
 42140,FDCFOOD:42140,"Salad dressing, italian dressing, reduced calorie",Dressing,SR Legacy,Fats and Oils,,,,,,NDB number 42140.
@@ -2850,7 +2867,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 4704,FDCFOOD:4704,"Salad dressing, poppyseed, creamy",Dressing,SR Legacy,Fats and Oils,,,,,,NDB number 4704.
 4638,FDCFOOD:4638,"Salad dressing, ranch dressing, fat-free",Dressing,SR Legacy,Fats and Oils,,,,,,NDB number 4638.
 4640,FDCFOOD:4640,"Salad dressing, ranch dressing, reduced fat",Dressing,SR Legacy,Fats and Oils,,,,,,NDB number 4640.
-4639,FDCFOOD:4639,"Salad dressing, ranch dressing, regular",Dressing,SR Legacy,Fats and Oils,,,,,,NDB number 4639.
+4639,FDCFOOD:4639,"Dressing, Ranch",Dressing,SR Legacy|Foundation Foods,Fats and Oils,,"Salad dressing, ranch dressing, regular",,,,NDB number 4639.
 4015,FDCFOOD:4015,"Salad dressing, russian dressing",Dressing,SR Legacy,Fats and Oils,,,,,,NDB number 4015.
 4022,FDCFOOD:4022,"Salad dressing, russian dressing, low calorie",Dressing,SR Legacy,Fats and Oils,,,,,,NDB number 4022.
 4016,FDCFOOD:4016,"Salad dressing, sesame seed dressing, regular",Dressing,SR Legacy,Fats and Oils,,,,,,NDB number 4016.
@@ -2888,9 +2905,9 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 12059,FDCFOOD:12059,"Nuts, acorns, dried","Nuts, acorns",SR Legacy,Nut and Seed Products,,,,,,NDB number 12059.
 12058,FDCFOOD:12058,"Nuts, acorns, raw","Nuts, acorns",SR Legacy,Nut and Seed Products,,,,,,NDB number 12058.
 12695,FDCFOOD:12695,"Nuts, almond butter, plain, with salt added","Nuts, almond butter",SR Legacy,Nut and Seed Products,,,,,,NDB number 12695.
-12195,FDCFOOD:12195,"Nuts, almond butter, plain, without salt added","Nuts, almond butter",SR Legacy,Nut and Seed Products,,"Almond butter, creamy",,,,NDB number 12195.
+12195,FDCFOOD:12195,"Almond butter, creamy","Nuts, almond butter",SR Legacy|Foundation Foods,Nut and Seed Products,,"Nuts, almond butter, plain, without salt added",,,,NDB number 12195.
 12071,FDCFOOD:12071,"Nuts, almond paste",Almond-derived foods,SR Legacy,Nut and Seed Products,,,,,,NDB number 12071.
-12061,FDCFOOD:12061,"Nuts, almonds",Nuts|Almond-derived foods,SR Legacy,Nut and Seed Products,,"Nuts, almonds, whole, raw",,,,NDB number 12061.
+12061,FDCFOOD:12061,"Nuts, almonds, whole, raw","Nuts, almonds",SR Legacy|Foundation Foods,Nut and Seed Products,,"Nuts, almonds",,,,NDB number 12061.
 12062,FDCFOOD:12062,"Nuts, almonds, blanched","Nuts, almonds",SR Legacy,Nut and Seed Products,,,,,,NDB number 12062.
 12563,FDCFOOD:12563,"Nuts, almonds, dry roasted, with salt added","Nuts, almonds",SR Legacy|Foundation Foods,Nut and Seed Products,,,,,,NDB number 12563.
 12063,FDCFOOD:12063,"Nuts, almonds, dry roasted, without salt added","Nuts, almonds",SR Legacy,Nut and Seed Products,,,,,,NDB number 12063.
@@ -2942,7 +2959,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 12129,FDCFOOD:12129,"Nuts, ginkgo nuts, canned","Nuts, ginkgo nuts",SR Legacy,Nut and Seed Products,,,,,,NDB number 12129.
 12128,FDCFOOD:12128,"Nuts, ginkgo nuts, dried","Nuts, ginkgo nuts",SR Legacy,Nut and Seed Products,,,,,,NDB number 12128.
 12127,FDCFOOD:12127,"Nuts, ginkgo nuts, raw","Nuts, ginkgo nuts",SR Legacy,Nut and Seed Products,,,,,,NDB number 12127.
-12120,FDCFOOD:12120,"Nuts, hazelnuts or filberts",Nuts,SR Legacy,Nut and Seed Products,,"Nuts, hazelnuts or filberts, raw",,,,NDB number 12120.
+12120,FDCFOOD:12120,"Nuts, hazelnuts or filberts, raw","Nuts, hazelnuts or filberts",SR Legacy|Foundation Foods,Nut and Seed Products,,"Nuts, hazelnuts or filberts",,,,NDB number 12120.
 12121,FDCFOOD:12121,"Nuts, hazelnuts or filberts, blanched","Nuts, hazelnuts or filberts",SR Legacy,Nut and Seed Products,,,,,,NDB number 12121.
 12122,FDCFOOD:12122,"Nuts, hazelnuts or filberts, dry roasted, without salt added","Nuts, hazelnuts or filberts",SR Legacy,Nut and Seed Products,,,,,,NDB number 12122.
 12130,FDCFOOD:12130,"Nuts, hickorynuts, dried",Nuts,SR Legacy,Nut and Seed Products,,,,,,NDB number 12130.
@@ -2959,36 +2976,36 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 12738,FDCFOOD:12738,"Nuts, mixed nuts, oil roasted, without peanuts, lightly salted","Nuts, mixed nuts",SR Legacy,Nut and Seed Products,,,,,,NDB number 12738.
 12638,FDCFOOD:12638,"Nuts, mixed nuts, oil roasted, without peanuts, with salt added","Nuts, mixed nuts",SR Legacy,Nut and Seed Products,,,,,,NDB number 12638.
 12138,FDCFOOD:12138,"Nuts, mixed nuts, oil roasted, without peanuts, without salt added","Nuts, mixed nuts",SR Legacy,Nut and Seed Products,,,,,,NDB number 12138.
-12142,FDCFOOD:12142,"Nuts, pecans",Nuts,SR Legacy,Nut and Seed Products,,"Nuts, pecans, halves, raw",,,,NDB number 12142.
+12142,FDCFOOD:12142,"Nuts, pecans, halves, raw","Nuts, pecans",SR Legacy|Foundation Foods,Nut and Seed Products,,"Nuts, pecans",,,,NDB number 12142.
 12643,FDCFOOD:12643,"Nuts, pecans, dry roasted, with salt added","Nuts, pecans",SR Legacy,Nut and Seed Products,,,,,,NDB number 12643.
 12143,FDCFOOD:12143,"Nuts, pecans, dry roasted, without salt added","Nuts, pecans",SR Legacy,Nut and Seed Products,,,,,,NDB number 12143.
 12644,FDCFOOD:12644,"Nuts, pecans, oil roasted, with salt added","Nuts, pecans",SR Legacy,Nut and Seed Products,,,,,,NDB number 12644.
 12144,FDCFOOD:12144,"Nuts, pecans, oil roasted, without salt added","Nuts, pecans",SR Legacy,Nut and Seed Products,,,,,,NDB number 12144.
 12145,FDCFOOD:12145,"Nuts, pilinuts, dried",Nuts,SR Legacy,Nut and Seed Products,,,,,,NDB number 12145.
-12147,FDCFOOD:12147,"Nuts, pine nuts, dried",Pine nut,SR Legacy,Nut and Seed Products,,"Nuts, pine nuts, raw",,,,NDB number 12147.
+12147,FDCFOOD:12147,"Nuts, pine nuts, raw",Pine nut,SR Legacy|Foundation Foods,Nut and Seed Products,,"Nuts, pine nuts, dried",,,,NDB number 12147.
 12149,FDCFOOD:12149,"Nuts, pine nuts, pinyon, dried",Pinyon pine nut,SR Legacy,Nut and Seed Products,,,,,,NDB number 12149.
 12652,FDCFOOD:12652,"Nuts, pistachio nuts, dry roasted, with salt added","Nuts, pistachio nuts",SR Legacy,Nut and Seed Products,,,,,,NDB number 12652.
 12152,FDCFOOD:12152,"Nuts, pistachio nuts, dry roasted, without salt added","Nuts, pistachio nuts",SR Legacy,Nut and Seed Products,,,,,,NDB number 12152.
 12151,FDCFOOD:12151,"Nuts, pistachio nuts, raw","Nuts, pistachio nuts",SR Legacy|Foundation Foods,Nut and Seed Products,,,,,,NDB number 12151.
 12154,FDCFOOD:12154,"Nuts, walnuts, black, dried","Nuts, walnuts",SR Legacy,Nut and Seed Products,,,,,,NDB number 12154.
 12157,FDCFOOD:12157,"Nuts, walnuts, dry roasted, with salt added","Nuts, walnuts",SR Legacy,Nut and Seed Products,,,,,,NDB number 12157.
-12155,FDCFOOD:12155,"Nuts, walnuts, english","Nuts, walnuts",SR Legacy,Nut and Seed Products,,"Nuts, walnuts, English, halves, raw",,,,NDB number 12155.
+12155,FDCFOOD:12155,"Nuts, walnuts, English, halves, raw","Nuts, walnuts",SR Legacy|Foundation Foods,Nut and Seed Products,,"Nuts, walnuts, english",,,,NDB number 12155.
 12156,FDCFOOD:12156,"Nuts, walnuts, glazed","Nuts, walnuts",SR Legacy,Nut and Seed Products,,,,,,NDB number 12156.
 12003,FDCFOOD:12003,"Seeds, breadfruit seeds, boiled",Breadfruit seed,SR Legacy,Nut and Seed Products,,,,,,NDB number 12003.
 12001,FDCFOOD:12001,"Seeds, breadfruit seeds, raw",Breadfruit seed,SR Legacy,Nut and Seed Products,,,,,,NDB number 12001.
 12158,FDCFOOD:12158,"Seeds, breadfruit seeds, roasted",Breadfruit seed,SR Legacy,Nut and Seed Products,,,,,,NDB number 12158.
 12005,FDCFOOD:12005,"Seeds, breadnut tree seeds, dried","Seeds, breadnut tree seeds",SR Legacy,Nut and Seed Products,,,,,,NDB number 12005.
 12004,FDCFOOD:12004,"Seeds, breadnut tree seeds, raw","Seeds, breadnut tree seeds",SR Legacy,Nut and Seed Products,,,,,,NDB number 12004.
-12006,FDCFOOD:12006,"Seeds, chia seeds, dried",Seeds,SR Legacy,Nut and Seed Products,,,,,,NDB number 12006.
+12006,FDCFOOD:12006,"Chia seeds, dry, raw",Seeds,SR Legacy|Foundation Foods,Nut and Seed Products,,"Seeds, chia seeds, dried",,,,NDB number 12006.
 12008,FDCFOOD:12008,"Seeds, cottonseed flour, low fat (glandless)","Seeds, cottonseed flour",SR Legacy,Nut and Seed Products,,,,,,NDB number 12008.
 12007,FDCFOOD:12007,"Seeds, cottonseed flour, partially defatted (glandless)","Seeds, cottonseed flour",SR Legacy,Nut and Seed Products,,,,,,NDB number 12007.
 12160,FDCFOOD:12160,"Seeds, cottonseed kernels, roasted (glandless)",Seeds,SR Legacy,Nut and Seed Products,,,,,,NDB number 12160.
 12011,FDCFOOD:12011,"Seeds, cottonseed meal, partially defatted (glandless)",Seed meal,SR Legacy,Nut and Seed Products,,,,,,NDB number 12011.
-12220,FDCFOOD:12220,"Seeds, flaxseed",Seeds,SR Legacy,Nut and Seed Products,,"Flaxseed, ground",,,,NDB number 12220.
+12220,FDCFOOD:12220,"Flaxseed, ground",Seeds,SR Legacy|Foundation Foods,Nut and Seed Products,,"Seeds, flaxseed",,,,NDB number 12220.
 12012,FDCFOOD:12012,"Seeds, hemp seed, hulled",Seeds,SR Legacy,Nut and Seed Products,,,,,,NDB number 12012.
 12013,FDCFOOD:12013,"Seeds, lotus seeds, dried",Lotus seed,SR Legacy,Nut and Seed Products,,,,,,NDB number 12013.
 12205,FDCFOOD:12205,"Seeds, lotus seeds, raw",Lotus seed,SR Legacy,Nut and Seed Products,,,,,,NDB number 12205.
-12014,FDCFOOD:12014,"Seeds, pumpkin and squash seed kernels, dried",Pumpkin and squash seeds,SR Legacy,Nut and Seed Products,,"Seeds, pumpkin seeds (pepitas), raw",,,,NDB number 12014.
+12014,FDCFOOD:12014,"Seeds, pumpkin seeds (pepitas), raw",Pumpkin and squash seeds,SR Legacy|Foundation Foods,Nut and Seed Products,,"Seeds, pumpkin and squash seed kernels, dried",,,,NDB number 12014.
 12516,FDCFOOD:12516,"Seeds, pumpkin and squash seed kernels, roasted, with salt added",Pumpkin and squash seeds,SR Legacy,Nut and Seed Products,,,,,,NDB number 12516.
 12016,FDCFOOD:12016,"Seeds, pumpkin and squash seed kernels, roasted, without salt",Pumpkin and squash seeds,SR Legacy,Nut and Seed Products,,,,,,NDB number 12016.
 12663,FDCFOOD:12663,"Seeds, pumpkin and squash seeds, whole, roasted, with salt added",Pumpkin and squash seeds,SR Legacy,Nut and Seed Products,,,,,,NDB number 12663.
@@ -3014,7 +3031,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 12040,FDCFOOD:12040,"Seeds, sunflower seed butter, without salt",Sunflower seed butter,SR Legacy,Nut and Seed Products,,,,,,NDB number 12040.
 12041,FDCFOOD:12041,"Seeds, sunflower seed flour, partially defatted",Seed flour,SR Legacy,Nut and Seed Products,,,,,,NDB number 12041.
 12536,FDCFOOD:12536,"Seeds, sunflower seed kernels from shell, dry roasted, with salt added","Seeds, sunflower seed",SR Legacy,Nut and Seed Products,,,,,,NDB number 12536.
-12036,FDCFOOD:12036,"Seeds, sunflower seed kernels, dried","Seeds, sunflower seed",SR Legacy,Nut and Seed Products,,"Seeds, sunflower seed, kernel, raw",,,,NDB number 12036.
+12036,FDCFOOD:12036,"Seeds, sunflower seed, kernel, raw","Seeds, sunflower seed",SR Legacy|Foundation Foods,Nut and Seed Products,,"Seeds, sunflower seed kernels, dried",,,,NDB number 12036.
 12537,FDCFOOD:12537,"Seeds, sunflower seed kernels, dry roasted, with salt added","Seeds, sunflower seed",SR Legacy|Foundation Foods,Nut and Seed Products,,,,,,NDB number 12537.
 12037,FDCFOOD:12037,"Seeds, sunflower seed kernels, dry roasted, without salt","Seeds, sunflower seed",SR Legacy,Nut and Seed Products,,,,,,NDB number 12037.
 12538,FDCFOOD:12538,"Seeds, sunflower seed kernels, oil roasted, with salt added","Seeds, sunflower seed",SR Legacy,Nut and Seed Products,,,,,,NDB number 12538.
@@ -3210,8 +3227,8 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 15139,FDCFOOD:15139,"Crustaceans, crab, blue, raw",Blue crab,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15139.
 15226,FDCFOOD:15226,"Crustaceans, crab, dungeness, cooked, moist heat",Dungeness crab,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15226.
 15143,FDCFOOD:15143,"Crustaceans, crab, dungeness, raw",Dungeness crab,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15143.
-15227,FDCFOOD:15227,"Crustaceans, crab, queen, cooked, moist heat",Queen crab,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15227.
-15144,FDCFOOD:15144,"Crustaceans, crab, queen, raw",Queen crab,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15144.
+15227,FDCFOOD:15227,"Crustaceans, crab, queen, cooked, moist heat",Snow crab,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15227.
+15144,FDCFOOD:15144,"Crustaceans, crab, queen, raw",Snow crab,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15144.
 15243,FDCFOOD:15243,"Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",Crayfish,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15243.
 15242,FDCFOOD:15242,"Crustaceans, crayfish, mixed species, farmed, raw",Crayfish,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15242.
 15146,FDCFOOD:15146,"Crustaceans, crayfish, mixed species, wild, cooked, moist heat",Crayfish,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15146.
@@ -3243,7 +3260,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 15008,FDCFOOD:15008,"Fish, carp, raw",Carp,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15008.
 15011,FDCFOOD:15011,"Fish, catfish, channel, cooked, breaded and fried",Catfish,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15011.
 15235,FDCFOOD:15235,"Fish, catfish, channel, farmed, cooked, dry heat",Catfish,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15235.
-15234,FDCFOOD:15234,"Fish, catfish, channel, farmed, raw",Catfish,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15234.
+15234,FDCFOOD:15234,"Fish, catfish, farm raised, raw",Catfish,SR Legacy|Foundation Foods,Finfish and Shellfish Products,,"Fish, catfish, channel, farmed, raw",,,,NDB number 15234.
 15233,FDCFOOD:15233,"Fish, catfish, channel, wild, cooked, dry heat",Catfish,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15233.
 15010,FDCFOOD:15010,"Fish, catfish, channel, wild, raw",Catfish,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15010.
 15012,FDCFOOD:15012,"Fish, caviar, black and red, granular",Fish eggs,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15012.
@@ -3315,8 +3332,8 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 15064,FDCFOOD:15064,"Fish, pike, walleye, raw",Walleyed pike,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15064.
 15267,FDCFOOD:15267,"Fish, pollock, Alaska, cooked",Alaska pollock,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15267.
 15067,FDCFOOD:15067,"Fish, pollock, Alaska, cooked, dry heat (may contain additives to retain moisture)",Alaska pollock,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15067.
-15266,FDCFOOD:15266,"Fish, pollock, Alaska, raw",Alaska pollock,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15266.
-15066,FDCFOOD:15066,"Fish, pollock, Alaska, raw (may contain additives to retain moisture)",Alaska pollock,SR Legacy,Finfish and Shellfish Products,,"Fish, pollock, raw",,,,NDB number 15066.
+15266,FDCFOOD:15266,"Alaska Pollock, raw",Alaska pollock,SR Legacy|Foundation Foods,Finfish and Shellfish Products,,"Fish, pollock, Alaska, raw",,,,NDB number 15266.
+15066,FDCFOOD:15066,"Fish, pollock, raw",Alaska pollock,SR Legacy|Foundation Foods,Finfish and Shellfish Products,,"Fish, pollock, Alaska, raw (may contain additives to retain moisture)",,,,NDB number 15066.
 15205,FDCFOOD:15205,"Fish, pollock, Atlantic, cooked, dry heat",Atlantic pollock,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15205.
 15065,FDCFOOD:15065,"Fish, pollock, Atlantic, raw",Atlantic pollock,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15065.
 15069,FDCFOOD:15069,"Fish, pompano, florida, cooked, dry heat",Florida pompano,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15069.
@@ -3333,7 +3350,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 15074,FDCFOOD:15074,"Fish, sablefish, raw",Sablefish,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15074.
 15075,FDCFOOD:15075,"Fish, sablefish, smoked",Sablefish,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15075.
 15237,FDCFOOD:15237,"Fish, salmon, Atlantic, farmed, cooked, dry heat",Atlantic salmon,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15237.
-15236,FDCFOOD:15236,"Fish, salmon, Atlantic, farmed, raw",Atlantic salmon,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15236.
+15236,FDCFOOD:15236,"Fish, salmon, Atlantic, farm raised, raw",Atlantic salmon,SR Legacy|Foundation Foods,Finfish and Shellfish Products,,"Fish, salmon, Atlantic, farmed, raw",,,,NDB number 15236.
 15209,FDCFOOD:15209,"Fish, salmon, Atlantic, wild, cooked, dry heat",Atlantic salmon,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15209.
 15076,FDCFOOD:15076,"Fish, salmon, Atlantic, wild, raw",Atlantic salmon,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15076.
 15210,FDCFOOD:15210,"Fish, salmon, chinook, cooked, dry heat",Chinook salmon,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15210.
@@ -3407,7 +3424,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 15127,FDCFOOD:15127,"Fish, tuna, fresh, yellowfin, raw",Yellowfin tuna,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15127.
 15119,FDCFOOD:15119,"Fish, tuna, light, canned in oil, drained solids",Light tuna,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15119.
 15183,FDCFOOD:15183,"Fish, tuna, light, canned in oil, without salt, drained solids",Light tuna,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15183.
-15121,FDCFOOD:15121,"Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)",Light tuna,SR Legacy,Finfish and Shellfish Products,,"Fish, tuna, light, canned in water, drained solids",,,,NDB number 15121.
+15121,FDCFOOD:15121,"Fish, tuna, light, canned in water, drained solids",Light tuna,SR Legacy|Foundation Foods,Finfish and Shellfish Products,,"Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)",,,,NDB number 15121.
 15184,FDCFOOD:15184,"Fish, tuna, light, canned in water, without salt, drained solids",Light tuna,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15184.
 15220,FDCFOOD:15220,"Fish, tuna, skipjack, fresh, cooked, dry heat",Skipjack tuna,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15220.
 15124,FDCFOOD:15124,"Fish, tuna, white, canned in oil, drained solids",White tuna,SR Legacy,Finfish and Shellfish Products,,,,,,NDB number 15124.
@@ -3663,17 +3680,17 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 20002,FDCFOOD:20002,"Amaranth grain, cooked",Amaranth grain,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20002.
 20001,FDCFOOD:20001,"Amaranth grain, uncooked",Amaranth grain,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20001.
 20003,FDCFOOD:20003,Arrowroot flour,Cereal grain flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20003.
-20130,FDCFOOD:20130,Barley flour or meal,Milled cereal grain products,SR Legacy,Cereal Grains and Pasta,,"Flour, barley",,,,NDB number 20130.
+20130,FDCFOOD:20130,"Flour, barley",Milled cereal grain products,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,Barley flour or meal,,,,NDB number 20130.
 20131,FDCFOOD:20131,Barley malt flour,Cereal grain flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20131.
 20004,FDCFOOD:20004,"Barley, hulled",Barley,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20004.
 20006,FDCFOOD:20006,"Barley, pearled, cooked",Barley,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20006.
 20005,FDCFOOD:20005,"Barley, pearled, raw",Barley,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20005.
-20008,FDCFOOD:20008,Buckwheat,Cereal grains,SR Legacy,Cereal Grains and Pasta,,"Buckwheat, whole grain",,,,NDB number 20008.
-20011,FDCFOOD:20011,"Buckwheat flour, whole-groat",Cereal grain flour,SR Legacy,Cereal Grains and Pasta,,"Flour, buckwheat",,,,NDB number 20011.
+20008,FDCFOOD:20008,"Buckwheat, whole grain",Buckwheat,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,Buckwheat,,,,NDB number 20008.
+20011,FDCFOOD:20011,"Flour, buckwheat",Cereal grain flour,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Buckwheat flour, whole-groat",,,,NDB number 20011.
 20010,FDCFOOD:20010,"Buckwheat groats, roasted, cooked",Buckwheat,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20010.
 20009,FDCFOOD:20009,"Buckwheat groats, roasted, dry",Buckwheat,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20009.
 20013,FDCFOOD:20013,"Bulgur, cooked",Bulgur,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20013.
-20012,FDCFOOD:20012,"Bulgur, dry",Bulgur,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20012.
+20012,FDCFOOD:20012,"Bulgur, dry, raw",Bulgur,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Bulgur, dry",,,,NDB number 20012.
 20015,FDCFOOD:20015,"Corn bran, crude",Cereal grain bran,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20015.
 20017,FDCFOOD:20017,"Corn flour, masa, enriched, white",Corn flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20017.
 20019,FDCFOOD:20019,"Corn flour, masa, unenriched, white",Corn flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20019.
@@ -3699,24 +3716,24 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 20027,FDCFOOD:20027,Cornstarch,Plant starch extract,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20027.
 20029,FDCFOOD:20029,"Couscous, cooked",Couscous,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20029.
 20028,FDCFOOD:20028,"Couscous, dry",Couscous,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20028.
-100268,FDCFOOD:100268,"Flour, 00",Wheat flour,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100268.
-100287,FDCFOOD:100287,"Flour, amaranth",Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100287.
-100251,FDCFOOD:100251,"Flour, corn, yellow, fine meal, enriched",Corn flour,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100251.
-100274,FDCFOOD:100274,"Flour, oat, whole grain",Oat flour,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100274.
-100256,FDCFOOD:100256,"Flour, pastry, unenriched, unbleached",Wheat flour,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100256.
-100288,FDCFOOD:100288,"Flour, quinoa",Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100288.
-100257,FDCFOOD:100257,"Flour, rice, glutinous",Rice flour,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100257.
+100268,FDCFOOD:100268,"Wheat, Flour, 00",Wheat flour,Foundation Foods,Cereal Grains and Pasta,,"Flour, 00",,,,NDB number 100268.
+100287,FDCFOOD:100287,"Amaranth, Flour",Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,"Flour, amaranth",,,,NDB number 100287.
+100251,FDCFOOD:100251,"Corn, Flour, Fine meal, Yellow, Enriched",Corn flour,Foundation Foods,Cereal Grains and Pasta,,"Flour, corn, yellow, fine meal, enriched",,,,NDB number 100251.
+100274,FDCFOOD:100274,"Oat, Flour, Whole-grain",Oat flour,Foundation Foods,Cereal Grains and Pasta,,"Flour, oat, whole grain",,,,NDB number 100274.
+100256,FDCFOOD:100256,"Wheat, Flour, Pastry",Wheat flour,Foundation Foods,Cereal Grains and Pasta,,"Flour, pastry, unenriched, unbleached",,,,NDB number 100256.
+100288,FDCFOOD:100288,"Quinoa, Flour",Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,"Flour, quinoa",,,,NDB number 100288.
+100257,FDCFOOD:100257,"Rice, Flour, Glutinous",Rice flour,Foundation Foods,Cereal Grains and Pasta,,"Flour, rice, glutinous",,,,NDB number 100257.
 100290,FDCFOOD:100290,Rye flour,Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100290.
-100269,FDCFOOD:100269,"Flour, semolina, coarse and semi-coarse",Semolina,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100269.
-100270,FDCFOOD:100270,"Flour, semolina, fine",Semolina,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100270.
-100289,FDCFOOD:100289,Sorghum flour,Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100289.
+100269,FDCFOOD:100269,"Wheat, Flour, Coarse and semi-coarse, Semolina",Semolina,Foundation Foods,Cereal Grains and Pasta,,"Flour, semolina, coarse and semi-coarse",,,,NDB number 100269.
+100270,FDCFOOD:100270,"Wheat, Flour, Fine, Semolina",Semolina,Foundation Foods,Cereal Grains and Pasta,,"Flour, semolina, fine",,,,NDB number 100270.
+100289,FDCFOOD:100289,"Sorghum, Flour",Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,Sorghum flour,,,,NDB number 100289.
 20030,FDCFOOD:20030,"Hominy, canned, white",Hominy,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20030.
 20330,FDCFOOD:20330,"Hominy, canned, yellow",Hominy,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20330.
 20106,FDCFOOD:20106,"Macaroni, vegetable, enriched, cooked",Noodles,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20106.
 20105,FDCFOOD:20105,"Macaroni, vegetable, enriched, dry",Noodles,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20105.
 20647,FDCFOOD:20647,Millet flour,Cereal grain flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20647.
 20032,FDCFOOD:20032,"Millet, cooked",Millet,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20032.
-20031,FDCFOOD:20031,"Millet, raw",Millet,SR Legacy,Cereal Grains and Pasta,,"Millet, whole grain",Based on the value for the SR data it must be whole grain millet according to Dr. George Annor. The FF version is likely proso millet and probably de-hulled.,,,NDB number 20031.
+20031,FDCFOOD:20031,"Millet, whole grain",Millet,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Millet, raw",Based on the value for the SR data it must be whole grain millet according to Dr. George Annor. The FF version is likely proso millet and probably de-hulled.,,,NDB number 20031.
 20113,FDCFOOD:20113,"Noodles, chinese, chow mein",Noodles,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20113.
 20310,FDCFOOD:20310,"Noodles, egg, cooked, enriched, with added salt",Egg noodles,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20310.
 20510,FDCFOOD:20510,"Noodles, egg, cooked, unenriched, with added salt",Egg noodles,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20510.
@@ -3734,8 +3751,8 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 20034,FDCFOOD:20034,"Oat bran, cooked",Oat bran,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20034.
 20033,FDCFOOD:20033,"Oat bran, raw",Oat bran,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20033.
 20132,FDCFOOD:20132,"Oat flour, partially debranned",Oat flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20132.
-20038,FDCFOOD:20038,Oats (Includes foods for USDA's Food Distribution Program),Oats,SR Legacy,Cereal Grains and Pasta,,"Oats, whole grain, rolled, old fashioned",,,,NDB number 20038.
-100282,FDCFOOD:100282,"Oats, whole grain, steel cut",Oats,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100282.
+20038,FDCFOOD:20038,"Oats, whole grain, rolled, old fashioned",Oats,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,Oats (Includes foods for USDA's Food Distribution Program),,,,NDB number 20038.
+100282,FDCFOOD:100282,"Oat, Whole, Steel cut",Oats,Foundation Foods,Cereal Grains and Pasta,,"Oats, whole grain, steel cut",,,,NDB number 100282.
 20321,FDCFOOD:20321,"Pasta, cooked, enriched, with added salt",Pasta,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20321.
 20121,FDCFOOD:20121,"Pasta, cooked, enriched, without added salt",Pasta,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20121.
 20521,FDCFOOD:20521,"Pasta, cooked, unenriched, with added salt",Pasta,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20521.
@@ -3763,12 +3780,12 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 20137,FDCFOOD:20137,"Quinoa, cooked",Quinoa,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20137.
 20035,FDCFOOD:20035,"Quinoa, uncooked",Quinoa,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20035.
 20060,FDCFOOD:20060,"Rice bran, crude",Cereal grain bran,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20060.
-20090,FDCFOOD:20090,"Rice flour, brown",Rice flour,SR Legacy,Cereal Grains and Pasta,,"Flour, rice, brown",,,,NDB number 20090.
-20061,FDCFOOD:20061,"Rice flour, white, unenriched",Rice flour,SR Legacy,Cereal Grains and Pasta,,"Flour, rice, white, unenriched",,,,NDB number 20061.
+20090,FDCFOOD:20090,"Flour, rice, brown",Rice flour,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Rice flour, brown",,,,NDB number 20090.
+20061,FDCFOOD:20061,"Flour, rice, white, unenriched",Rice flour,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Rice flour, white, unenriched",,,,NDB number 20061.
 20134,FDCFOOD:20134,"Rice noodles, cooked",Rice noodles,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20134.
 20133,FDCFOOD:20133,"Rice noodles, dry",Rice noodles,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20133.
 20037,FDCFOOD:20037,"Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)",Brown rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20037.
-20036,FDCFOOD:20036,"Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",Brown rice,SR Legacy,Cereal Grains and Pasta,,"Rice, brown, long grain, unenriched, raw",,,,NDB number 20036.
+20036,FDCFOOD:20036,"Rice, brown, long grain, unenriched, raw",Brown rice,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",,,,NDB number 20036.
 20041,FDCFOOD:20041,"Rice, brown, medium-grain, cooked (Includes foods for USDA's Food Distribution Program)",Brown rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20041.
 20040,FDCFOOD:20040,"Rice, brown, medium-grain, raw (Includes foods for USDA's Food Distribution Program)",Brown rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20040.
 20651,FDCFOOD:20651,"Rice, brown, parboiled, cooked, UNCLE BENS",Brown rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20651.
@@ -3785,7 +3802,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 20545,FDCFOOD:20545,"Rice, white, long-grain, regular, cooked, unenriched, with salt",White rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20545.
 20045,FDCFOOD:20045,"Rice, white, long-grain, regular, enriched, cooked",White rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20045.
 20044,FDCFOOD:20044,"Rice, white, long-grain, regular, raw, enriched",White rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20044.
-20444,FDCFOOD:20444,"Rice, white, long-grain, regular, raw, unenriched",White rice,SR Legacy,Cereal Grains and Pasta,,"Rice, white, long grain, unenriched, raw",,,,NDB number 20444.
+20444,FDCFOOD:20444,"Rice, white, long grain, unenriched, raw",White rice,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Rice, white, long-grain, regular, raw, unenriched",,,,NDB number 20444.
 20445,FDCFOOD:20445,"Rice, white, long-grain, regular, unenriched, cooked without salt",White rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20445.
 20451,FDCFOOD:20451,"Rice, white, medium-grain, cooked, unenriched",White rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20451.
 20051,FDCFOOD:20051,"Rice, white, medium-grain, enriched, cooked",White rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20051.
@@ -3802,15 +3819,15 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 20062,FDCFOOD:20062,Rye grain,Cereal grains,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20062.
 20066,FDCFOOD:20066,"Semolina, enriched",Semolina,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20066.
 20466,FDCFOOD:20466,"Semolina, unenriched",Semolina,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20466.
-20650,FDCFOOD:20650,"Sorghum flour, refined, unenriched",Sorghum flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20650.
-20648,FDCFOOD:20648,"Sorghum flour, whole-grain",Sorghum flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20648.
+20650,FDCFOOD:20650,"Sorghum flour, refined, unenriched","Sorghum, Flour",SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20650.
+20648,FDCFOOD:20648,"Sorghum flour, whole-grain","Sorghum, Flour",SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20648.
 20067,FDCFOOD:20067,Sorghum grain,Millet,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20067.
 20523,FDCFOOD:20523,"Spaghetti, protein-fortified, cooked, enriched (n x 6.25)",Spaghetti,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20523.
 20622,FDCFOOD:20622,"Spaghetti, protein-fortified, dry, enriched (n x 6.25)",Spaghetti,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20622.
 20127,FDCFOOD:20127,"Spaghetti, spinach, cooked",Spaghetti,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20127.
 20126,FDCFOOD:20126,"Spaghetti, spinach, dry",Spaghetti,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20126.
 20141,FDCFOOD:20141,"Spelt, cooked",Spelt,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20141.
-20140,FDCFOOD:20140,"Spelt, uncooked",Spelt,SR Legacy,Cereal Grains and Pasta,,"Flour, spelt, whole grain",,,,NDB number 20140.
+20140,FDCFOOD:20140,"Flour, spelt, whole grain",Spelt,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Spelt, uncooked",,,,NDB number 20140.
 20068,FDCFOOD:20068,"Tapioca, pearl, dry",Plant starch extract,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20068.
 20143,FDCFOOD:20143,"Teff, cooked",Teff,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20143.
 20142,FDCFOOD:20142,"Teff, uncooked",Teff,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20142.
@@ -3830,15 +3847,15 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 20646,FDCFOOD:20646,"Wheat flour, white (industrial), 15% protein, bleached, unenriched",Wheat flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20646.
 20623,FDCFOOD:20623,"Wheat flour, white (industrial), 9% protein, bleached, enriched",Wheat flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20623.
 20624,FDCFOOD:20624,"Wheat flour, white (industrial), 9% protein, bleached, unenriched",Wheat flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20624.
-20081,FDCFOOD:20081,"Wheat flour, white, all-purpose, enriched, bleached",Wheat flour,SR Legacy,Cereal Grains and Pasta,,"Flour, wheat, all-purpose, enriched, bleached",,,,NDB number 20081.
+20081,FDCFOOD:20081,"Flour, wheat, all-purpose, enriched, bleached",Wheat flour,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Wheat flour, white, all-purpose, enriched, bleached",,,,NDB number 20081.
 20381,FDCFOOD:20381,"Wheat flour, white, all-purpose, enriched, calcium-fortified",Wheat flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20381.
-20581,FDCFOOD:20581,"Wheat flour, white, all-purpose, enriched, unbleached",Wheat flour,SR Legacy,Cereal Grains and Pasta,,"Flour, wheat, all-purpose, enriched, unbleached",,,,NDB number 20581.
+20581,FDCFOOD:20581,"Flour, wheat, all-purpose, enriched, unbleached",Wheat flour,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Wheat flour, white, all-purpose, enriched, unbleached",,,,NDB number 20581.
 20082,FDCFOOD:20082,"Wheat flour, white, all-purpose, self-rising, enriched",Wheat flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20082.
-20481,FDCFOOD:20481,"Wheat flour, white, all-purpose, unenriched",Wheat flour,SR Legacy,Cereal Grains and Pasta,,"Flour, wheat, all-purpose, unenriched, unbleached",,,,NDB number 20481.
-20083,FDCFOOD:20083,"Wheat flour, white, bread, enriched",Wheat flour,SR Legacy,Cereal Grains and Pasta,,"Flour, bread, white, enriched, unbleached",,,,NDB number 20083.
+20481,FDCFOOD:20481,"Flour, wheat, all-purpose, unenriched, unbleached",Wheat flour,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Wheat flour, white, all-purpose, unenriched",,,,NDB number 20481.
+20083,FDCFOOD:20083,"Flour, bread, white, enriched, unbleached",Wheat flour,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Wheat flour, white, bread, enriched",,,,NDB number 20083.
 20084,FDCFOOD:20084,"Wheat flour, white, cake, enriched",Wheat flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20084.
 20086,FDCFOOD:20086,"Wheat flour, white, tortilla mix, enriched",Wheat flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20086.
-20080,FDCFOOD:20080,"Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",Wheat flour,SR Legacy,Cereal Grains and Pasta,,"Flour, whole wheat, unenriched",,,,NDB number 20080.
+20080,FDCFOOD:20080,"Flour, whole wheat, unenriched",Wheat flour,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",,,,NDB number 20080.
 20649,FDCFOOD:20649,"Wheat flour, whole-grain, soft wheat",Wheat flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20649.
 20129,FDCFOOD:20129,"Wheat flours, bread, unenriched",Wheat flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20129.
 20078,FDCFOOD:20078,"Wheat germ, crude",Milled cereal grain products,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20078.
@@ -3852,7 +3869,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 20075,FDCFOOD:20075,"Wheat, soft white",Wheat,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20075.
 20087,FDCFOOD:20087,"Wheat, sprouted",Wheat,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20087.
 20089,FDCFOOD:20089,"Wild rice, cooked",Wild rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20089.
-20088,FDCFOOD:20088,"Wild rice, raw",Wild rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20088.
+20088,FDCFOOD:20088,"Wild rice, dry, raw",Wild rice,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Wild rice, raw",,,,NDB number 20088.
 6395,FDCFOOD:6395,"CAMPBELL'S CHUNKY, Classic Chicken Noodle Soup",Chicken noodle soup,SR Legacy,"Soups, Sauces, and Gravies",,,,,,NDB number 6395.
 6415,FDCFOOD:6415,"CAMPBELL'S CHUNKY, Hearty Beef Barley Soup",Beef soup,SR Legacy,"Soups, Sauces, and Gravies",,,,,,NDB number 6415.
 6431,FDCFOOD:6431,"CAMPBELL'S CHUNKY, New England Clam Chowder",Clam chowder soup,SR Legacy,"Soups, Sauces, and Gravies",,,,,,NDB number 6431.
@@ -5072,7 +5089,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11722,FDCFOOD:11722,"Beans, snap, yellow, raw",Yellow bean immature seed and pod,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11722.
 11736,FDCFOOD:11736,"Beet greens, cooked, boiled, drained, with salt",Beet leaf,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11736.
 11087,FDCFOOD:11087,"Beet greens, cooked, boiled, drained, without salt",Beet leaf,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11087.
-11086,FDCFOOD:11086,"Beet greens, raw",Beet leaf,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11086.
+11086,FDCFOOD:11086,"Beet greens, raw",Beet leaf,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11086.
 11084,FDCFOOD:11084,"Beets, canned, drained solids",Beet root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11084.
 11735,FDCFOOD:11735,"Beets, canned, no salt added, solids and liquids",Beet root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11735.
 11082,FDCFOOD:11082,"Beets, canned, regular pack, solids and liquids",Beet root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11082.
@@ -5080,7 +5097,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11734,FDCFOOD:11734,"Beets, cooked, boiled. drained, with salt",Beet root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11734.
 11605,FDCFOOD:11605,"Beets, harvard, canned, solids and liquids",Beet root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11605.
 11609,FDCFOOD:11609,"Beets, pickled, canned, solids and liquids",Beet root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11609.
-11080,FDCFOOD:11080,"Beets, raw",Beet root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11080.
+11080,FDCFOOD:11080,"Beets, raw",Beet root,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11080.
 11737,FDCFOOD:11737,"Borage, cooked, boiled, drained, with salt",Borage,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11737.
 11614,FDCFOOD:11614,"Borage, cooked, boiled, drained, without salt",Borage,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11614.
 11613,FDCFOOD:11613,"Borage, raw",Borage,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11613.
@@ -5108,7 +5125,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11746,FDCFOOD:11746,"Brussels sprouts, frozen, cooked, boiled, drained, with salt",Brussels sprouts,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11746.
 11101,FDCFOOD:11101,"Brussels sprouts, frozen, cooked, boiled, drained, without salt",Brussels sprouts,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11101.
 11100,FDCFOOD:11100,"Brussels sprouts, frozen, unprepared",Brussels sprouts,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11100.
-11098,FDCFOOD:11098,"Brussels sprouts, raw",Brussels sprouts,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11098.
+11098,FDCFOOD:11098,"Brussels sprouts, raw",Brussels sprouts,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11098.
 11747,FDCFOOD:11747,"Burdock root, cooked, boiled, drained, with salt",Burdock root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11747.
 11105,FDCFOOD:11105,"Burdock root, cooked, boiled, drained, without salt",Burdock root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11105.
 11104,FDCFOOD:11104,"Burdock root, raw",Burdock root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11104.
@@ -5118,7 +5135,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11107,FDCFOOD:11107,"Butterbur, cooked, boiled, drained, without salt",Butterbur,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11107.
 11754,FDCFOOD:11754,"Cabbage, chinese (pak-choi), cooked, boiled, drained, with salt",Bok choy,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11754.
 11117,FDCFOOD:11117,"Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt",Bok choy,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11117.
-11116,FDCFOOD:11116,"Cabbage, chinese (pak-choi), raw",Bok choy,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11116.
+11116,FDCFOOD:11116,"Cabbage, bok choy, raw",Bok choy,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Cabbage, chinese (pak-choi), raw",,,,NDB number 11116.
 11755,FDCFOOD:11755,"Cabbage, chinese (pe-tsai), cooked, boiled, drained, with salt",Napa cabbage,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11755.
 11120,FDCFOOD:11120,"Cabbage, chinese (pe-tsai), cooked, boiled, drained, without salt",Napa cabbage,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11120.
 11119,FDCFOOD:11119,"Cabbage, chinese (pe-tsai), raw",Napa cabbage,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11119.
@@ -5130,7 +5147,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11118,FDCFOOD:11118,"Cabbage, kimchi",Napa cabbage,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11118.
 43144,FDCFOOD:43144,"Cabbage, mustard, salted",Bok choy,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 43144.
 11970,FDCFOOD:11970,"Cabbage, napa, cooked",Napa cabbage,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11970.
-11109,FDCFOOD:11109,"Cabbage, raw",Cabbage,SR Legacy,Vegetables and Vegetable Products,,"Cabbage, green, raw",,,,NDB number 11109.
+11109,FDCFOOD:11109,"Cabbage, green, raw",Cabbage,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Cabbage, raw",,,,NDB number 11109.
 11752,FDCFOOD:11752,"Cabbage, red, cooked, boiled, drained, with salt",Red cabbage,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11752.
 11113,FDCFOOD:11113,"Cabbage, red, cooked, boiled, drained, without salt",Red cabbage,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11113.
 11112,FDCFOOD:11112,"Cabbage, red, raw",Red cabbage,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11112.
@@ -5150,8 +5167,8 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11125,FDCFOOD:11125,"Carrots, cooked, boiled, drained, without salt",Carrot,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11125.
 11760,FDCFOOD:11760,"Carrots, frozen, cooked, boiled, drained, with salt",Carrot,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11760.
 11131,FDCFOOD:11131,"Carrots, frozen, cooked, boiled, drained, without salt",Carrot,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11131.
-11130,FDCFOOD:11130,"Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program)",Carrot,SR Legacy,Vegetables and Vegetable Products,,"Carrots, frozen, unprepared",,,,NDB number 11130.
-11124,FDCFOOD:11124,"Carrots, raw",Carrot,SR Legacy,Vegetables and Vegetable Products,,"Carrots, mature, raw",,,,NDB number 11124.
+11130,FDCFOOD:11130,"Carrots, frozen, unprepared",Carrot,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program)",,,,NDB number 11130.
+11124,FDCFOOD:11124,"Carrots, mature, raw",Carrot,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Carrots, raw",,,,NDB number 11124.
 11134,FDCFOOD:11134,"Cassava, raw",Cassava,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11134.
 11935,FDCFOOD:11935,Catsup,Ketchup,SR Legacy,Vegetables and Vegetable Products,catchup|ketchup,,,,,NDB number 11935.
 11949,FDCFOOD:11949,"Catsup, low sodium",Ketchup,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11949.
@@ -5163,7 +5180,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11967,FDCFOOD:11967,"Cauliflower, green, cooked, no salt added",Green Cauliflower,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11967.
 11968,FDCFOOD:11968,"Cauliflower, green, cooked, with salt",Green Cauliflower,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11968.
 11965,FDCFOOD:11965,"Cauliflower, green, raw",Green Cauliflower,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11965.
-11135,FDCFOOD:11135,"Cauliflower, raw",Cauliflower,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11135.
+11135,FDCFOOD:11135,"Cauliflower, raw",Cauliflower,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11135.
 11763,FDCFOOD:11763,"Celeriac, cooked, boiled, drained, with salt",Celeriac root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11763.
 11142,FDCFOOD:11142,"Celeriac, cooked, boiled, drained, without salt",Celeriac root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11142.
 11141,FDCFOOD:11141,"Celeriac, raw",Celeriac root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11141.
@@ -5191,7 +5208,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11769,FDCFOOD:11769,"Collards, frozen, chopped, cooked, boiled, drained, with salt",Collard,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11769.
 11164,FDCFOOD:11164,"Collards, frozen, chopped, cooked, boiled, drained, without salt",Collard,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11164.
 11163,FDCFOOD:11163,"Collards, frozen, chopped, unprepared",Collard,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11163.
-11161,FDCFOOD:11161,"Collards, raw",Collard,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11161.
+11161,FDCFOOD:11161,"Collards, raw",Collard,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11161.
 11165,FDCFOOD:11165,"Coriander (cilantro) leaves, raw",Cilantro leaf,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11165.
 11656,FDCFOOD:11656,"Corn pudding, home prepared",Corn-based products,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11656.
 11184,FDCFOOD:11184,"Corn with red and green peppers, canned, solids and liquids",Mixed vegetable products|Corn-based products,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11184.
@@ -5259,17 +5276,17 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11787,FDCFOOD:11787,"Drumstick pods, cooked, boiled, drained, with salt",Moringa oleifera pod,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11787.
 11621,FDCFOOD:11621,"Drumstick pods, cooked, boiled, drained, without salt",Moringa oleifera pod,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11621.
 11620,FDCFOOD:11620,"Drumstick pods, raw",Moringa oleifera pod,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11620.
-11212,FDCFOOD:11212,"Edamame, frozen, prepared",Soybean immature seed,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11212.
+11212,FDCFOOD:11212,"Edamame, frozen, prepared",Soybean immature seed,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11212.
 11211,FDCFOOD:11211,"Edamame, frozen, unprepared",Soybean immature seed,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11211.
 11783,FDCFOOD:11783,"Eggplant, cooked, boiled, drained, with salt",Eggplant,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11783.
 11210,FDCFOOD:11210,"Eggplant, cooked, boiled, drained, without salt",Eggplant,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11210.
 43146,FDCFOOD:43146,"Eggplant, pickled",Eggplant,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 43146.
-11209,FDCFOOD:11209,"Eggplant, raw",Eggplant,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11209.
+11209,FDCFOOD:11209,"Eggplant, raw",Eggplant,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11209.
 11213,FDCFOOD:11213,"Endive, raw",Endive,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11213.
 11984,FDCFOOD:11984,"Epazote, raw",Epazote,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11984.
 11618,FDCFOOD:11618,"Eppaw, raw",Eppaw,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11618.
 11214,FDCFOOD:11214,"Escarole, cooked, boiled, drained, no salt added",Escarole,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11214.
-11957,FDCFOOD:11957,"Fennel, bulb, raw",Fennel,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11957.
+11957,FDCFOOD:11957,"Fennel, bulb, raw",Fennel,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11957.
 11996,FDCFOOD:11996,"Fiddlehead ferns, frozen, unprepared",Fiddlehead fern,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11996.
 11995,FDCFOOD:11995,"Fiddlehead ferns, raw",Fiddlehead fern,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11995.
 11985,FDCFOOD:11985,"Fireweed, leaves, raw",Fireweed leaf,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11985.
@@ -5320,9 +5337,9 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11248,FDCFOOD:11248,"Lentils, sprouted, raw",Lentil sprouted seed,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11248.
 11250,FDCFOOD:11250,"Lettuce, butterhead (includes boston and bibb types), raw",Lettuce,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11250.
 11251,FDCFOOD:11251,"Lettuce, cos or romaine, raw",Lettuce,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11251.
-11253,FDCFOOD:11253,"Lettuce, green leaf, raw",Lettuce,SR Legacy,Vegetables and Vegetable Products,,"Lettuce, leaf, green, raw",,,,NDB number 11253.
-11252,FDCFOOD:11252,"Lettuce, iceberg (includes crisphead types), raw",Lettuce,SR Legacy,Vegetables and Vegetable Products,,"Lettuce, iceberg, raw",,,,NDB number 11252.
-11257,FDCFOOD:11257,"Lettuce, red leaf, raw",Lettuce,SR Legacy,Vegetables and Vegetable Products,,"Lettuce, leaf, red, raw",,,,NDB number 11257.
+11253,FDCFOOD:11253,"Lettuce, leaf, green, raw",Lettuce,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Lettuce, green leaf, raw",,,,NDB number 11253.
+11252,FDCFOOD:11252,"Lettuce, iceberg, raw",Lettuce,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Lettuce, iceberg (includes crisphead types), raw",,,,NDB number 11252.
+11257,FDCFOOD:11257,"Lettuce, leaf, red, raw",Lettuce,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Lettuce, red leaf, raw",,,,NDB number 11257.
 100281,FDCFOOD:100281,"Lettuce, romaine, green, raw",Lettuce,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100281.
 11715,FDCFOOD:11715,"Lima beans, immature seeds, canned, no salt added, solids and liquids",Lima bean immature seed,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11715.
 11033,FDCFOOD:11033,"Lima beans, immature seeds, canned, regular pack, solids and liquids",Lima bean immature seed,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11033.
@@ -5352,27 +5369,27 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 100265,FDCFOOD:100265,"Mushroom, pioppini",Mushroom,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100265.
 11938,FDCFOOD:11938,"Mushroom, white, exposed to ultraviolet light, raw",White mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11938.
 11936,FDCFOOD:11936,"Mushrooms, brown, italian, or crimini, exposed to ultraviolet light, raw",Brown mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11936.
-11266,FDCFOOD:11266,"Mushrooms, brown, italian, or crimini, raw",Brown mushroom,SR Legacy,Vegetables and Vegetable Products,,"Mushroom, crimini",,,,NDB number 11266.
+11266,FDCFOOD:11266,"Mushroom, crimini",Brown mushroom,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Mushrooms, brown, italian, or crimini, raw",,,,NDB number 11266.
 11264,FDCFOOD:11264,"Mushrooms, canned, drained solids",Mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11264.
 11239,FDCFOOD:11239,"Mushrooms, Chanterelle, raw",Mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11239.
-11950,FDCFOOD:11950,"Mushrooms, enoki, raw",Mushroom,SR Legacy,Vegetables and Vegetable Products,,"Mushroom, enoki",,,,NDB number 11950.
-11993,FDCFOOD:11993,"Mushrooms, maitake, raw",Mushroom,SR Legacy,Vegetables and Vegetable Products,,"Mushroom, maitake",,,,NDB number 11993.
+11950,FDCFOOD:11950,"Mushroom, enoki",Mushroom,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Mushrooms, enoki, raw",,,,NDB number 11950.
+11993,FDCFOOD:11993,"Mushroom, maitake",Mushroom,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Mushrooms, maitake, raw",,,,NDB number 11993.
 11240,FDCFOOD:11240,"Mushrooms, morel, raw",Mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11240.
-11987,FDCFOOD:11987,"Mushrooms, oyster, raw",Mushroom,SR Legacy,Vegetables and Vegetable Products,,"Mushroom, oyster",,,,NDB number 11987.
+11987,FDCFOOD:11987,"Mushroom, oyster",Mushroom,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Mushrooms, oyster, raw",,,,NDB number 11987.
 11939,FDCFOOD:11939,"Mushrooms, portabella, exposed to ultraviolet light, grilled",Portobello mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11939.
 11998,FDCFOOD:11998,"Mushrooms, portabella, exposed to ultraviolet light, raw",Portobello mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11998.
-11243,FDCFOOD:11243,"Mushrooms, portabella, grilled",Portobello mushroom,SR Legacy,Vegetables and Vegetable Products,,"Mushroom, portabella",,,,NDB number 11243.
+11243,FDCFOOD:11243,"Mushroom, portabella",Portobello mushroom,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Mushrooms, portabella, grilled",,,,NDB number 11243.
 11265,FDCFOOD:11265,"Mushrooms, portabella, raw",Portobello mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11265.
 11798,FDCFOOD:11798,"Mushrooms, shiitake, cooked, with salt",Shiitake mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11798.
 11269,FDCFOOD:11269,"Mushrooms, shiitake, cooked, without salt",Shiitake mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11269.
 11268,FDCFOOD:11268,"Mushrooms, shiitake, dried",Shiitake mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11268.
-11238,FDCFOOD:11238,"Mushrooms, shiitake, raw",Shiitake mushroom,SR Legacy,Vegetables and Vegetable Products,,"Mushrooms, shiitake",,,,NDB number 11238.
+11238,FDCFOOD:11238,"Mushrooms, shiitake",Shiitake mushroom,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Mushrooms, shiitake, raw",,,,NDB number 11238.
 11267,FDCFOOD:11267,"Mushrooms, shiitake, stir-fried",Shiitake mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11267.
 11989,FDCFOOD:11989,"Mushrooms, straw, canned, drained solids",Mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11989.
 11797,FDCFOOD:11797,"Mushrooms, white, cooked, boiled, drained, with salt",White mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11797.
 11261,FDCFOOD:11261,"Mushrooms, white, cooked, boiled, drained, without salt",White mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11261.
 11992,FDCFOOD:11992,"Mushrooms, white, microwaved",White mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11992.
-11260,FDCFOOD:11260,"Mushrooms, white, raw",White mushroom,SR Legacy,Vegetables and Vegetable Products,,"Mushrooms, white button",,,,NDB number 11260.
+11260,FDCFOOD:11260,"Mushrooms, white button",White mushroom,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Mushrooms, white, raw",,,,NDB number 11260.
 11263,FDCFOOD:11263,"Mushrooms, white, stir-fried",White mushroom,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11263.
 11799,FDCFOOD:11799,"Mustard greens, cooked, boiled, drained, with salt",Mustard leaf,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11799.
 11271,FDCFOOD:11271,"Mustard greens, cooked, boiled, drained, without salt",Mustard leaf,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11271.
@@ -5419,7 +5436,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11297,FDCFOOD:11297,"Parsley, fresh",Parsley,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11297.
 11808,FDCFOOD:11808,"Parsnips, cooked, boiled, drained, with salt",Parsnip,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11808.
 11299,FDCFOOD:11299,"Parsnips, cooked, boiled, drained, without salt",Parsnip,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11299.
-11298,FDCFOOD:11298,"Parsnips, raw",Parsnip,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11298.
+11298,FDCFOOD:11298,"Parsnips, raw",Parsnip,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11298.
 11816,FDCFOOD:11816,"Peas and carrots, canned, no salt added, solids and liquids",Pea and carrot mixed products,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11816.
 11318,FDCFOOD:11318,"Peas and carrots, canned, regular pack, solids and liquids",Pea and carrot mixed products,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11318.
 11817,FDCFOOD:11817,"Peas and carrots, frozen, cooked, boiled, drained, with salt",Pea and carrot mixed products,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11817.
@@ -5472,7 +5489,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11338,FDCFOOD:11338,"Peppers, sweet, green, frozen, chopped, boiled, drained, without salt",Green bell pepper,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11338.
 11825,FDCFOOD:11825,"Peppers, sweet, green, frozen, chopped, cooked, boiled, drained, with salt",Green bell pepper,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11825.
 11337,FDCFOOD:11337,"Peppers, sweet, green, frozen, chopped, unprepared",Green bell pepper,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11337.
-11333,FDCFOOD:11333,"Peppers, sweet, green, raw",Green bell pepper,SR Legacy,Vegetables and Vegetable Products,,"Peppers, bell, green, raw",,,,NDB number 11333.
+11333,FDCFOOD:11333,"Peppers, bell, green, raw",Green bell pepper,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Peppers, sweet, green, raw",,,,NDB number 11333.
 11339,FDCFOOD:11339,"Peppers, sweet, green, sauteed",Green bell pepper,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11339.
 11916,FDCFOOD:11916,"Peppers, sweet, red, canned, solids and liquids",Red bell pepper,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11916.
 11824,FDCFOOD:11824,"Peppers, sweet, red, cooked, boiled, drained, with salt",Red bell pepper,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11824.
@@ -5481,9 +5498,9 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11919,FDCFOOD:11919,"Peppers, sweet, red, frozen, chopped, boiled, drained, with salt",Red bell pepper,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11919.
 11918,FDCFOOD:11918,"Peppers, sweet, red, frozen, chopped, boiled, drained, without salt",Red bell pepper,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11918.
 11917,FDCFOOD:11917,"Peppers, sweet, red, frozen, chopped, unprepared",Red bell pepper,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11917.
-11821,FDCFOOD:11821,"Peppers, sweet, red, raw",Red bell pepper,SR Legacy,Vegetables and Vegetable Products,,"Peppers, bell, red, raw",,,,NDB number 11821.
+11821,FDCFOOD:11821,"Peppers, bell, red, raw",Red bell pepper,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Peppers, sweet, red, raw",,,,NDB number 11821.
 11921,FDCFOOD:11921,"Peppers, sweet, red, sauteed",Red bell pepper,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11921.
-11951,FDCFOOD:11951,"Peppers, sweet, yellow, raw",Yellow bell pepper,SR Legacy,Vegetables and Vegetable Products,,"Peppers, bell, yellow, raw",,,,NDB number 11951.
+11951,FDCFOOD:11951,"Peppers, bell, yellow, raw",Yellow bell pepper,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Peppers, sweet, yellow, raw",,,,NDB number 11951.
 11958,FDCFOOD:11958,"Pickle relish, hamburger",Pickle relish,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11958.
 11944,FDCFOOD:11944,"Pickle relish, hot dog",Pickle relish,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11944.
 11945,FDCFOOD:11945,"Pickle relish, sweet",Pickle relish,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11945.
@@ -5502,7 +5519,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11827,FDCFOOD:11827,"Pokeberry shoots, (poke), cooked, boiled, drained, with salt",Pokeberry shoot,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11827.
 11351,FDCFOOD:11351,"Pokeberry shoots, (poke), cooked, boiled, drained, without salt",Pokeberry shoot,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11351.
 11350,FDCFOOD:11350,"Pokeberry shoots, (poke), raw",Pokeberry shoot,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11350.
-11413,FDCFOOD:11413,Potato flour,Vegetable flour,SR Legacy,Vegetables and Vegetable Products,,"Flour, potato",,,,NDB number 11413.
+11413,FDCFOOD:11413,"Flour, potato",Vegetable flour,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,Potato flour,,,,NDB number 11413.
 11672,FDCFOOD:11672,Potato pancakes,Potato-based products,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11672.
 11399,FDCFOOD:11399,"Potato puffs, frozen, oven-heated",Potato puffs,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11399.
 11398,FDCFOOD:11398,"Potato puffs, frozen, unprepared",Potato puffs,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11398.
@@ -5609,7 +5626,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11849,FDCFOOD:11849,"Purslane, cooked, boiled, drained, with salt",Purslane,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11849.
 11428,FDCFOOD:11428,"Purslane, cooked, boiled, drained, without salt",Purslane,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11428.
 11427,FDCFOOD:11427,"Purslane, raw",Purslane,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11427.
-11952,FDCFOOD:11952,"Radicchio, raw",Chicory,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11952.
+11952,FDCFOOD:11952,"Radicchio, raw",Chicory,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11952.
 11676,FDCFOOD:11676,"Radish seeds, sprouted, raw",Radish seed,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11676.
 43142,FDCFOOD:43142,"Radishes, hawaiian style, pickled",Radish root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 43142.
 11850,FDCFOOD:11850,"Radishes, oriental, cooked, boiled, drained, with salt",Daikon root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11850.
@@ -5658,7 +5675,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11856,FDCFOOD:11856,"Spinach, frozen, chopped or leaf, cooked, boiled, drained, with salt",Spinach,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11856.
 11464,FDCFOOD:11464,"Spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt",Spinach,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11464.
 11463,FDCFOOD:11463,"Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food Distribution Program)",Spinach,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11463.
-11457,FDCFOOD:11457,"Spinach, raw",Spinach,SR Legacy,Vegetables and Vegetable Products,,"Spinach, mature",,,,NDB number 11457.
+11457,FDCFOOD:11457,"Spinach, mature",Spinach,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Spinach, raw",,,,NDB number 11457.
 11857,FDCFOOD:11857,"Squash, summer, all varieties, cooked, boiled, drained, with salt",Summer squash mixture,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11857.
 11642,FDCFOOD:11642,"Squash, summer, all varieties, cooked, boiled, drained, without salt",Summer squash mixture,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11642.
 11641,FDCFOOD:11641,"Squash, summer, all varieties, raw",Summer squash mixture,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11641.
@@ -5683,7 +5700,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11483,FDCFOOD:11483,"Squash, winter, acorn, cooked, baked, without salt",Acorn squash,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11483.
 11865,FDCFOOD:11865,"Squash, winter, acorn, cooked, boiled, mashed, with salt",Acorn squash,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11865.
 11484,FDCFOOD:11484,"Squash, winter, acorn, cooked, boiled, mashed, without salt",Acorn squash,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11484.
-11482,FDCFOOD:11482,"Squash, winter, acorn, raw",Acorn squash,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11482.
+11482,FDCFOOD:11482,"Squash, winter, acorn, raw",Acorn squash,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11482.
 11863,FDCFOOD:11863,"Squash, winter, all varieties, cooked, baked, with salt",Winter squash mixture,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11863.
 11644,FDCFOOD:11644,"Squash, winter, all varieties, cooked, baked, without salt",Winter squash mixture,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11644.
 11643,FDCFOOD:11643,"Squash, winter, all varieties, raw",Winter squash mixture,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11643.
@@ -5692,7 +5709,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11867,FDCFOOD:11867,"Squash, winter, butternut, frozen, cooked, boiled, with salt",Butternut squash,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11867.
 11488,FDCFOOD:11488,"Squash, winter, butternut, frozen, cooked, boiled, without salt",Butternut squash,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11488.
 11487,FDCFOOD:11487,"Squash, winter, butternut, frozen, unprepared",Butternut squash,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11487.
-11485,FDCFOOD:11485,"Squash, winter, butternut, raw",Butternut squash,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11485.
+11485,FDCFOOD:11485,"Squash, winter, butternut, raw",Butternut squash,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11485.
 11868,FDCFOOD:11868,"Squash, winter, hubbard, baked, with salt",Hubbard squash,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11868.
 11490,FDCFOOD:11490,"Squash, winter, hubbard, baked, without salt",Hubbard squash,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11490.
 11869,FDCFOOD:11869,"Squash, winter, hubbard, cooked, boiled, mashed, with salt",Hubbard squash,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11869.
@@ -5744,7 +5761,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11525,FDCFOOD:11525,"Taro, tahitian, raw",Tahitian taro,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11525.
 11954,FDCFOOD:11954,"Tomatillos, raw",Tomatillo,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11954.
 11548,FDCFOOD:11548,Tomato powder,Tomato-based products,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11548.
-11546,FDCFOOD:11546,"Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)",Tomato paste,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11546.
+11546,FDCFOOD:11546,"Tomato, paste, canned, without salt added",Tomato paste,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)",,,,NDB number 11546.
 11888,FDCFOOD:11888,"Tomato products, canned, puree, with salt added",Tomato puree,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11888.
 11547,FDCFOOD:11547,"Tomato products, canned, puree, without salt added",Tomato puree,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11547.
 11549,FDCFOOD:11549,"Tomato products, canned, sauce",Tomato sauce,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11549.
@@ -5757,7 +5774,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 43217,FDCFOOD:43217,"Tomato sauce, canned, no salt added",Tomato sauce,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 43217.
 100261,FDCFOOD:100261,"Tomato, roma",Tomato,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100261.
 100193,FDCFOOD:100193,"Tomatoes, canned, red, ripe, diced",Red tomato,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100193.
-11693,FDCFOOD:11693,"Tomatoes, crushed, canned",Tomato,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11693.
+11693,FDCFOOD:11693,"Tomatoes, crushed, canned",Tomato,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11693.
 100147,FDCFOOD:100147,"Tomatoes, grape, raw",Tomato,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100147.
 11527,FDCFOOD:11527,"Tomatoes, green, raw",Tomato,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11527.
 11695,FDCFOOD:11695,"Tomatoes, orange, raw",Tomato,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11695.
@@ -5790,7 +5807,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 11890,FDCFOOD:11890,"Turnips, frozen, cooked, boiled, drained, with salt",Turnip root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11890.
 11567,FDCFOOD:11567,"Turnips, frozen, cooked, boiled, drained, without salt",Turnip root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11567.
 11566,FDCFOOD:11566,"Turnips, frozen, unprepared",Turnip root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11566.
-11564,FDCFOOD:11564,"Turnips, raw",Turnip root,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11564.
+11564,FDCFOOD:11564,"Turnips, raw",Turnip root,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 11564.
 43312,FDCFOOD:43312,"Vegetables, mixed (corn, lima beans, peas, green beans, carrots) canned, no salt added",Mixed vegetable products|Corn-based products|Mixed canned bean products|Pea-based products,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 43312.
 11581,FDCFOOD:11581,"Vegetables, mixed, canned, drained solids",Mixed vegetable products,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11581.
 11579,FDCFOOD:11579,"Vegetables, mixed, canned, solids and liquids",Mixed vegetable products,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11579.
@@ -5826,7 +5843,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 43406,FDCFOOD:43406,Yeast extract spread,Yeast products,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 43406.
 11655,FDCFOOD:11655,"Carrot juice, canned",Vegetable juices,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11655.
 43365,FDCFOOD:43365,"Tomato and vegetable juice, low sodium",Fruit and vegetable juice mixture|Vegetable juices,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 43365.
-11540,FDCFOOD:11540,"Tomato juice, canned, with salt added",Tomato juice|Vegetable juices,SR Legacy,Vegetables and Vegetable Products,,"Tomato juice, with added ingredients, from concentrate, shelf stable",,,,NDB number 11540.
+11540,FDCFOOD:11540,"Tomato juice, with added ingredients, from concentrate, shelf stable",Tomato juice|Vegetable juices,SR Legacy|Foundation Foods,Vegetables and Vegetable Products,,"Tomato juice, canned, with salt added",,,,NDB number 11540.
 11886,FDCFOOD:11886,"Tomato juice, canned, without salt added",Tomato juice|Vegetable juices,SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11886.
 11578,FDCFOOD:11578,"Vegetable juice cocktail, canned","Beverages, containing fruit or vegetable juice|Vegetable juice cocktail",SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11578.
 11585,FDCFOOD:11585,"Vegetable juice cocktail, low sodium, canned","Beverages, containing fruit or vegetable juice|Vegetable juice cocktail",SR Legacy,Vegetables and Vegetable Products,,,,,,NDB number 11585.
@@ -5838,10 +5855,10 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 16002,FDCFOOD:16002,"Beans, adzuki, mature seeds, cooked, boiled, without salt",Adzuki bean,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16002.
 16001,FDCFOOD:16001,"Beans, adzuki, mature seeds, raw",Adzuki bean,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16001.
 43449,FDCFOOD:43449,"Beans, baked, canned, no salt added",Baked beans,SR Legacy,Legumes and Legume Products,,,,,,NDB number 43449.
-16006,FDCFOOD:16006,"Beans, baked, canned, plain or vegetarian",Baked beans,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16006.
+16006,FDCFOOD:16006,"Beans, baked, canned, vegetarian",Baked beans,SR Legacy|Foundation Foods,Legumes and Legume Products,,"Beans, baked, canned, plain or vegetarian",,,,NDB number 16006.
 16007,FDCFOOD:16007,"Beans, baked, canned, with beef",Baked beans,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16007.
 16008,FDCFOOD:16008,"Beans, baked, canned, with franks",Baked beans,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16008.
-16009,FDCFOOD:16009,"Beans, baked, canned, with pork",Baked beans,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16009.
+16009,FDCFOOD:16009,"Baked beans, Original, canned, with pork",Baked beans,SR Legacy|Foundation Foods,Legumes and Legume Products,,"Beans, baked, canned, with pork",,,,NDB number 16009.
 16010,FDCFOOD:16010,"Beans, baked, canned, with pork and sweet sauce",Baked beans,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16010.
 16011,FDCFOOD:16011,"Beans, baked, canned, with pork and tomato sauce",Baked beans,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16011.
 16005,FDCFOOD:16005,"Beans, baked, home prepared",Baked beans,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16005.
@@ -6000,8 +6017,8 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 16397,FDCFOOD:16397,"Peanut butter, chunk style, without salt",Chunky peanut butter,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16397.
 16156,FDCFOOD:16156,"Peanut butter, chunky, vitamin and mineral fortified",Chunky peanut butter,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16156.
 42291,FDCFOOD:42291,"Peanut butter, reduced sodium",Peanut butter,SR Legacy,Legumes and Legume Products,,,,,,NDB number 42291.
-16167,FDCFOOD:16167,"Peanut Butter, smooth (Includes foods for USDA's Food Distribution Program)",Smooth peanut butter,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16167.
-16098,FDCFOOD:16098,"Peanut butter, smooth style, with salt (Includes foods for USDA's Food Distribution Program)",Smooth peanut butter,SR Legacy,Legumes and Legume Products,,"Peanut butter, creamy",,,,NDB number 16098.
+16167,FDCFOOD:16167,"Peanut butter, Creamy",Smooth peanut butter,SR Legacy|Foundation Foods,Legumes and Legume Products,,"Peanut Butter, smooth (Includes foods for USDA's Food Distribution Program)",,,,NDB number 16167.
+16098,FDCFOOD:16098,"Peanut butter, creamy",Smooth peanut butter,SR Legacy|Foundation Foods,Legumes and Legume Products,,"Peanut butter, smooth style, with salt (Includes foods for USDA's Food Distribution Program)",,,,NDB number 16098.
 16398,FDCFOOD:16398,"Peanut butter, smooth style, without salt",Smooth peanut butter,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16398.
 16150,FDCFOOD:16150,"Peanut butter, smooth, reduced fat",Smooth peanut butter,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16150.
 16155,FDCFOOD:16155,"Peanut butter, smooth, vitamin and mineral fortified",Smooth peanut butter,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16155.
@@ -6013,7 +6030,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 16390,FDCFOOD:16390,"Peanuts, all types, dry-roasted, without salt",Peanut mixture,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16390.
 16089,FDCFOOD:16089,"Peanuts, all types, oil-roasted, with salt",Peanut mixture,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16089.
 16389,FDCFOOD:16389,"Peanuts, all types, oil-roasted, without salt",Peanut mixture,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16389.
-16087,FDCFOOD:16087,"Peanuts, all types, raw",Peanut mixture,SR Legacy,Legumes and Legume Products,,"Peanuts, raw",,,,NDB number 16087.
+16087,FDCFOOD:16087,"Peanuts, raw",Peanut mixture,SR Legacy|Foundation Foods,Legumes and Legume Products,,"Peanuts, all types, raw",,,,NDB number 16087.
 16092,FDCFOOD:16092,"Peanuts, spanish, oil-roasted, with salt",Spanish peanut,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16092.
 16392,FDCFOOD:16392,"Peanuts, spanish, oil-roasted, without salt",Spanish peanut,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16392.
 16091,FDCFOOD:16091,"Peanuts, spanish, raw",Spanish peanut,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16091.
@@ -6032,7 +6049,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 16172,FDCFOOD:16172,"Refried beans, canned, fat-free",Refried beans,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16172.
 16103,FDCFOOD:16103,"Refried beans, canned, traditional style",Refried beans,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16103.
 16403,FDCFOOD:16403,"Refried beans, canned, traditional, reduced sodium",Refried beans,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16403.
-16171,FDCFOOD:16171,"Refried beans, canned, vegetarian",Refried beans,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16171.
+16171,FDCFOOD:16171,"Refried beans, canned, vegetarian",Refried beans,SR Legacy|Foundation Foods,Legumes and Legume Products,,,,,,NDB number 16171.
 43135,FDCFOOD:43135,"Sandwich spread, meatless",Legume-based meat substitute product,SR Legacy,Legumes and Legume Products,,,,,,NDB number 43135.
 16107,FDCFOOD:16107,"Sausage, meatless",Legume-based meat substitute product,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16107.
 16259,FDCFOOD:16259,SILK Banana-Strawberry soy yogurt,Soy yogurt,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16259.
@@ -6063,8 +6080,8 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 16251,FDCFOOD:16251,SILK Vanilla soy yogurt (single serving size),Soy yogurt,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16251.
 16236,FDCFOOD:16236,"SILK Vanilla, soymilk",Soy milk,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16236.
 16245,FDCFOOD:16245,"SILK Very Vanilla, soymilk",Soy milk,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16245.
-16117,FDCFOOD:16117,"Soy flour, defatted",Soybean flour,SR Legacy,Legumes and Legume Products,,"Flour, soy, defatted",,,,NDB number 16117.
-16115,FDCFOOD:16115,"Soy flour, full-fat, raw",Soybean flour,SR Legacy,Legumes and Legume Products,,"Flour, soy, full-fat",,,,NDB number 16115.
+16117,FDCFOOD:16117,"Flour, soy, defatted",Soybean flour,SR Legacy|Foundation Foods,Legumes and Legume Products,,"Soy flour, defatted",,,,NDB number 16117.
+16115,FDCFOOD:16115,"Flour, soy, full-fat",Soybean flour,SR Legacy|Foundation Foods,Legumes and Legume Products,,"Soy flour, full-fat, raw",,,,NDB number 16115.
 16116,FDCFOOD:16116,"Soy flour, full-fat, roasted",Soybean flour,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16116.
 16118,FDCFOOD:16118,"Soy flour, low-fat",Soybean flour,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16118.
 16119,FDCFOOD:16119,"Soy meal, defatted, raw",Soybean meal,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16119.
@@ -6088,7 +6105,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 16223,FDCFOOD:16223,"Soymilk (All flavors), enhanced",Soy milk,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16223.
 16229,FDCFOOD:16229,"Soymilk (All flavors), lowfat, with added calcium, vitamins A and D",Soy milk,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16229.
 16230,FDCFOOD:16230,"Soymilk (all flavors), nonfat, with added calcium, vitamins A and D",Soy milk,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16230.
-16222,FDCFOOD:16222,"Soymilk (all flavors), unsweetened, with added calcium, vitamins A and D",Soy milk,SR Legacy,Legumes and Legume Products,,"Soy milk, unsweetened, plain, shelf stable",,,,NDB number 16222.
+16222,FDCFOOD:16222,"Soy milk, unsweetened, plain, shelf stable",Soy milk,SR Legacy|Foundation Foods,Legumes and Legume Products,,"Soymilk (all flavors), unsweetened, with added calcium, vitamins A and D",,,,NDB number 16222.
 16227,FDCFOOD:16227,"Soymilk, chocolate and other flavors, light, with added calcium, vitamins A and D",Soy milk,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16227.
 16231,FDCFOOD:16231,"Soymilk, chocolate, nonfat, with added calcium, vitamins A and D",Soy milk,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16231.
 16166,FDCFOOD:16166,"Soymilk, chocolate, unfortified",Soy milk,SR Legacy,Legumes and Legume Products,,,,,,NDB number 16166.
@@ -6149,18 +6166,18 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9011,FDCFOOD:9011,"Apples, dried, sulfured, uncooked",Dried apple,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9011.
 9015,FDCFOOD:9015,"Apples, frozen, unsweetened, heated (Includes foods for USDA's Food Distribution Program)",Frozen apple,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9015.
 9014,FDCFOOD:9014,"Apples, frozen, unsweetened, unheated (Includes foods for USDA's Food Distribution Program)",Frozen apple,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9014.
-9504,FDCFOOD:9504,"Apples, raw, fuji, with skin (Includes foods for USDA's Food Distribution Program)",Raw apple,SR Legacy,Fruits and Fruit Juices,,"Apples, fuji, with skin, raw",,,,NDB number 9504.
-9503,FDCFOOD:9503,"Apples, raw, gala, with skin (Includes foods for USDA's Food Distribution Program)",Raw apple,SR Legacy,Fruits and Fruit Juices,,"Apples, gala, with skin, raw",,,,NDB number 9503.
-9501,FDCFOOD:9501,"Apples, raw, golden delicious, with skin",Raw apple,SR Legacy,Fruits and Fruit Juices,,"Apples, honeycrisp, with skin, raw",,,,NDB number 9501.
-9502,FDCFOOD:9502,"Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",Raw apple,SR Legacy,Fruits and Fruit Juices,,"Apples, granny smith, with skin, raw",,,,NDB number 9502.
-9500,FDCFOOD:9500,"Apples, raw, red delicious, with skin (Includes foods for USDA's Food Distribution Program)",Raw apple,SR Legacy,Fruits and Fruit Juices,,"Apples, red delicious, with skin, raw",,,,NDB number 9500.
+9504,FDCFOOD:9504,"Apples, fuji, with skin, raw",Raw apple,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Apples, raw, fuji, with skin (Includes foods for USDA's Food Distribution Program)",,,,NDB number 9504.
+9503,FDCFOOD:9503,"Apples, gala, with skin, raw",Raw apple,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Apples, raw, gala, with skin (Includes foods for USDA's Food Distribution Program)",,,,NDB number 9503.
+9501,FDCFOOD:9501,"Apples, honeycrisp, with skin, raw",Raw apple,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Apples, raw, golden delicious, with skin",,,,NDB number 9501.
+9502,FDCFOOD:9502,"Apples, granny smith, with skin, raw",Raw apple,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",,,,NDB number 9502.
+9500,FDCFOOD:9500,"Apples, red delicious, with skin, raw",Raw apple,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Apples, raw, red delicious, with skin (Includes foods for USDA's Food Distribution Program)",,,,NDB number 9500.
 9003,FDCFOOD:9003,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",Raw apple,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9003.
 9004,FDCFOOD:9004,"Apples, raw, without skin",Raw apple,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9004.
 9005,FDCFOOD:9005,"Apples, raw, without skin, cooked, boiled",Raw apple,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9005.
 9006,FDCFOOD:9006,"Apples, raw, without skin, cooked, microwave",Raw apple,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9006.
 9402,FDCFOOD:9402,"Applesauce, canned, sweetened, with salt",Applesauce,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9402.
 9020,FDCFOOD:9020,"Applesauce, canned, sweetened, without salt",Applesauce,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9020.
-9401,FDCFOOD:9401,"Applesauce, canned, unsweetened, with added ascorbic acid",Applesauce,SR Legacy,Fruits and Fruit Juices,,"Applesauce, unsweetened, with added vitamin C",,,,NDB number 9401.
+9401,FDCFOOD:9401,"Applesauce, unsweetened, with added vitamin C",Applesauce,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Applesauce, canned, unsweetened, with added ascorbic acid",,,,NDB number 9401.
 9019,FDCFOOD:9019,"Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)",Applesauce,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9019.
 9036,FDCFOOD:9036,"Apricot nectar, canned, with added ascorbic acid",Apricot-based products,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9036.
 9029,FDCFOOD:9029,"Apricots, canned, extra heavy syrup pack, without skin, solids and liquids",Canned Apricot,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9029.
@@ -6178,17 +6195,17 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9033,FDCFOOD:9033,"Apricots, dried, sulfured, stewed, without added sugar",Dried Apricot,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9033.
 9032,FDCFOOD:9032,"Apricots, dried, sulfured, uncooked",Dried Apricot,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9032.
 9035,FDCFOOD:9035,"Apricots, frozen, sweetened",Apricot,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9035.
-9021,FDCFOOD:9021,"Apricots, raw",Apricot,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9021.
+9021,FDCFOOD:9021,"Apricot, with skin, raw",Apricot,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Apricots, raw",,,,NDB number 9021.
 9037,FDCFOOD:9037,"Avocados, raw, all commercial varieties",Avocado,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9037.
 9038,FDCFOOD:9038,"Avocados, raw, California",Avocado,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9038.
 9039,FDCFOOD:9039,"Avocados, raw, Florida",Avocado,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9039.
 9041,FDCFOOD:9041,"Bananas, dehydrated, or banana powder",Banana,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9041.
 100254,FDCFOOD:100254,"Bananas, overripe, raw",Banana,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100254.
-9040,FDCFOOD:9040,"Bananas, raw",Banana,SR Legacy,Fruits and Fruit Juices,,"Bananas, ripe and slightly ripe, raw",,,,NDB number 9040.
+9040,FDCFOOD:9040,"Bananas, ripe and slightly ripe, raw",Banana,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Bananas, raw",,,,NDB number 9040.
 9544,FDCFOOD:9544,Baobab powder,Fruit-based products,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9544.
 9046,FDCFOOD:9046,"Blackberries, canned, heavy syrup, solids and liquids",Blackberry,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9046.
 9048,FDCFOOD:9048,"Blackberries, frozen, unsweetened",Blackberry,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9048.
-9042,FDCFOOD:9042,"Blackberries, raw",Blackberry,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9042.
+9042,FDCFOOD:9042,"Blackberries, raw",Blackberry,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 9042.
 9052,FDCFOOD:9052,"Blueberries, canned, heavy syrup, solids and liquids",Blueberry,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9052.
 9352,FDCFOOD:9352,"Blueberries, canned, light syrup, drained",Blueberry,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9352.
 9163,FDCFOOD:9163,"Blueberries, dried, sweetened",Blueberry,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9163.
@@ -6217,11 +6234,11 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9074,FDCFOOD:9074,"Cherries, sweet, canned, pitted, heavy syrup pack, solids and liquids",Sweet cherry,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9074.
 9367,FDCFOOD:9367,"Cherries, sweet, canned, pitted, heavy syrup, drained",Sweet cherry,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9367.
 9071,FDCFOOD:9071,"Cherries, sweet, canned, water pack, solids and liquids",Sweet cherry,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9071.
-9070,FDCFOOD:9070,"Cherries, sweet, raw",Sweet cherry,SR Legacy,Fruits and Fruit Juices,,"Cherries, sweet, dark red, raw",,,,NDB number 9070.
+9070,FDCFOOD:9070,"Cherries, sweet, dark red, raw",Sweet cherry,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Cherries, sweet, raw",,,,NDB number 9070.
 9044,FDCFOOD:9044,"Cherries, tart, dried, sweetened (Includes foods for USDA's Food Distribution Program)",Sour cherry,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9044.
 9433,FDCFOOD:9433,"Clementines, raw",Clementine,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9433.
 9077,FDCFOOD:9077,"Crabapples, raw",Crabapple,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9077.
-9079,FDCFOOD:9079,"Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)",Cranberry,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9079.
+9079,FDCFOOD:9079,"Cranberries, dried, sweetened",Cranberry,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)",,,,NDB number 9079.
 9078,FDCFOOD:9078,"Cranberries, raw",Cranberry,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9078.
 9522,FDCFOOD:9522,"Cranberry juice blend, 100% juice, bottled, with added vitamin C and calcium",Cranberry juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9522.
 9081,FDCFOOD:9081,"Cranberry sauce, canned, sweetened",Cranberry sauce,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9081.
@@ -6312,7 +6329,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9185,FDCFOOD:9185,"Melon balls, frozen",Fruit-based products,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9185.
 9181,FDCFOOD:9181,"Melons, cantaloupe, raw",Cantaloupe,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 9181.
 9183,FDCFOOD:9183,"Melons, casaba, raw",Casaba melon,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9183.
-9184,FDCFOOD:9184,"Melons, honeydew, raw",Honeydew,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9184.
+9184,FDCFOOD:9184,"Melons, honeydew, raw",Honeydew,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 9184.
 9190,FDCFOOD:9190,"Mulberries, raw",Mulberry,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9190.
 9448,FDCFOOD:9448,"Nance, canned, syrup, drained",Nance,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9448.
 9449,FDCFOOD:9449,"Nance, frozen, unsweetened",Nance,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9449.
@@ -6329,7 +6346,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9200,FDCFOOD:9200,"Oranges, raw, all commercial varieties",Orange fruit,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9200.
 9201,FDCFOOD:9201,"Oranges, raw, California, valencias",Orange fruit,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9201.
 9203,FDCFOOD:9203,"Oranges, raw, Florida",Orange fruit,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9203.
-9202,FDCFOOD:9202,"Oranges, raw, navels (Includes foods for USDA's Food Distribution Program)",Orange fruit,SR Legacy,Fruits and Fruit Juices,,"Oranges, raw, navels",,,,NDB number 9202.
+9202,FDCFOOD:9202,"Oranges, raw, navels",Orange fruit,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Oranges, raw, navels (Includes foods for USDA's Food Distribution Program)",,,,NDB number 9202.
 9205,FDCFOOD:9205,"Oranges, raw, with peel",Orange fruit,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9205.
 9229,FDCFOOD:9229,"Papaya nectar, canned",Fruit-based products,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9229.
 9228,FDCFOOD:9228,"Papaya, canned, heavy syrup, drained",Papaya,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9228.
@@ -6366,9 +6383,9 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9260,FDCFOOD:9260,"Pears, dried, sulfured, stewed, without added sugar",Dried pear,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9260.
 9259,FDCFOOD:9259,"Pears, dried, sulfured, uncooked",Dried pear,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9259.
 9252,FDCFOOD:9252,"Pears, raw",Raw pear,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9252.
-9412,FDCFOOD:9412,"Pears, raw, bartlett (Includes foods for USDA's Food Distribution Program)",Raw pear,SR Legacy,Fruits and Fruit Juices,,"Pears, raw, bartlett",,,,NDB number 9412.
+9412,FDCFOOD:9412,"Pears, raw, bartlett",Raw pear,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Pears, raw, bartlett (Includes foods for USDA's Food Distribution Program)",,,,NDB number 9412.
 9414,FDCFOOD:9414,"Pears, raw, bosc (Includes foods for USDA's Food Distribution Program)",Raw pear,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9414.
-9415,FDCFOOD:9415,"Pears, raw, green anjou (Includes foods for USDA's Food Distribution Program)",Raw pear,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9415.
+9415,FDCFOOD:9415,"Pear, Anjou, green, with skin, raw",Raw pear,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Pears, raw, green anjou (Includes foods for USDA's Food Distribution Program)",,,,NDB number 9415.
 9413,FDCFOOD:9413,"Pears, raw, red anjou",Raw pear,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9413.
 9264,FDCFOOD:9264,"Persimmons, japanese, dried",Japanese persimmon,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9264.
 9263,FDCFOOD:9263,"Persimmons, japanese, raw",Japanese persimmon,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9263.
@@ -6381,16 +6398,16 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9269,FDCFOOD:9269,"Pineapple, canned, light syrup pack, solids and liquids",Canned pineapple with syrup,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9269.
 9267,FDCFOOD:9267,"Pineapple, canned, water pack, solids and liquids",Canned pineapple,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9267.
 9272,FDCFOOD:9272,"Pineapple, frozen, chunks, sweetened",Pineapple-based products,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9272.
-9266,FDCFOOD:9266,"Pineapple, raw, all varieties",Raw pineapple,SR Legacy,Fruits and Fruit Juices,,"Pineapple, raw",,,,NDB number 9266.
+9266,FDCFOOD:9266,"Pineapple, raw",Raw pineapple,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Pineapple, raw, all varieties",,,,NDB number 9266.
 9430,FDCFOOD:9430,"Pineapple, raw, extra sweet variety",Raw pineapple,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9430.
 9429,FDCFOOD:9429,"Pineapple, raw, traditional varieties",Raw pineapple,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9429.
 9276,FDCFOOD:9276,"Pitanga, (surinam-cherry), raw",Suriname cherry,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9276.
 9543,FDCFOOD:9543,"Plantains, green, boiled",Green plantain,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9543.
 9446,FDCFOOD:9446,"Plantains, green, fried",Green plantain,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9446.
-9542,FDCFOOD:9542,"Plantains, green, raw",Green plantain,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9542.
+9542,FDCFOOD:9542,"Plantains, underripe, raw",Green plantain,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Plantains, green, raw",,,,NDB number 9542.
 9278,FDCFOOD:9278,"Plantains, yellow, baked",Yellow plantain,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9278.
 9447,FDCFOOD:9447,"Plantains, yellow, fried, Latino restaurant",Yellow plantain,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9447.
-9277,FDCFOOD:9277,"Plantains, yellow, raw",Yellow plantain,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9277.
+9277,FDCFOOD:9277,"Plantains, ripe, raw",Yellow plantain,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Plantains, yellow, raw",,,,NDB number 9277.
 9379,FDCFOOD:9379,"Plums, canned, heavy syrup, drained",Canned plum with syrup,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9379.
 9285,FDCFOOD:9285,"Plums, canned, purple, extra heavy syrup pack, solids and liquids",Canned plum with syrup,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9285.
 9284,FDCFOOD:9284,"Plums, canned, purple, heavy syrup pack, solids and liquids",Canned plum with syrup,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9284.
@@ -6399,7 +6416,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9281,FDCFOOD:9281,"Plums, canned, purple, water pack, solids and liquids",Canned plum,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9281.
 9293,FDCFOOD:9293,"Plums, dried (prunes), stewed, with added sugar",Dried plum,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9293.
 9292,FDCFOOD:9292,"Plums, dried (prunes), stewed, without added sugar",Dried plum,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9292.
-9291,FDCFOOD:9291,"Plums, dried (prunes), uncooked",Dried plum,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9291.
+9291,FDCFOOD:9291,"Plums, dried (prunes), uncooked",Dried plum,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 9291.
 9279,FDCFOOD:9279,"Plums, raw",Plum,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9279.
 9286,FDCFOOD:9286,"Pomegranates, raw",Pomegranate,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9286.
 9287,FDCFOOD:9287,"Prickly pears, raw",Prickly pear fruit,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9287.
@@ -6409,8 +6426,8 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9289,FDCFOOD:9289,"Prunes, dehydrated (low-moisture), uncooked",Dehydrated plum,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9289.
 9295,FDCFOOD:9295,"Pummelo, raw",Pomelo,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9295.
 9296,FDCFOOD:9296,"Quinces, raw",Quince,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9296.
-9298,FDCFOOD:9298,"Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",Raisin,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9298.
-9297,FDCFOOD:9297,"Raisins, golden, seedless",Raisin,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9297.
+9298,FDCFOOD:9298,"Raisins, dark, seedless",Raisin,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",,,,NDB number 9298.
+9297,FDCFOOD:9297,"Raisins, golden, seedless",Raisin,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 9297.
 9299,FDCFOOD:9299,"Raisins, seeded",Raisin,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9299.
 9301,FDCFOOD:9301,"Rambutan, canned, syrup pack",Rambutan,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9301.
 9304,FDCFOOD:9304,"Raspberries, canned, red, heavy syrup pack, solids and liquids",Canned raspberry with syrup,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9304.
@@ -6419,9 +6436,9 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9552,FDCFOOD:9552,"Raspberries, puree, seedless",Raspberry-based products,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9552.
 9553,FDCFOOD:9553,"Raspberries, puree, with seeds",Raspberry-based products,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9553.
 9302,FDCFOOD:9302,"Raspberries, raw",Raspberry,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 9302.
-9310,FDCFOOD:9310,"Rhubarb, frozen, cooked, with sugar",Rhubarb,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9310.
-9309,FDCFOOD:9309,"Rhubarb, frozen, uncooked",Rhubarb,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9309.
-9307,FDCFOOD:9307,"Rhubarb, raw",Rhubarb,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9307.
+9310,FDCFOOD:9310,"Rhubarb, frozen, cooked, with sugar",Rhubarb stalk,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9310.
+9309,FDCFOOD:9309,"Rhubarb, frozen, uncooked",Rhubarb stalk,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9309.
+9307,FDCFOOD:9307,"Rhubarb, raw",Rhubarb stalk,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9307.
 9312,FDCFOOD:9312,"Rose-apples, raw",Rose-apple,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9312.
 9311,FDCFOOD:9311,"Roselle, raw",Roselle,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9311.
 9428,FDCFOOD:9428,"Rowal, raw",Rowal fruit,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9428.
@@ -6442,7 +6459,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9218,FDCFOOD:9218,"Tangerines, (mandarin oranges), raw",Tangerine,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9218.
 9326,FDCFOOD:9326,"Watermelon, raw",Watermelon,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9326.
 9002,FDCFOOD:9002,"Acerola juice, raw",Fruit juices,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9002.
-9400,FDCFOOD:9400,"Apple juice, canned or bottled, unsweetened, with added ascorbic acid",Apple juice,SR Legacy,Fruits and Fruit Juices,,"Apple juice, with added vitamin C, from concentrate, shelf stable",,,,NDB number 9400.
+9400,FDCFOOD:9400,"Apple juice, with added vitamin C, from concentrate, shelf stable",Apple juice,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Apple juice, canned or bottled, unsweetened, with added ascorbic acid",,,,NDB number 9400.
 9517,FDCFOOD:9517,"Apple juice, canned or bottled, unsweetened, with added ascorbic acid, calcium, and potassium",Apple juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9517.
 9016,FDCFOOD:9016,"Apple juice, canned or bottled, unsweetened, without added ascorbic acid",Apple juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9016.
 9018,FDCFOOD:9018,"Apple juice, frozen concentrate, unsweetened, diluted with 3 volume water without added ascorbic acid",Apple juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9018.
@@ -6451,7 +6468,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9017,FDCFOOD:9017,"Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid",Apple juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9017.
 9043,FDCFOOD:9043,"Blackberry juice, canned",Fruit juices,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9043.
 9546,FDCFOOD:9546,"Cherry juice, tart",Cherry juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9546.
-43382,FDCFOOD:43382,"Cranberry juice, unsweetened",Cranberry juice,SR Legacy,Fruits and Fruit Juices,,"Cranberry juice, not fortified, from concentrate, shelf stable",,,,NDB number 43382.
+43382,FDCFOOD:43382,"Cranberry juice, not fortified, from concentrate, shelf stable",Cranberry juice,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Cranberry juice, unsweetened",,,,NDB number 43382.
 9514,FDCFOOD:9514,"Fruit juice smoothie, BOLTHOUSE FARMS, BERRY BOOST","Beverages, Fruit juice smoothie",SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9514.
 9515,FDCFOOD:9515,"Fruit juice smoothie, BOLTHOUSE FARMS, GREEN GOODNESS","Beverages, Fruit juice smoothie",SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9515.
 9516,FDCFOOD:9516,"Fruit juice smoothie, BOLTHOUSE FARMS, strawberry banana","Beverages, Fruit juice smoothie",SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9516.
@@ -6461,7 +6478,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9531,FDCFOOD:9531,"Fruit juice smoothie, NAKED JUICE, strawberry banana","Beverages, Fruit juice smoothie",SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9531.
 9513,FDCFOOD:9513,"Fruit juice smoothie, ODWALLA, ORIGINAL SUPERFOOD","Beverages, Fruit juice smoothie",SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9513.
 9530,FDCFOOD:9530,"Fruit juice smoothie, ODWALLA, strawberry banana","Beverages, Fruit juice smoothie",SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9530.
-9130,FDCFOOD:9130,"Grape juice, canned or bottled, unsweetened, with added ascorbic acid",Grape juice,SR Legacy,Fruits and Fruit Juices,,"Grape juice, purple, with added vitamin C, from concentrate, shelf stable",,,,NDB number 9130.
+9130,FDCFOOD:9130,"Grape juice, purple, with added vitamin C, from concentrate, shelf stable",Grape juice,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Grape juice, canned or bottled, unsweetened, with added ascorbic acid",,,,NDB number 9130.
 9512,FDCFOOD:9512,"Grape juice, canned or bottled, unsweetened, with added ascorbic acid and calcium",Grape juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9512.
 9135,FDCFOOD:9135,"Grape juice, canned or bottled, unsweetened, without added ascorbic acid",Grape juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9135.
 100266,FDCFOOD:100266,"Grape juice, white, with added vitamin C, from concentrate, shelf stable",Grape juice,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100266.
@@ -6481,7 +6498,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9161,FDCFOOD:9161,"Lime juice, canned or bottled, unsweetened",Lime juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9161.
 9160,FDCFOOD:9160,"Lime juice, raw",Lime juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9160.
 9207,FDCFOOD:9207,"Orange juice, canned, unsweetened",Orange juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9207.
-9209,FDCFOOD:9209,"Orange juice, chilled, includes from concentrate",Orange juice,SR Legacy,Fruits and Fruit Juices,,"Orange juice, no pulp, not fortified, from concentrate, refrigerated",,,,NDB number 9209.
+9209,FDCFOOD:9209,"Orange juice, no pulp, not fortified, from concentrate, refrigerated",Orange juice,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Orange juice, chilled, includes from concentrate",,,,NDB number 9209.
 9211,FDCFOOD:9211,"Orange juice, chilled, includes from concentrate, with added calcium",Orange juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9211.
 9210,FDCFOOD:9210,"Orange juice, chilled, includes from concentrate, with added calcium and vitamin D",Orange juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9210.
 9506,FDCFOOD:9506,"Orange juice, chilled, includes from concentrate, with added calcium and vitamins A, D, E",Orange juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9506.
@@ -6489,14 +6506,14 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 9212,FDCFOOD:9212,"Orange juice, frozen concentrate, unsweetened, diluted with 3 volume water, with added calcium",Orange juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9212.
 9214,FDCFOOD:9214,"Orange juice, frozen concentrate, unsweetened, undiluted",Orange juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9214.
 9213,FDCFOOD:9213,"Orange juice, frozen concentrate, unsweetened, undiluted, with added calcium",Orange juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9213.
-9206,FDCFOOD:9206,"Orange juice, raw (Includes foods for USDA's Food Distribution Program)",Orange juice,SR Legacy,Fruits and Fruit Juices,,"Orange juice, no pulp, not fortified, not from concentrate, refrigerated",,,,NDB number 9206.
+9206,FDCFOOD:9206,"Orange juice, no pulp, not fortified, not from concentrate, refrigerated",Orange juice,SR Legacy|Foundation Foods,Fruits and Fruit Juices,,"Orange juice, raw (Includes foods for USDA's Food Distribution Program)",,,,NDB number 9206.
 9232,FDCFOOD:9232,"Passion-fruit juice, purple, raw",Passion-fruit juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9232.
 9233,FDCFOOD:9233,"Passion-fruit juice, yellow, raw",Passion-fruit juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9233.
 9409,FDCFOOD:9409,"Pineapple juice, canned or bottled, unsweetened, with added ascorbic acid",Pineapple juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9409.
 9273,FDCFOOD:9273,"Pineapple juice, canned or bottled, unsweetened, without added ascorbic acid",Pineapple juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9273.
 9510,FDCFOOD:9510,"Pineapple juice, canned, not from concentrate, unsweetened, with added vitamins A, C and E",Pineapple juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9510.
 9275,FDCFOOD:9275,"Pineapple juice, frozen concentrate, unsweetened, diluted with 3 volume water",Pineapple juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9275.
-9442,FDCFOOD:9442,"Pomegranate juice, bottled",Fruit juices,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9442.
+9442,FDCFOOD:9442,"Pomegranate juice, bottled",Pomegranate juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9442.
 9294,FDCFOOD:9294,"Prune juice, canned",Fruit juices|Plum-based products,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9294.
 9554,FDCFOOD:9554,Raspberry juice concentrate,Raspberry juice,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9554.
 9221,FDCFOOD:9221,"Tangerine juice, raw",Fruit juices,SR Legacy,Fruits and Fruit Juices,,,,,,NDB number 9221.
@@ -6764,7 +6781,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 17010,FDCFOOD:17010,"Lamb, foreshank, separable lean only, trimmed to 1/4"" fat, choice, cooked, braised",Lamb foreshank,SR Legacy,"Lamb, Veal, and Game Products",,,,,,NDB number 17010.
 17009,FDCFOOD:17009,"Lamb, foreshank, separable lean only, trimmed to 1/4"" fat, choice, raw",Lamb foreshank,SR Legacy,"Lamb, Veal, and Game Products",,,,,,NDB number 17009.
 17225,FDCFOOD:17225,"Lamb, ground, cooked, broiled",Ground lamb,SR Legacy,"Lamb, Veal, and Game Products",,,,,,NDB number 17225.
-17224,FDCFOOD:17224,"Lamb, ground, raw",Ground lamb,SR Legacy,"Lamb, Veal, and Game Products",,,,,,NDB number 17224.
+17224,FDCFOOD:17224,"Lamb, ground, raw",Ground lamb,SR Legacy|Foundation Foods,"Lamb, Veal, and Game Products",,,,,,NDB number 17224.
 17016,FDCFOOD:17016,"Lamb, leg, shank half, separable lean and fat, trimmed to 1/4"" fat, choice, cooked, roasted",Lamb shank half,SR Legacy,"Lamb, Veal, and Game Products",,,,,,NDB number 17016.
 17015,FDCFOOD:17015,"Lamb, leg, shank half, separable lean and fat, trimmed to 1/4"" fat, choice, raw",Lamb shank half,SR Legacy,"Lamb, Veal, and Game Products",,,,,,NDB number 17015.
 17233,FDCFOOD:17233,"Lamb, leg, shank half, separable lean and fat, trimmed to 1/8"" fat, choice, cooked, roasted",Lamb shank half,SR Legacy,"Lamb, Veal, and Game Products",,,,,,NDB number 17233.
@@ -7005,7 +7022,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 5065,FDCFOOD:5065,"Chicken, broilers or fryers, breast, meat only, cooked, stewed",Chicken breast skinless|Cooked chicken breast,SR Legacy,Poultry Products,,,,,,NDB number 5065.
 5314,FDCFOOD:5314,"Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw",Chicken breast skinless,SR Legacy,Poultry Products,,,,,,NDB number 5314.
 5676,FDCFOOD:5676,"Chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised",Chicken drumstick with skin,SR Legacy,Poultry Products,,,,,,NDB number 5676.
-5671,FDCFOOD:5671,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, braised",Chicken drumstick skinless,SR Legacy,Poultry Products,,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",,,,NDB number 5671.
+5671,FDCFOOD:5671,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",Chicken drumstick skinless,SR Legacy|Foundation Foods,Poultry Products,,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, braised",,,,NDB number 5671.
 5073,FDCFOOD:5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",Chicken drumstick skinless,SR Legacy,Poultry Products,,,,,,NDB number 5073.
 5071,FDCFOOD:5071,"Chicken, broilers or fryers, dark meat, drumstick, meat only, raw",Chicken drumstick skinless,SR Legacy,Poultry Products,,,,,,NDB number 5071.
 5035,FDCFOOD:5035,"Chicken, broilers or fryers, dark meat, meat and skin, cooked, fried, batter",Fried battered chicken,SR Legacy,Poultry Products,,,,,,NDB number 5035.
@@ -7130,7 +7147,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 5024,FDCFOOD:5024,"Chicken, gizzard, all classes, cooked, simmered",Chicken gizzard,SR Legacy,Poultry Products,,,,,,NDB number 5024.
 5023,FDCFOOD:5023,"Chicken, gizzard, all classes, raw",Chicken gizzard,SR Legacy,Poultry Products,,,,,,NDB number 5023.
 5333,FDCFOOD:5333,"Chicken, ground, crumbles, cooked, pan-browned",Ground chicken,SR Legacy,Poultry Products,,,,,,NDB number 5333.
-5332,FDCFOOD:5332,"Chicken, ground, raw",Ground chicken,SR Legacy,Poultry Products,,"Chicken, ground, with additives, raw",,,,NDB number 5332.
+5332,FDCFOOD:5332,"Chicken, ground, with additives, raw",Ground chicken,SR Legacy|Foundation Foods,Poultry Products,,"Chicken, ground, raw",,,,NDB number 5332.
 5026,FDCFOOD:5026,"Chicken, heart, all classes, cooked, simmered",Chicken heart,SR Legacy,Poultry Products,,,,,,NDB number 5026.
 5025,FDCFOOD:5025,"Chicken, heart, all classes, raw",Chicken heart,SR Legacy,Poultry Products,,,,,,NDB number 5025.
 5661,FDCFOOD:5661,"Chicken, liver, all classes, cooked, pan-fried",Chicken liver,SR Legacy,Poultry Products,,,,,,NDB number 5661.
@@ -7281,7 +7298,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 5668,FDCFOOD:5668,"Turkey, ground, 85% lean, 15% fat, raw",Ground turkey,SR Legacy,Poultry Products,,,,,,NDB number 5668.
 5666,FDCFOOD:5666,"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",Ground turkey,SR Legacy|Foundation Foods,Poultry Products,,,,,,NDB number 5666.
 5667,FDCFOOD:5667,"Turkey, ground, 93% lean, 7% fat, patties, broiled",Ground turkey,SR Legacy,Poultry Products,,,,,,NDB number 5667.
-5665,FDCFOOD:5665,"Turkey, ground, 93% lean, 7% fat, raw",Ground turkey,SR Legacy,Poultry Products,,"Turkey, ground, 93% lean/ 7% fat, raw",,,,NDB number 5665.
+5665,FDCFOOD:5665,"Turkey, ground, 93% lean/ 7% fat, raw",Ground turkey,SR Legacy|Foundation Foods,Poultry Products,,"Turkey, ground, 93% lean, 7% fat, raw",,,,NDB number 5665.
 5306,FDCFOOD:5306,"Turkey, Ground, cooked",Ground turkey,SR Legacy,Poultry Products,,,,,,NDB number 5306.
 5663,FDCFOOD:5663,"Turkey, ground, fat free, pan-broiled crumbles",Ground turkey,SR Legacy,Poultry Products,,,,,,NDB number 5663.
 5664,FDCFOOD:5664,"Turkey, ground, fat free, patties, broiled",Ground turkey,SR Legacy,Poultry Products,,,,,,NDB number 5664.
@@ -7350,7 +7367,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 10994,FDCFOOD:10994,"Bacon, pre-sliced, reduced/low sodium, unprepared",Pork bacon,SR Legacy,Pork Products,,,,,,NDB number 10994.
 10998,FDCFOOD:10998,"Canadian bacon, cooked, pan-fried",Back bacon,SR Legacy,Pork Products,,,,,,NDB number 10998.
 10130,FDCFOOD:10130,"Canadian bacon, unprepared",Back bacon,SR Legacy,Pork Products,,,,,,NDB number 10130.
-7129,FDCFOOD:7129,"Ham, sliced, restaurant",Ham slice,Foundation Foods,Pork Products,,,,,,NDB number 7129.
+7129,FDCFOOD:7129,"Ham, sliced, restaurant",Ham slice,SR Legacy|Foundation Foods,Pork Products,,,,,,NDB number 7129.
 10856,FDCFOOD:10856,"HORMEL ALWAYS TENDER, Boneless Pork Loin, Fresh Pork",Pork loin,SR Legacy,Pork Products,,,,,,NDB number 10856.
 10855,FDCFOOD:10855,"HORMEL ALWAYS TENDER, Center Cut Chops, Fresh Pork",Pork center loin chop,SR Legacy,Pork Products,,,,,,NDB number 10855.
 10854,FDCFOOD:10854,"HORMEL ALWAYS TENDER, Pork Loin Filets, Lemon Garlic-Flavored",Pork loin,SR Legacy,Pork Products,,,,,,NDB number 10854.
@@ -7486,7 +7503,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 10228,FDCFOOD:10228,"Pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separable lean only, raw",Composite of pork cuts,SR Legacy,Pork Products,,,,,,NDB number 10228.
 10944,FDCFOOD:10944,"Pork, fresh, enhanced, loin, tenderloin, separable lean only, raw",Pork tenderloin,SR Legacy,Pork Products,,,,,,NDB number 10944.
 10220,FDCFOOD:10220,"Pork, fresh, ground, cooked",Ground pork,SR Legacy,Pork Products,,,,,,NDB number 10220.
-10219,FDCFOOD:10219,"Pork, fresh, ground, raw",Ground pork,SR Legacy,Pork Products,,"Pork, ground, raw",,,,NDB number 10219.
+10219,FDCFOOD:10219,"Pork, ground, raw",Ground pork,SR Legacy|Foundation Foods,Pork Products,,"Pork, fresh, ground, raw",,,,NDB number 10219.
 10013,FDCFOOD:10013,"Pork, fresh, leg (ham), rump half, separable lean and fat, cooked, roasted",Pork rump,SR Legacy,Pork Products,,,,,,NDB number 10013.
 10012,FDCFOOD:10012,"Pork, fresh, leg (ham), rump half, separable lean and fat, raw",Pork rump,SR Legacy,Pork Products,,,,,,NDB number 10012.
 10015,FDCFOOD:10015,"Pork, fresh, leg (ham), rump half, separable lean only, cooked, roasted",Pork rump,SR Legacy,Pork Products,,,,,,NDB number 10015.
@@ -7701,7 +7718,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 7931,FDCFOOD:7931,"Beerwurst, pork and beef",Beerwurst sausage|Mixed-meat sausage,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7931.
 7005,FDCFOOD:7005,Blood sausage,Sausage,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7005.
 7006,FDCFOOD:7006,"Bockwurst, pork, veal, raw",Fresh sausage|Mixed-meat sausage,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7006.
-7007,FDCFOOD:7007,"Bologna, beef",Bologna sausage,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7007.
+7007,FDCFOOD:7007,"Bologna, beef",Bologna sausage,SR Legacy|Foundation Foods,Sausages and Luncheon Meats,,,,,,NDB number 7007.
 7008,FDCFOOD:7008,"Bologna, beef and pork",Bologna sausage|Mixed-meat sausage,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7008.
 42129,FDCFOOD:42129,"Bologna, beef and pork, low fat",Bologna sausage|Mixed-meat sausage,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 42129.
 42161,FDCFOOD:42161,"Bologna, beef, low fat",Bologna sausage|Pork sausage,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 42161.
@@ -7790,7 +7807,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 7055,FDCFOOD:7055,"Pate, liver, not specified, canned",Pate,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7055.
 7942,FDCFOOD:7942,"Pate, truffle flavor",Pate,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7942.
 7056,FDCFOOD:7056,"Peppered loaf, pork, beef",Meat-based loaf,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7056.
-7057,FDCFOOD:7057,"Pepperoni, beef and pork, sliced",Pepperoni|Mixed-meat sausage,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7057.
+7057,FDCFOOD:7057,"Pepperoni, beef and pork, sliced",Pepperoni|Mixed-meat sausage,SR Legacy|Foundation Foods,Sausages and Luncheon Meats,,,,,,NDB number 7057.
 7058,FDCFOOD:7058,"Pickle and pimiento loaf, pork",Meat-based loaf,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7058.
 7062,FDCFOOD:7062,"Picnic loaf, pork, beef",Sausages and Luncheon Meats|Beef-based products,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7062.
 7059,FDCFOOD:7059,"Polish sausage, pork",Polish sausage|Pork sausage,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7059.
@@ -7804,7 +7821,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 7978,FDCFOOD:7978,"Pork sausage, reduced sodium, cooked",Pork sausage,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7978.
 7067,FDCFOOD:7067,Poultry salad sandwich spread,Poultry-based products|Meat-based spread,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7067.
 7912,FDCFOOD:7912,Roast beef spread,Meat-based spread|Beef-based products,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7912.
-7043,FDCFOOD:7043,"Roast beef, deli style, prepackaged, sliced",Lunch meat,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7043.
+7043,FDCFOOD:7043,"Lunchmeat, roast beef, sliced, prepackaged",Lunch meat,SR Legacy|Foundation Foods,Sausages and Luncheon Meats,,"Roast beef, deli style, prepackaged, sliced",,,,NDB number 7043.
 7068,FDCFOOD:7068,"Salami, cooked, beef",Salami|Beef sausage,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7068.
 7069,FDCFOOD:7069,"Salami, cooked, beef and pork",Salami|Mixed-meat sausage,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7069.
 7070,FDCFOOD:7070,"Salami, cooked, turkey",Salami|Turkey sausage,SR Legacy,Sausages and Luncheon Meats,,,,,,NDB number 7070.
@@ -7917,7 +7934,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 28339,FDCFOOD:28339,"Bread, gluten-free, whole grain, made with tapioca starch and brown rice flour",Gluten-free breads,SR Legacy,Baked Products,,,,,,NDB number 28339.
 18032,FDCFOOD:18032,"Bread, irish soda, prepared from recipe",Breads,SR Legacy,Baked Products,,,,,,NDB number 18032.
 18033,FDCFOOD:18033,"Bread, Italian",Artisan breads,SR Legacy,Baked Products,,,,,,NDB number 18033.
-28397,FDCFOOD:28397,"Bread, multi-grain (includes whole-grain)",Multi-grain breads,SR Legacy,Baked Products,,,,,,NDB number 28397.
+28397,FDCFOOD:28397,"Bread, mulitgrain, commercial",Multi-grain breads,SR Legacy|Foundation Foods,Baked Products,,"Bread, multi-grain (includes whole-grain)",,,,NDB number 28397.
 18036,FDCFOOD:18036,"Bread, multi-grain, toasted (includes whole-grain)",Multi-grain breads,SR Legacy,Baked Products,,,,,,NDB number 18036.
 28307,FDCFOOD:28307,"Bread, naan, plain, commercially prepared, refrigerated",Naan breads,SR Legacy,Baked Products,,,,,,NDB number 28307.
 28287,FDCFOOD:28287,"Bread, naan, whole wheat, commercially prepared, refrigerated",Naan breads,SR Legacy,Baked Products,,,,,,NDB number 28287.
@@ -7960,13 +7977,13 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 28317,FDCFOOD:28317,"Bread, wheat, sprouted, toasted",Wheat bread,SR Legacy,Baked Products,,,,,,NDB number 28317.
 18065,FDCFOOD:18065,"Bread, wheat, toasted",Wheat bread,SR Legacy,Baked Products,,,,,,NDB number 18065.
 18967,FDCFOOD:18967,"Bread, white wheat",White bread,SR Legacy,Baked Products,,,,,,NDB number 18967.
-18069,FDCFOOD:18069,"Bread, white, commercially prepared (includes soft bread crumbs)",White bread,SR Legacy,Baked Products,,"Bread, white, commercially prepared",,,,NDB number 18069.
+18069,FDCFOOD:18069,"Bread, white, commercial",White bread,SR Legacy|Foundation Foods,Baked Products,,"Bread, white, commercially prepared (includes soft bread crumbs)",,,,NDB number 18069.
 18416,FDCFOOD:18416,"Bread, white, commercially prepared, low sodium, no salt",White bread,SR Legacy,Baked Products,,,,,,NDB number 18416.
 18070,FDCFOOD:18070,"Bread, white, commercially prepared, toasted",White bread,SR Legacy,Baked Products,,,,,,NDB number 18070.
 18432,FDCFOOD:18432,"Bread, white, commercially prepared, toasted, low sodium no salt",White bread,SR Legacy,Baked Products,,,,,,NDB number 18432.
 18073,FDCFOOD:18073,"Bread, white, prepared from recipe, made with low fat (2%) milk",White bread,SR Legacy,Baked Products,,,,,,NDB number 18073.
 18071,FDCFOOD:18071,"Bread, white, prepared from recipe, made with nonfat dry milk",White bread,SR Legacy,Baked Products,,,,,,NDB number 18071.
-18075,FDCFOOD:18075,"Bread, whole-wheat, commercially prepared",Whole-wheat bread,SR Legacy|Foundation Foods,Baked Products,,,,,,NDB number 18075.
+18075,FDCFOOD:18075,"Bread, 100% whole wheat, commercial",Whole-wheat bread,SR Legacy|Foundation Foods,Baked Products,,"Bread, whole-wheat, commercially prepared",,,,NDB number 18075.
 18076,FDCFOOD:18076,"Bread, whole-wheat, commercially prepared, toasted",Whole-wheat bread,SR Legacy,Baked Products,,,,,,NDB number 18076.
 18077,FDCFOOD:18077,"Bread, whole-wheat, prepared from recipe",Whole-wheat bread,SR Legacy,Baked Products,,,,,,NDB number 18077.
 18078,FDCFOOD:18078,"Bread, whole-wheat, prepared from recipe, toasted",Whole-wheat bread,SR Legacy,Baked Products,,,,,,NDB number 18078.
@@ -8346,10 +8363,10 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 18362,FDCFOOD:18362,"Toaster pastries, fruit (includes apple, blueberry, cherry, strawberry)",Toaster pastries,SR Legacy,Baked Products,,,,,,NDB number 18362.
 18938,FDCFOOD:18938,"Toaster Pastries, fruit, frosted (include apples, blueberry, cherry, strawberry)",Toaster pastries,SR Legacy,Baked Products,,,,,,NDB number 18938.
 18939,FDCFOOD:18939,"Toaster pastries, fruit, toasted (include apple, blueberry, cherry, strawberry)",Toaster pastries,SR Legacy,Baked Products,,,,,,NDB number 18939.
-18363,FDCFOOD:18363,"Tortillas, ready-to-bake or -fry, corn",Corn tortillas,SR Legacy,Baked Products,,,,,,NDB number 18363.
+18363,FDCFOOD:18363,"Tortilla, corn, shelf stable",Corn tortillas,SR Legacy|Foundation Foods,Baked Products,,"Tortillas, ready-to-bake or -fry, corn",,,,NDB number 18363.
 18449,FDCFOOD:18449,"Tortillas, ready-to-bake or -fry, corn, without added salt",Corn tortillas,SR Legacy,Baked Products,,,,,,NDB number 18449.
 18364,FDCFOOD:18364,"Tortillas, ready-to-bake or -fry, flour, refrigerated",Flour tortillas,SR Legacy,Baked Products,,,,,,NDB number 18364.
-18970,FDCFOOD:18970,"Tortillas, ready-to-bake or -fry, flour, shelf stable",Flour tortillas,SR Legacy,Baked Products,,,,,,NDB number 18970.
+18970,FDCFOOD:18970,"Tortilla, wheat flour, shelf stable",Flour tortillas,SR Legacy|Foundation Foods,Baked Products,,"Tortillas, ready-to-bake or -fry, flour, shelf stable",,,,NDB number 18970.
 18450,FDCFOOD:18450,"Tortillas, ready-to-bake or -fry, flour, without added calcium",Flour tortillas,SR Legacy,Baked Products,,,,,,NDB number 18450.
 28295,FDCFOOD:28295,"Tortillas, ready-to-bake or -fry, whole wheat",Flour tortillas,SR Legacy,Baked Products,,,,,,NDB number 28295.
 18952,FDCFOOD:18952,"Tostada shells, corn",Baked or fried corn tortillas,SR Legacy,Baked Products,,,,,,NDB number 18952.
@@ -9637,3 +9654,130 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 13339,FDCFOOD:13339,"Beef, variety meats and by-products, tongue, raw",Beef tongue,SR Legacy,Beef Products,,,,,,NDB number 13339.
 23640,FDCFOOD:23640,"Beef, variety meats and by-products, tripe, cooked, simmered",Beef tripe,SR Legacy,Beef Products,,,,,,NDB number 23640.
 13341,FDCFOOD:13341,"Beef, variety meats and by-products, tripe, raw",Beef tripe,SR Legacy,Beef Products,,,,,,NDB number 13341.
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+100275,FDCFOOD:100275,"Soy milk, sweetened, plain, refrigerated",Soy milk,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100275.
+100290,FDCFOOD:100290,"Flour, rye",Rye flour,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100290.
+100295,FDCFOOD:100295,"Yogurt, plain, nonfat","Yogurt, plain",Foundation Foods,Dairy and Egg Products,,,,,,NDB number 100295.
+100296,FDCFOOD:100296,"Cheese, monterey jack, solid","Cheese, monterey",Foundation Foods,Dairy and Egg Products,,,,,,NDB number 100296.
+100297,FDCFOOD:100297,"Cheese, pasteurized process cheese food or product, American, singles",process cheese,Foundation Foods,Dairy and Egg Products,,,,,,NDB number 100297.
+100298,FDCFOOD:100298,"Cheese, provolone, sliced","Cheese, provolone",Foundation Foods,Dairy and Egg Products,,,,,,NDB number 100298.
+100299,FDCFOOD:100299,"Cheese, oaxaca, solid","Cheese, Hispanic-style",Foundation Foods,Dairy and Egg Products,,,,,,NDB number 100299.
+100300,FDCFOOD:100300,"Cheese, queso fresco, solid","Cheese, Hispanic-style",Foundation Foods,Dairy and Egg Products,,,,,,NDB number 100300.
+100301,FDCFOOD:100301,"Cheese, cotija, solid","Cheese, Hispanic-style",Foundation Foods,Dairy and Egg Products,,,,,,NDB number 100301.
+100302,FDCFOOD:100302,"Pork, loin, boneless, raw",Pork loin,Foundation Foods,Pork Products,,,,,,NDB number 100302.
+100303,FDCFOOD:100303,"Pork, loin, tenderloin, boneless, raw",Pork tenderloin,Foundation Foods,Pork Products,,,,,,NDB number 100303.
+100304,FDCFOOD:100304,"Chicken, breast, boneless, skinless, raw",Chicken breast skinless,Foundation Foods,Poultry Products,,,,,,NDB number 100304.
+100305,FDCFOOD:100305,"Chicken, thigh, boneless, skinless, raw",Chicken thigh skinless,Foundation Foods,Poultry Products,,,,,,NDB number 100305.
+100306,FDCFOOD:100306,"Beef, ribeye, steak, boneless, choice, raw",Beef ribeye steak,Foundation Foods,Beef Products,,,,,,NDB number 100306.
+100307,FDCFOOD:100307,"Beef, round, top round, boneless, choice, raw",Beef top round,Foundation Foods,Beef Products,,,,,,NDB number 100307.
+100308,FDCFOOD:100308,"Beef, chuck, roast, boneless, choice, raw",Beef chuck roast,Foundation Foods,Beef Products,,,,,,NDB number 100308.
+100309,FDCFOOD:100309,"Beef, flank, steak, boneless, choice, raw",Beef flank steak,Foundation Foods,Beef Products,,,,,,NDB number 100309.
+100310,FDCFOOD:100310,"Beans, cannellini, dry",White bean,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100310.
+100311,FDCFOOD:100311,"Chickpeas, (garbanzo beans, bengal gram), dry",Chickpea,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100311.
+100312,FDCFOOD:100312,"Lentils, dry",Lentil mature seed,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100312.
+100313,FDCFOOD:100313,"Blackeye pea, dry",Cowpea mature seed,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100313.
+100314,FDCFOOD:100314,"Beans, black, canned, sodium added, drained and rinsed",Black bean,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100314.
+100315,FDCFOOD:100315,"Beans, navy, canned, sodium added, drained and rinsed",Navy bean,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100315.
+100316,FDCFOOD:100316,"Beans, cannellini, canned, sodium added, drained and rinsed",White bean,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100316.
+100317,FDCFOOD:100317,"Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",Chickpea,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100317.
+100318,FDCFOOD:100318,"Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",Dark red kidney bean,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100318.
+100319,FDCFOOD:100319,"Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed",Light red kidney bean,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100319.
+100320,FDCFOOD:100320,"Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",Pea immature seed,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100320.
+100321,FDCFOOD:100321,"Beans, pinto, canned, sodium added, drained and rinsed",Pinto bean mature seed,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100321.
+100322,FDCFOOD:100322,"Blackeye pea, canned, sodium added, drained and rinsed",Cowpea mature seed,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100322.
+100323,FDCFOOD:100323,"Beans, great northern, canned, sodium added, drained and rinsed",Great northern bean,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100323.
+100324,FDCFOOD:100324,"Fish, salmon, sockeye, wild caught, raw",Sockeye salmon,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100324.
+100326,FDCFOOD:100326,"Fish, tilapia, farm raised, raw",Tilapia,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100326.
+100327,FDCFOOD:100327,"Crustaceans, shrimp, farm raised, raw",Shrimp,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100327.
+100328,FDCFOOD:100328,"Fish, cod, Atlantic, wild caught, raw",Atlantic cod,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100328.
+100330,FDCFOOD:100330,"Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated",Blue crab,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100330.
+100331,FDCFOOD:100331,"Squash, summer, green, zucchini, includes skin, raw",Zucchini,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100331.
+100332,FDCFOOD:100332,"Squash, summer, yellow, includes skin, raw",Zucchini,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100332.
+100341,FDCFOOD:100341,"Tomatoes, whole, canned, solids and liquids, with salt added",Red tomato,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100341.
+100342,FDCFOOD:100342,"Tomato, sauce, canned, with salt added",Tomato sauce,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100342.
+100345,FDCFOOD:100345,"Tomato, puree, canned",Tomato puree,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100345.
+100346,FDCFOOD:100346,"Arugula, baby, raw",Arugula,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100346.
+100347,FDCFOOD:100347,"Asparagus, green, raw",Asparagus,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100347.
+100348,FDCFOOD:100348,"Avocado, Hass, peeled, raw",Avocado,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100348.
+100349,FDCFOOD:100349,"Rice, black, unenriched, raw",Black rice,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100349.
+100350,FDCFOOD:100350,"Corn, sweet, yellow and white kernels,  fresh, raw",Sweet corn,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100350.
+100351,FDCFOOD:100351,"Einkorn, grain, dry, raw",Einkorn,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100351.
+100352,FDCFOOD:100352,"Farro, pearled, dry, raw",Farro,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100352.
+100353,FDCFOOD:100353,"Fonio, grain, dry, raw",Fonio,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100353.
+100356,FDCFOOD:100356,"Khorasan, grain, dry, raw",Khorasan wheat,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100356.
+100357,FDCFOOD:100357,"Kiwifruit (kiwi), green, peeled, raw",Kiwifruit,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100357.
+100358,FDCFOOD:100358,"Mandarin, seedless, peeled, raw",Tangerine,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100358.
+100359,FDCFOOD:100359,"Mango, Tommy Atkins, peeled, raw",Mango,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100359.
+100360,FDCFOOD:100360,"Mango, Ataulfo, peeled, raw",Mango,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100360.
+100361,FDCFOOD:100361,"Corn flour, masa harina, white or yellow, dry, raw",Corn flour,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100361.
+100363,FDCFOOD:100363,"Plum, black, with skin, raw",Plum,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100363.
+100364,FDCFOOD:100364,"Rice, red, unenriched, dry, raw",Red rice,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100364.
+100365,FDCFOOD:100365,"Sorghum bran, white, unenriched, dry, raw",Sorghum bran,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100365.
+100366,FDCFOOD:100366,"Sorghum flour, white, pearled, unenriched, dry, raw","Sorghum, Flour",Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100366.
+100367,FDCFOOD:100367,"Sorghum grain, white, pearled, unenriched, dry, raw",Sorghum grain,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100367.
+100368,FDCFOOD:100368,"Sorghum, whole grain, white, dry, raw",Sorghum grain,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100368.
+100371,FDCFOOD:100371,"Plantains, overripe, raw",Plantain,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100371.
+100372,FDCFOOD:100372,"Chicken, drumstick, meat and skin, raw",Chicken drumstick with skin,Foundation Foods,Poultry Products,,,,,,NDB number 100372.
+100373,FDCFOOD:100373,"Chicken, thigh, meat and skin, raw",Chicken thigh with skin,Foundation Foods,Poultry Products,,,,,,NDB number 100373.
+100374,FDCFOOD:100374,"Chicken, wing, meat and skin, raw",Chicken wing with skin,Foundation Foods,Poultry Products,,,,,,NDB number 100374.
+100375,FDCFOOD:100375,"Chicken, breast, meat and skin, raw",Chicken breast with skin,Foundation Foods,Poultry Products,,,,,,NDB number 100375.
+100376,FDCFOOD:100376,"Bison, ground, raw",Ground bison,Foundation Foods,"Lamb, Veal, and Game Products",,,,,,NDB number 100376.
+100377,FDCFOOD:100377,"Beef, short loin (NY strip steak), raw",Beef strip steak,Foundation Foods,Beef Products,,,,,,NDB number 100377.
+100378,FDCFOOD:100378,"Beef, tenderloin steak, raw",Beef tenderloin steak,Foundation Foods,Beef Products,,,,,,NDB number 100378.
+100379,FDCFOOD:100379,"Beef, top sirloin steak, raw",Beef top sirloin steak,Foundation Foods,Beef Products,,,,,,NDB number 100379.
+100380,FDCFOOD:100380,"Pork, chop, center cut, raw",Pork center loin chop,Foundation Foods,Pork Products,,,,,,NDB number 100380.
+100381,FDCFOOD:100381,"Pork, belly, with skin, raw",Pork belly,Foundation Foods,Pork Products,,,,,,NDB number 100381.
+100382,FDCFOOD:100382,"Pawpaw, peeled, seeded, raw",Pawpaw,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100382.
+100383,FDCFOOD:100383,"Watermelon, seedless, flesh only, raw",Watermelon,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100383.
+100384,FDCFOOD:100384,"Watermelon, seedless, rind only, raw",Watermelon,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100384.
+100385,FDCFOOD:100385,"Squash, pie pumpkin, peeled, seeded, raw",Pumpkin fruit,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100385.
+100386,FDCFOOD:100386,"Squash, spaghetti, peeled, seeded, raw",Spaghetti squash,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100386.
+100387,FDCFOOD:100387,"Rutabaga, peeled, raw",Rutabaga,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100387.
+100388,FDCFOOD:100388,"Tomatillos, dehusked, raw",Tomatillo,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100388.
+100389,FDCFOOD:100389,"Cabbage, napa, leaf, destemmed, raw",Napa cabbage,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100389.
+100390,FDCFOOD:100390,"Leeks, bulb and greens, root removed, raw",Leek,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100390.
+100391,FDCFOOD:100391,"Green onion, (scallion), bulb and greens, root removed, raw",Onion greens,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100391.
+100392,FDCFOOD:100392,"Shallots, bulb, peeled, root removed, raw",Shallot bulb,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100392.
+100393,FDCFOOD:100393,"Juice, prune, shelf-stable",Prune juice,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100393.
+100394,FDCFOOD:100394,"Juice, pomegranate, from concentrate, shelf-stable",Pomegranate juice,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100394.
+100395,FDCFOOD:100395,"Juice, tart cherry, from concentrate, shelf-stable",Cherry juice,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100395.
+100396,FDCFOOD:100396,"Peppers, banana or Hungarian wax, seeded, raw",Chili pepper,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100396.
+100397,FDCFOOD:100397,"Peppers, jalapeno, seeded, raw",Jalapeno pepper,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100397.
+100398,FDCFOOD:100398,"Peppers, poblano, seeded, raw",Poblano pepper,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100398.
+100399,FDCFOOD:100399,"Peppers, serrano, seeded, raw",Serrano pepper,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100399.
+100400,FDCFOOD:100400,"Radishes, red, raw",Radish root,Foundation Foods,Vegetables and Vegetable Products,,,,,,NDB number 100400.
+100401,FDCFOOD:100401,"Mahi mahi, frozen, wild caught",Mahimahi,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100401.
+100402,FDCFOOD:100402,"Swordfish, frozen, wild caught",Swordfish,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100402.
+100403,FDCFOOD:100403,"Squid (calamari), frozen, tubes only",Squid,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100403.
+100404,FDCFOOD:100404,"Snapper, frozen, wild caught",Snapper,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100404.
+100405,FDCFOOD:100405,"Sea bass, Chilean, frozen, wild caught",Chilean sea bass,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100405.
+100406,FDCFOOD:100406,"Cod, Pacific or Alaskan, frozen, wild caught",Cod,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100406.
+100407,FDCFOOD:100407,"Halibut, frozen, wild caught",Halibut,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100407.
+100408,FDCFOOD:100408,"Scallops, sea, frozen, wild caught",Scallop,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100408.
+100409,FDCFOOD:100409,"Scallops, bay, Patagonian, frozen, wild caught",Scallop,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100409.
+100410,FDCFOOD:100410,"Snow crab, legs only, frozen  ",Snow crab,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100410.
+100411,FDCFOOD:100411,"Lobster, tail only, frozen, wild caught",Lobster,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100411.
+100412,FDCFOOD:100412,"Anchovies, canned in olive oil, with salt, drained",Anchovy,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100412.
+100413,FDCFOOD:100413,"Tuna, ahi or yellowfin, frozen, wild caught",Tuna,Foundation Foods,Finfish and Shellfish Products,,,,,,NDB number 100413.
+100414,FDCFOOD:100414,"Rhubarb, stalk, raw",Rhubarb stalk,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100414.
+100415,FDCFOOD:100415,"Grapefruit, raw",Grapefruit,Foundation Foods,Fruits and Fruit Juices,,,,,,NDB number 100415.
+100416,FDCFOOD:100416,"Refried beans, canned (pinto)",Refried beans,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100416.
+100417,FDCFOOD:100417,"Mayonnaise, Regular",Mayonnaise,Foundation Foods,Fats and Oils,,,,,,NDB number 100417.
+100418,FDCFOOD:100418,"Bologna, classic",Bologna sausage,Foundation Foods,Sausages and Luncheon Meats,,,,,,NDB number 100418.
+100419,FDCFOOD:100419,"Pasta, dry, enriched, spaghetti",Spaghetti,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100419.
+100420,FDCFOOD:100420,"Pasta, dry, whole grain, spaghetti ",Spaghetti,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100420.
+100421,FDCFOOD:100421,"Lunchmeat, turkey, oven roasted, sliced",Sliced turkey breast,Foundation Foods,Sausages and Luncheon Meats,,,,,,NDB number 100421.
+100422,FDCFOOD:100422,"Lunchmeat, ham, black forest, sliced",Ham slice,Foundation Foods,Sausages and Luncheon Meats,,,,,,NDB number 100422.
+100423,FDCFOOD:100423,"Lunchmeat, chicken breast, sliced",Sliced cooked chicken breast,Foundation Foods,Sausages and Luncheon Meats,,,,,,NDB number 100423.
+100424,FDCFOOD:100424,"Salami, hard, sliced",Salami,Foundation Foods,Sausages and Luncheon Meats,,,,,,NDB number 100424.
