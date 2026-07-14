@@ -3723,7 +3723,7 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 100256,FDCFOOD:100256,"Wheat, Flour, Pastry",Wheat flour,Foundation Foods,Cereal Grains and Pasta,,"Flour, pastry, unenriched, unbleached",,,,NDB number 100256.
 100288,FDCFOOD:100288,"Quinoa, Flour",Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,"Flour, quinoa",,,,NDB number 100288.
 100257,FDCFOOD:100257,"Rice, Flour, Glutinous",Rice flour,Foundation Foods,Cereal Grains and Pasta,,"Flour, rice, glutinous",,,,NDB number 100257.
-100290,FDCFOOD:100290,Rye flour,Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100290.
+100290,FDCFOOD:100290,"Flour, rye",Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,Rye flour,,,,NDB number 100290.
 100269,FDCFOOD:100269,"Wheat, Flour, Coarse and semi-coarse, Semolina",Semolina,Foundation Foods,Cereal Grains and Pasta,,"Flour, semolina, coarse and semi-coarse",,,,NDB number 100269.
 100270,FDCFOOD:100270,"Wheat, Flour, Fine, Semolina",Semolina,Foundation Foods,Cereal Grains and Pasta,,"Flour, semolina, fine",,,,NDB number 100270.
 100289,FDCFOOD:100289,"Sorghum, Flour",Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,Sorghum flour,,,,NDB number 100289.
@@ -3813,9 +3813,9 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 20052,FDCFOOD:20052,"Rice, white, short-grain, enriched, uncooked",White rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20052.
 20452,FDCFOOD:20452,"Rice, white, short-grain, raw, unenriched",White rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20452.
 20058,FDCFOOD:20058,"Rice, white, steamed, Chinese restaurant",White rice,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20058.
-20063,FDCFOOD:20063,"Rye flour, dark",Rye flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20063.
-20065,FDCFOOD:20065,"Rye flour, light",Rye flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20065.
-20064,FDCFOOD:20064,"Rye flour, medium",Rye flour,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20064.
+20063,FDCFOOD:20063,"Rye flour, dark","Flour, rye",SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20063.
+20065,FDCFOOD:20065,"Rye flour, light","Flour, rye",SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20065.
+20064,FDCFOOD:20064,"Rye flour, medium","Flour, rye",SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20064.
 20062,FDCFOOD:20062,Rye grain,Cereal grains,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20062.
 20066,FDCFOOD:20066,"Semolina, enriched",Semolina,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20066.
 20466,FDCFOOD:20466,"Semolina, unenriched",Semolina,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20466.
@@ -9667,7 +9667,6 @@ NDB,ID,Label,parent class,Term Source,Category,Synonym,Previously Denoted,Commen
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 100275,FDCFOOD:100275,"Soy milk, sweetened, plain, refrigerated",Soy milk,Foundation Foods,Legumes and Legume Products,,,,,,NDB number 100275.
-100290,FDCFOOD:100290,"Flour, rye",Rye flour,Foundation Foods,Cereal Grains and Pasta,,,,,,NDB number 100290.
 100295,FDCFOOD:100295,"Yogurt, plain, nonfat","Yogurt, plain",Foundation Foods,Dairy and Egg Products,,,,,,NDB number 100295.
 100296,FDCFOOD:100296,"Cheese, monterey jack, solid","Cheese, monterey",Foundation Foods,Dairy and Egg Products,,,,,,NDB number 100296.
 100297,FDCFOOD:100297,"Cheese, pasteurized process cheese food or product, American, singles",process cheese,Foundation Foods,Dairy and Egg Products,,,,,,NDB number 100297.
