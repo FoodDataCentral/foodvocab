@@ -2829,12 +2829,12 @@ FDCFOOD:20647,Millet flour,Cereal grain flour,SR Legacy,Cereal Grains and Pasta,
 FDCFOOD:20011,"Flour, buckwheat",Cereal grain flour,Foundation Foods|SR Legacy,Cereal Grains and Pasta,,https://fdc.nal.usda.gov/vocab/FDCFOOD_20011,"Buckwheat flour, whole-groat",,,,NDB number 20011.
 FDCFOOD:20003,Arrowroot flour,Cereal grain flour,SR Legacy,Cereal Grains and Pasta,,https://fdc.nal.usda.gov/vocab/FDCFOOD_20003,,,,,NDB number 20003.
 FDCFOOD:20070,"Triticale flour, whole-grain",Cereal grain flour,SR Legacy,Cereal Grains and Pasta,,https://fdc.nal.usda.gov/vocab/FDCFOOD_20070,,,,,NDB number 20070.
+FDCFOOD:100290,"Flour, rye",Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,https://fdc.nal.usda.gov/vocab/FDCFOOD_100290,Rye flour,,,,NDB number 100290.
 FDCFOOD:100289,"Sorghum, Flour",Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,https://fdc.nal.usda.gov/vocab/FDCFOOD_100289,Sorghum flour,,,,NDB number 100289.
 FDCFOOD:100287,"Amaranth, Flour",Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,https://fdc.nal.usda.gov/vocab/FDCFOOD_100287,"Flour, amaranth",,,,NDB number 100287.
 FDCFOOD:100288,"Quinoa, Flour",Cereal grain flour,Foundation Foods,Cereal Grains and Pasta,,https://fdc.nal.usda.gov/vocab/FDCFOOD_100288,"Flour, quinoa",,,,NDB number 100288.
 FDCFOOD:20131,Barley malt flour,Cereal grain flour,SR Legacy,Cereal Grains and Pasta,,https://fdc.nal.usda.gov/vocab/FDCFOOD_20131,,,,,NDB number 20131.
 FDCFOOD:200357,Corn flour,Cereal grain flour|Corn-based products,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200357,,,,,
-FDCFOOD:100290,"Flour, rye","Cereal grain flour|Flour, rye",Foundation Foods,Cereal Grains and Pasta,,https://fdc.nal.usda.gov/vocab/FDCFOOD_100290,,,,,NDB number 100290.
 FDCFOOD:200362,Corn meal,Cereal grain meal|Corn-based products,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200362,,,,,
 FDCFOOD:201772,Buckwheat,Cereal grains,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_201772,,,,,
 FDCFOOD:201777,Fonio,Cereal grains,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_201777,,,,,
