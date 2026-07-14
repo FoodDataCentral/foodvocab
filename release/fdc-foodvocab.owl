@@ -988,12 +988,11 @@
     <!-- https://fdc.nal.usda.gov/vocab/FDCFOOD_100290 -->
 
     <owl:Class rdf:about="https://fdc.nal.usda.gov/vocab/FDCFOOD_100290">
-        <rdfs:subClassOf rdf:resource="https://fdc.nal.usda.gov/vocab/FDCFOOD_100290"/>
         <rdfs:subClassOf rdf:resource="https://fdc.nal.usda.gov/vocab/FDCFOOD_200353"/>
         <terms:source>Foundation Foods</terms:source>
         <rdfs:label xml:lang="en">Flour, rye</rdfs:label>
-        <rdfs:label xml:lang="en">Rye flour</rdfs:label>
         <skos:hasTopConcept>Cereal Grains and Pasta</skos:hasTopConcept>
+        <skos:hiddenLabel xml:lang="en">Rye flour</skos:hiddenLabel>
         <skos:historyNote xml:lang="en">NDB number 100290.</skos:historyNote>
     </owl:Class>
     
