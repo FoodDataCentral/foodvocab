@@ -60225,6 +60225,8 @@
         <rdfs:subClassOf rdf:resource="https://fdc.nal.usda.gov/vocab/FDCFOOD_201665"/>
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:label xml:lang="en">Ready-to-eat cereals</rdfs:label>
+        <skos:hiddenLabel xml:lang="en">Breakfast Cereals</skos:hiddenLabel>
+        <skos:historyNote xml:lang="en">Successor term to deprecated historic NDB code 800 for Breakfast Cereals.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200341</skos:notation>
     </owl:Class>
     
@@ -60799,7 +60801,7 @@
     <owl:Class rdf:about="https://fdc.nal.usda.gov/vocab/FDCFOOD_200388">
         <rdfs:subClassOf rdf:resource="https://fdc.nal.usda.gov/vocab/FDCFOOD_201665"/>
         <terms:source>FDC vocabulary upgrade</terms:source>
-        <rdfs:label xml:lang="en">Plant starch extract</rdfs:label>
+        <rdfs:label xml:lang="en">Plant starch based products</rdfs:label>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200388</skos:notation>
     </owl:Class>
     
