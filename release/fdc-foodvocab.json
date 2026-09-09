@@ -81798,7 +81798,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 100."
+          "val" : "Historic top level category code 100."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200000"
@@ -81815,7 +81815,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 200."
+          "val" : "Historic top level category code 200."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200001"
@@ -81832,7 +81832,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 300."
+          "val" : "Historic top level category code 300."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200002"
@@ -81849,7 +81849,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 400."
+          "val" : "Historic top level category code 400."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200003"
@@ -81866,7 +81866,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 500."
+          "val" : "Historic top level category code 500."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200004"
@@ -81883,7 +81883,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 600."
+          "val" : "Historic top level category code 600."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200005"
@@ -81900,7 +81900,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 700."
+          "val" : "Historic top level category code 700."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200006"
@@ -81917,7 +81917,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 900."
+          "val" : "Historic top level category code 900."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200008"
@@ -81934,7 +81934,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 1000."
+          "val" : "Historic top level category code 1000."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200009"
@@ -81970,7 +81970,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 1100."
+          "val" : "Historic top level category code 1100."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200010"
@@ -81987,7 +81987,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 1200."
+          "val" : "Historic top level category code 1200."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200011"
@@ -82004,7 +82004,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 1300."
+          "val" : "Historic top level category code 1300."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200012"
@@ -82021,7 +82021,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 1400."
+          "val" : "Historic top level category code 1400."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200013"
@@ -82038,7 +82038,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 1500."
+          "val" : "Historic top level category code 1500."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200014"
@@ -82055,7 +82055,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 1600."
+          "val" : "Historic top level category code 1600."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200015"
@@ -82072,7 +82072,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 1700."
+          "val" : "Historic top level category code 1700."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200016"
@@ -82089,7 +82089,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 1800."
+          "val" : "Historic top level category code 1800."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200017"
@@ -82106,7 +82106,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 1900."
+          "val" : "Historic top level category code 1900."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200018"
@@ -82123,7 +82123,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 2000."
+          "val" : "Historic top level category code 2000."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200019"
@@ -82159,7 +82159,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 2100."
+          "val" : "Historic top level category code 2100."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200020"
@@ -82176,7 +82176,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 2200."
+          "val" : "Historic top level category code 2200."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200021"
@@ -82193,7 +82193,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 2500."
+          "val" : "Historic top level category code 2500."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200022"
@@ -82210,7 +82210,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 3500. Previously referred to as “American Indian/Alaska Native Foods”"
+          "val" : "Historic top level category code 3500. Previously referred to as “American Indian/Alaska Native Foods”"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200023"
@@ -82227,7 +82227,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 3600."
+          "val" : "Historic top level category code 3600."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200024"
@@ -82244,7 +82244,7 @@
           "val" : "FDC vocabulary upgrade"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
-          "val" : "Historic NDB code 1410."
+          "val" : "Historic top level category code 1410."
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200027"
