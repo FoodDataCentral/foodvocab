@@ -54,6 +54,35 @@ robot convert --input release/fdc-foodvocab.owl --prefix "FDCFOOD:https://fdc.na
 robot export --input release/fdc-foodvocab.owl --prefix "FDCFOOD:https://fdc.nal.usda.gov/vocab/FDCFOOD_" --header "ID|LABEL|SubClass Of|source|hasTopConcept|altLabel|IRI|hiddenLabel|comment|definition|isDefinedBy|historyNote|" --sort "SubClass Of" --strict --export release/fdc-foodvocab.csv
 ```
 
+## Vocabulary Schema Definitions:
+
+The following are descriptions of the FDC Food Vocabulary's schema, expressed in RDF as Annotation properties (or as an rdf:Property in the case of **Parent class**):
+
+* **NDB**: A `skos:notation` of type `xsd:integer` representing the NDB numeric identifier of for the FDC Food Vocabulary term. Note the historic NDB numbers are reused here when possible and new numbers are minted for new terms or hierarchical grouping terms. 
+
+* **ID**: A `CURIE` or `PURL` representing the unique web address for the FDC Food Vocabulary term.
+
+* **Label**: An `rdfs:label` representing the English language primary description label for an FDC Food Vocabulary term.
+
+* **Parent class**: An `rdfs:subClassOf` axiom (an `rdf:Property`) representing the a hierarchical (parent child relationship) between an FDC Food Vocabulary term and it's "parent" term.
+
+* **Term Source**: A `dc:source` string representing the source of term in the FDC Food Vocabulary. Note that the majority of terms to-date are sourced from the `FDC vocabulary upgrade` meaning they were created during process of upgrading the FDC Food Vocabulary to an RDF vocabulary, or were from the `SR Legacy` or `Foundation Foods` datasets.
+
+* **Category**: A `skos:hasTopConcept` string representing the historic top level `SR and Foundation Food Categories` (e.g., "Beef Products") that FDC Food Vocabulary term are classified within.
+
+* **Synonym**: A `skos:altLabel` string representing synonyms or alternative labels for an FDC Food Vocabulary term.
+
+* **Previously Denoted**: A `skos:hiddenLabel` string representing previously used labels for an FDC Food Vocabulary term which exist in the vocabulary but are not prominently shown in the FDC site. 
+
+* **Comment**: An `rdfs:comment` string representing any comments relating to a FDC Food Vocabulary term.
+
+* **Definition**: An `rdfs:definition` string representing a formal definition of an FDC Food Vocabulary term. Note this mostly only used in cases where the term labels is ambiguous or may require further definition.
+
+* **Definition Source**: An `rdfs:isDefinedBy` string representing the source used to define or formalize an FDC Food Vocabulary term.
+
+* **History Note**: A `skos:historyNote` string representing a note about any historic use of an NDB number or top level code associated with an FDC Food Vocabulary term.
+
+
 ## Contact
 
 For inquiries about this website any of it's content see https://fdc.nal.usda.gov/contact.
