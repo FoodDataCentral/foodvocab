@@ -386,7 +386,7 @@ AT skos:notation^^xsd:integer,ID,AL rdfs:label@en,SC % SPLIT=|,A dc:source SPLIT
 200385,FDCFOOD:200385,Wheat,Cereal grains,FDC vocabulary upgrade,,,,,,,
 200386,FDCFOOD:200386,Spelt,Wheat,FDC vocabulary upgrade,,,,,,,
 200387,FDCFOOD:200387,Khorasan wheat,Wheat,FDC vocabulary upgrade,,Oriental wheat,,,,,
-200388,FDCFOOD:200388,Plant starch extract,Cereal grain based products,FDC vocabulary upgrade,,,,,,,
+200388,FDCFOOD:200388,Plant starch based products,Cereal grain based products,FDC vocabulary upgrade,,,,,,,
 200389,FDCFOOD:200389,Teff,Cereal grains,FDC vocabulary upgrade,,,,,,,
 200390,FDCFOOD:200390,Soups,"Soups, Sauces, and Gravies",FDC vocabulary upgrade,,,,,,,
 200391,FDCFOOD:200391,Sauces,"Soups, Sauces, and Gravies",FDC vocabulary upgrade,,,,,,,
@@ -3713,7 +3713,7 @@ AT skos:notation^^xsd:integer,ID,AL rdfs:label@en,SC % SPLIT=|,A dc:source SPLIT
 20023,FDCFOOD:20023,"Cornmeal, yellow, self-rising, bolted, plain, enriched",Corn meal,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20023.
 20024,FDCFOOD:20024,"Cornmeal, yellow, self-rising, bolted, with wheat flour added, enriched",Corn meal,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20024.
 20025,FDCFOOD:20025,"Cornmeal, yellow, self-rising, degermed, enriched",Corn meal,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20025.
-20027,FDCFOOD:20027,Cornstarch,Plant starch extract,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20027.
+20027,FDCFOOD:20027,Cornstarch,Plant starch based products,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20027.
 20029,FDCFOOD:20029,"Couscous, cooked",Couscous,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20029.
 20028,FDCFOOD:20028,"Couscous, dry",Couscous,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20028.
 100268,FDCFOOD:100268,"Wheat, Flour, 00",Wheat flour,Foundation Foods,Cereal Grains and Pasta,,"Flour, 00",,,,NDB number 100268.
@@ -3828,7 +3828,7 @@ AT skos:notation^^xsd:integer,ID,AL rdfs:label@en,SC % SPLIT=|,A dc:source SPLIT
 20126,FDCFOOD:20126,"Spaghetti, spinach, dry",Spaghetti,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20126.
 20141,FDCFOOD:20141,"Spelt, cooked",Spelt,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20141.
 20140,FDCFOOD:20140,"Flour, spelt, whole grain",Spelt,SR Legacy|Foundation Foods,Cereal Grains and Pasta,,"Spelt, uncooked",,,,NDB number 20140.
-20068,FDCFOOD:20068,"Tapioca, pearl, dry",Plant starch extract,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20068.
+20068,FDCFOOD:20068,"Tapioca, pearl, dry",Plant starch based products,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20068.
 20143,FDCFOOD:20143,"Teff, cooked",Teff,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20143.
 20142,FDCFOOD:20142,"Teff, uncooked",Teff,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20142.
 20069,FDCFOOD:20069,Triticale,Cereal grains,SR Legacy,Cereal Grains and Pasta,,,,,,NDB number 20069.
