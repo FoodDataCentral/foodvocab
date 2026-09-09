@@ -340,7 +340,7 @@ AT skos:notation^^xsd:integer,ID,AL rdfs:label@en,SC % SPLIT=|,A dc:source SPLIT
 200338,FDCFOOD:200338,Snail,Mollusks,FDC vocabulary upgrade,,,,Gastropoda,,,
 200339,FDCFOOD:200339,Whelk,Snail,FDC vocabulary upgrade,,,,Buccinidae and others,,,
 200340,FDCFOOD:200340,Surimi-based product,Fish-based product,FDC vocabulary upgrade,,,,,,,
-200341,FDCFOOD:200341,Ready-to-eat cereals,Cereal grain based products,FDC vocabulary upgrade,,,,,,,
+200341,FDCFOOD:200341,Ready-to-eat cereals,Cereal grain based products,FDC vocabulary upgrade,,,Breakfast Cereals,,,,Successor term to deprecated historic NDB code 800 for Breakfast Cereals.
 200342,FDCFOOD:200342,Corn grits,Hot cereal,FDC vocabulary upgrade,,,,,,,
 200343,FDCFOOD:200343,Cream of Rice,Hot cereal,FDC vocabulary upgrade,,,,,,,
 200344,FDCFOOD:200344,Cream of Wheat,Farina-based products,FDC vocabulary upgrade,,,,,,,
