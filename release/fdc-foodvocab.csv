@@ -2813,8 +2813,8 @@ FDCFOOD:200351,Hot cereal,Cereal grain based products,FDC vocabulary upgrade,,,h
 FDCFOOD:200366,Hominy,Cereal grain based products,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200366,,,Dried corn kernels that have undergone a nixtamalization process.,,
 FDCFOOD:200363,Couscous,Cereal grain based products,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200363,,Couscous is made from clumped semolina flour.,,,
 FDCFOOD:200367,Noodles,Cereal grain based products,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200367,,,,,
-FDCFOOD:200341,Ready-to-eat cereals,Cereal grain based products,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200341,,,,,
-FDCFOOD:200388,Plant starch extract,Cereal grain based products,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200388,,,,,
+FDCFOOD:200341,Ready-to-eat cereals,Cereal grain based products,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200341,Breakfast Cereals,,,,Successor term to deprecated historic NDB code 800 for Breakfast Cereals.
+FDCFOOD:200388,Plant starch based products,Cereal grain based products,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200388,,,,,
 FDCFOOD:200381,Milled cereal grain products,Cereal grain based products,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200381,,,,https://www.myplate.gov/eat-healthy/grains,
 FDCFOOD:48052,Vital wheat gluten,Cereal grain based products,SR Legacy,Cereal Grains and Pasta,,https://fdc.nal.usda.gov/vocab/FDCFOOD_48052,,Seitan,,,NDB number 48052.
 FDCFOOD:201778,Sorghum bran,Cereal grain bran,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_201778,,,,,
@@ -6912,8 +6912,8 @@ FDCFOOD:42289,"Oil, corn and canola",Plant oil blend,SR Legacy,Fats and Oils,,ht
 FDCFOOD:4685,"Oil, cooking and salad, ENOVA, 80% diglycerides",Plant oil blend,SR Legacy,Fats and Oils,,https://fdc.nal.usda.gov/vocab/FDCFOOD_4685,,,,,NDB number 4685.
 FDCFOOD:4679,"Oil, PAM cooking spray, original",Plant oil blend,SR Legacy,Fats and Oils,,https://fdc.nal.usda.gov/vocab/FDCFOOD_4679,,,,,NDB number 4679.
 FDCFOOD:44005,"Oil, corn, peanut, and olive",Plant oil blend,SR Legacy,Fats and Oils,,https://fdc.nal.usda.gov/vocab/FDCFOOD_44005,,,,,NDB number 44005.
-FDCFOOD:20068,"Tapioca, pearl, dry",Plant starch extract,SR Legacy,Cereal Grains and Pasta,,https://fdc.nal.usda.gov/vocab/FDCFOOD_20068,,,,,NDB number 20068.
-FDCFOOD:20027,Cornstarch,Plant starch extract,SR Legacy,Cereal Grains and Pasta,,https://fdc.nal.usda.gov/vocab/FDCFOOD_20027,,,,,NDB number 20027.
+FDCFOOD:20068,"Tapioca, pearl, dry",Plant starch based products,SR Legacy,Cereal Grains and Pasta,,https://fdc.nal.usda.gov/vocab/FDCFOOD_20068,,,,,NDB number 20068.
+FDCFOOD:20027,Cornstarch,Plant starch based products,SR Legacy,Cereal Grains and Pasta,,https://fdc.nal.usda.gov/vocab/FDCFOOD_20027,,,,,NDB number 20027.
 FDCFOOD:200998,Green plantain,Plantain,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200998,,,,,
 FDCFOOD:200999,Yellow plantain,Plantain,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200999,,,,,
 FDCFOOD:100371,"Plantains, overripe, raw",Plantain,Foundation Foods,Fruits and Fruit Juices,,https://fdc.nal.usda.gov/vocab/FDCFOOD_100371,,,,,NDB number 100371.
