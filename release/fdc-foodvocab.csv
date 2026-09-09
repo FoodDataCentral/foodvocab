@@ -2204,7 +2204,7 @@ FDCFOOD:14031,"Beverages, water, bottled, yumberry, pomegranate with anti-oxidan
 FDCFOOD:14093,"Beverages, The COCA-COLA company, Glaceau Vitamin Water, Revive Fruit Punch, fortified","Beverages, water, bottled",SR Legacy,Beverages,,https://fdc.nal.usda.gov/vocab/FDCFOOD_14093,,,,,NDB number 14093.
 FDCFOOD:14082,"Beverages, GEROLSTEINER BRUNNEN GmbH & Co. KG (Gerolsteiner), naturally sparkling, mineral bottled water","Beverages, water, bottled",SR Legacy,Beverages,,https://fdc.nal.usda.gov/vocab/FDCFOOD_14082,,,,,NDB number 14082.
 FDCFOOD:14075,"Beverages, GEROLSTEINER BRUNNEN GmbH & Co. KG,Gerolsteiner naturally sparkling mineral water,","Beverages, water, bottled",SR Legacy,Beverages,,https://fdc.nal.usda.gov/vocab/FDCFOOD_14075,,,,,NDB number 14075.
-FDCFOOD:200027,Alcoholic Beverages,"Beverages|Beverages, fermented",FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200027,,Top level FDC food category.,,,Historic NDB code 1410.
+FDCFOOD:200027,Alcoholic Beverages,"Beverages|Beverages, fermented",FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200027,,Top level FDC food category.,,,Historic top level category code 1410.
 FDCFOOD:200195,Coconut water,Beverages|Coconut-derived foods,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200195,,,,,
 FDCFOOD:200099,"Beverages, dairy beverage",Beverages|Dairy product,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200099,,,,,
 FDCFOOD:200068,Milk substitute,Beverages|Dairy product substitute,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200068,,,,,
@@ -9730,27 +9730,27 @@ FDCFOOD:200041,pasteurized process cheese food,process cheese,FDC vocabulary upg
 FDCFOOD:100297,"Cheese, pasteurized process cheese food or product, American, singles",process cheese,Foundation Foods,Dairy and Egg Products,,https://fdc.nal.usda.gov/vocab/FDCFOOD_100297,,,,,NDB number 100297.
 FDCFOOD:1188,KRAFT CHEEZ WHIZ Pasteurized Process Cheese Sauce,process cheese,SR Legacy,Dairy and Egg Products,,https://fdc.nal.usda.gov/vocab/FDCFOOD_1188,,,,,NDB number 1188.
 FDCFOOD:200170,Flour,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200170,,,,,
-FDCFOOD:200008,Fruits and Fruit Juices,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200008,,Top level FDC food category.,,,Historic NDB code 900.
-FDCFOOD:200009,Pork Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200009,,Top level FDC food category.,,,Historic NDB code 1000.
-FDCFOOD:200002,Baby Foods,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200002,,Top level FDC food category.,,,Historic NDB code 300.
-FDCFOOD:200003,Fats and Oils,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200003,,Top level FDC food category.,,,Historic NDB code 400.
-FDCFOOD:200000,Dairy and Egg Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200000,,Top level FDC food category.,,,Historic NDB code 100.
-FDCFOOD:200001,Spices and Herbs,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200001,,Top level FDC food category.,,,Historic NDB code 200.
-FDCFOOD:200006,Sausages and Luncheon Meats,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200006,,Top level FDC food category.,,,Historic NDB code 700.
-FDCFOOD:200004,Poultry Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200004,,Top level FDC food category.,,,Historic NDB code 500.
-FDCFOOD:200005,"Soups, Sauces, and Gravies",,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200005,,Top level FDC food category.,,,Historic NDB code 600.
-FDCFOOD:200019,Cereal Grains and Pasta,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200019,,Top level FDC food category.,,,Historic NDB code 2000.
-FDCFOOD:200013,Beverages,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200013,,Top level FDC food category.,,,Historic NDB code 1400.
-FDCFOOD:200014,Finfish and Shellfish Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200014,,Top level FDC food category.,,,Historic NDB code 1500.
-FDCFOOD:200011,Nut and Seed Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200011,,Top level FDC food category.,,,Historic NDB code 1200.
-FDCFOOD:200012,Beef Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200012,,Top level FDC food category.,,,Historic NDB code 1300.
-FDCFOOD:200017,Baked Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200017,,Top level FDC food category.,,,Historic NDB code 1800.
-FDCFOOD:200018,Sweets,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200018,,Top level FDC food category.,,,Historic NDB code 1900.
-FDCFOOD:200015,Legumes and Legume Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200015,,Top level FDC food category.,,,Historic NDB code 1600.
-FDCFOOD:200016,"Lamb, Veal, and Game Products",,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200016,,Top level FDC food category.,,,Historic NDB code 1700.
-FDCFOOD:200010,Vegetables and Vegetable Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200010,,Top level FDC food category.,,,Historic NDB code 1100.
-FDCFOOD:200024,Restaurant Foods,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200024,,Top level FDC food category.,,,Historic NDB code 3600.
-FDCFOOD:200022,Snacks,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200022,,Top level FDC food category.,,,Historic NDB code 2500.
-FDCFOOD:200023,American Indigenous Foods,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200023,,Top level FDC food category.,,,Historic NDB code 3500. Previously referred to as “American Indian/Alaska Native Foods”
-FDCFOOD:200020,Fast Foods,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200020,,Top level FDC food category.,,,Historic NDB code 2100.
-FDCFOOD:200021,"Meals, Entrees, and Side Dishes",,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200021,,Top level FDC food category.,,,Historic NDB code 2200.
+FDCFOOD:200008,Fruits and Fruit Juices,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200008,,Top level FDC food category.,,,Historic top level category code 900.
+FDCFOOD:200009,Pork Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200009,,Top level FDC food category.,,,Historic top level category code 1000.
+FDCFOOD:200002,Baby Foods,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200002,,Top level FDC food category.,,,Historic top level category code 300.
+FDCFOOD:200003,Fats and Oils,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200003,,Top level FDC food category.,,,Historic top level category code 400.
+FDCFOOD:200000,Dairy and Egg Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200000,,Top level FDC food category.,,,Historic top level category code 100.
+FDCFOOD:200001,Spices and Herbs,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200001,,Top level FDC food category.,,,Historic top level category code 200.
+FDCFOOD:200006,Sausages and Luncheon Meats,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200006,,Top level FDC food category.,,,Historic top level category code 700.
+FDCFOOD:200004,Poultry Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200004,,Top level FDC food category.,,,Historic top level category code 500.
+FDCFOOD:200005,"Soups, Sauces, and Gravies",,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200005,,Top level FDC food category.,,,Historic top level category code 600.
+FDCFOOD:200019,Cereal Grains and Pasta,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200019,,Top level FDC food category.,,,Historic top level category code 2000.
+FDCFOOD:200013,Beverages,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200013,,Top level FDC food category.,,,Historic top level category code 1400.
+FDCFOOD:200014,Finfish and Shellfish Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200014,,Top level FDC food category.,,,Historic top level category code 1500.
+FDCFOOD:200011,Nut and Seed Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200011,,Top level FDC food category.,,,Historic top level category code 1200.
+FDCFOOD:200012,Beef Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200012,,Top level FDC food category.,,,Historic top level category code 1300.
+FDCFOOD:200017,Baked Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200017,,Top level FDC food category.,,,Historic top level category code 1800.
+FDCFOOD:200018,Sweets,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200018,,Top level FDC food category.,,,Historic top level category code 1900.
+FDCFOOD:200015,Legumes and Legume Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200015,,Top level FDC food category.,,,Historic top level category code 1600.
+FDCFOOD:200016,"Lamb, Veal, and Game Products",,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200016,,Top level FDC food category.,,,Historic top level category code 1700.
+FDCFOOD:200010,Vegetables and Vegetable Products,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200010,,Top level FDC food category.,,,Historic top level category code 1100.
+FDCFOOD:200024,Restaurant Foods,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200024,,Top level FDC food category.,,,Historic top level category code 3600.
+FDCFOOD:200022,Snacks,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200022,,Top level FDC food category.,,,Historic top level category code 2500.
+FDCFOOD:200023,American Indigenous Foods,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200023,,Top level FDC food category.,,,Historic top level category code 3500. Previously referred to as “American Indian/Alaska Native Foods”
+FDCFOOD:200020,Fast Foods,,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200020,,Top level FDC food category.,,,Historic top level category code 2100.
+FDCFOOD:200021,"Meals, Entrees, and Side Dishes",,FDC vocabulary upgrade,,,https://fdc.nal.usda.gov/vocab/FDCFOOD_200021,,Top level FDC food category.,,,Historic top level category code 2200.
