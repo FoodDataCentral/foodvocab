@@ -87120,6 +87120,12 @@
           "pred" : "http://purl.org/dc/terms/source",
           "val" : "FDC vocabulary upgrade"
         }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#hiddenLabel",
+          "val" : "Breakfast Cereals"
+        }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#historyNote",
+          "val" : "Successor term to deprecated historic NDB code 800 for Breakfast Cereals."
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#notation",
           "val" : "200341"
         } ]
@@ -87817,7 +87823,7 @@
       }
     }, {
       "id" : "https://fdc.nal.usda.gov/vocab/FDCFOOD_200388",
-      "lbl" : "Plant starch extract",
+      "lbl" : "Plant starch based products",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
