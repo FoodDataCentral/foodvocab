@@ -1,33 +1,33 @@
 NDB,ID,Label,Parent class,Term Source,Category,Synonym,Previously Denoted,Comment,Definition,Definition Source,NDB History
 AT skos:notation^^xsd:integer,ID,AL rdfs:label@en,SC % SPLIT=|,A dc:source SPLIT=|,A skos:hasTopConcept,AL skos:altLabel@en SPLIT=|,AL skos:hiddenLabel@en SPLIT=|,AL rdfs:comment@en,AL rdfs:definition@en,A rdfs:isDefinedBy,AL skos:historyNote@en
-200000,FDCFOOD:200000,Dairy and Egg Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 100.
-200001,FDCFOOD:200001,Spices and Herbs,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 200.
-200002,FDCFOOD:200002,Baby Foods,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 300.
-200003,FDCFOOD:200003,Fats and Oils,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 400.
-200004,FDCFOOD:200004,Poultry Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 500.
-200005,FDCFOOD:200005,"Soups, Sauces, and Gravies",,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 600.
-200006,FDCFOOD:200006,Sausages and Luncheon Meats,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 700.
-200007,,Breakfast Cereals,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 800. Deprecated
-200008,FDCFOOD:200008,Fruits and Fruit Juices,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 900.
-200009,FDCFOOD:200009,Pork Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 1000.
-200010,FDCFOOD:200010,Vegetables and Vegetable Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 1100.
-200011,FDCFOOD:200011,Nut and Seed Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 1200.
-200012,FDCFOOD:200012,Beef Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 1300.
-200013,FDCFOOD:200013,Beverages,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 1400.
-200014,FDCFOOD:200014,Finfish and Shellfish Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 1500.
-200015,FDCFOOD:200015,Legumes and Legume Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 1600.
-200016,FDCFOOD:200016,"Lamb, Veal, and Game Products",,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 1700.
-200017,FDCFOOD:200017,Baked Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 1800.
-200018,FDCFOOD:200018,Sweets,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 1900.
-200019,FDCFOOD:200019,Cereal Grains and Pasta,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 2000.
-200020,FDCFOOD:200020,Fast Foods,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 2100.
-200021,FDCFOOD:200021,"Meals, Entrees, and Side Dishes",,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 2200.
-200022,FDCFOOD:200022,Snacks,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 2500.
-200023,FDCFOOD:200023,American Indigenous Foods,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 3500. Previously referred to as “American Indian/Alaska Native Foods”
-200024,FDCFOOD:200024,Restaurant Foods,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 3600.
-200025,,Branded Food Products Database,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 4500. Deprecated
-200026,,Quality Control Materials,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 2600. Deprecated
-200027,FDCFOOD:200027,Alcoholic Beverages,"Beverages|Beverages, fermented",FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic NDB code 1410.
+200000,FDCFOOD:200000,Dairy and Egg Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 100.
+200001,FDCFOOD:200001,Spices and Herbs,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 200.
+200002,FDCFOOD:200002,Baby Foods,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 300.
+200003,FDCFOOD:200003,Fats and Oils,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 400.
+200004,FDCFOOD:200004,Poultry Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 500.
+200005,FDCFOOD:200005,"Soups, Sauces, and Gravies",,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 600.
+200006,FDCFOOD:200006,Sausages and Luncheon Meats,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 700.
+200007,,Breakfast Cereals,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 800. Deprecated
+200008,FDCFOOD:200008,Fruits and Fruit Juices,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 900.
+200009,FDCFOOD:200009,Pork Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 1000.
+200010,FDCFOOD:200010,Vegetables and Vegetable Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 1100.
+200011,FDCFOOD:200011,Nut and Seed Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 1200.
+200012,FDCFOOD:200012,Beef Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 1300.
+200013,FDCFOOD:200013,Beverages,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 1400.
+200014,FDCFOOD:200014,Finfish and Shellfish Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 1500.
+200015,FDCFOOD:200015,Legumes and Legume Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 1600.
+200016,FDCFOOD:200016,"Lamb, Veal, and Game Products",,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 1700.
+200017,FDCFOOD:200017,Baked Products,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 1800.
+200018,FDCFOOD:200018,Sweets,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 1900.
+200019,FDCFOOD:200019,Cereal Grains and Pasta,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 2000.
+200020,FDCFOOD:200020,Fast Foods,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 2100.
+200021,FDCFOOD:200021,"Meals, Entrees, and Side Dishes",,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 2200.
+200022,FDCFOOD:200022,Snacks,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 2500.
+200023,FDCFOOD:200023,American Indigenous Foods,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 3500. Previously referred to as “American Indian/Alaska Native Foods”
+200024,FDCFOOD:200024,Restaurant Foods,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 3600.
+200025,,Branded Food Products Database,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 4500. Deprecated
+200026,,Quality Control Materials,,FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 2600. Deprecated
+200027,FDCFOOD:200027,Alcoholic Beverages,"Beverages|Beverages, fermented",FDC vocabulary upgrade,,,,Top level FDC food category.,,,Historic top level category code 1410.
 200028,FDCFOOD:200028,Cheese,Dairy product,FDC vocabulary upgrade,,,,,,,
 200029,,"Cheese, cheddar",Cheese,FDC vocabulary upgrade,,,,,,,
 200030,FDCFOOD:200030,"Cheese, cottage",Cheese,FDC vocabulary upgrade,,,,,,,
