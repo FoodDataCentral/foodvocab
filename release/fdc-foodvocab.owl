@@ -55884,7 +55884,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Dairy and Egg Products</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 100.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 100.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200000</skos:notation>
     </owl:Class>
     
@@ -55896,7 +55896,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Spices and Herbs</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 200.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 200.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200001</skos:notation>
     </owl:Class>
     
@@ -55908,7 +55908,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Baby Foods</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 300.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 300.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200002</skos:notation>
     </owl:Class>
     
@@ -55920,7 +55920,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Fats and Oils</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 400.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 400.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200003</skos:notation>
     </owl:Class>
     
@@ -55932,7 +55932,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Poultry Products</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 500.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 500.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200004</skos:notation>
     </owl:Class>
     
@@ -55944,7 +55944,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Soups, Sauces, and Gravies</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 600.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 600.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200005</skos:notation>
     </owl:Class>
     
@@ -55956,7 +55956,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Sausages and Luncheon Meats</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 700.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 700.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200006</skos:notation>
     </owl:Class>
     
@@ -55968,7 +55968,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Fruits and Fruit Juices</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 900.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 900.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200008</skos:notation>
     </owl:Class>
     
@@ -55980,7 +55980,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Pork Products</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 1000.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 1000.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200009</skos:notation>
     </owl:Class>
     
@@ -56005,7 +56005,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Vegetables and Vegetable Products</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 1100.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 1100.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200010</skos:notation>
     </owl:Class>
     
@@ -56017,7 +56017,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Nut and Seed Products</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 1200.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 1200.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200011</skos:notation>
     </owl:Class>
     
@@ -56029,7 +56029,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Beef Products</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 1300.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 1300.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200012</skos:notation>
     </owl:Class>
     
@@ -56041,7 +56041,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Beverages</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 1400.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 1400.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200013</skos:notation>
     </owl:Class>
     
@@ -56053,7 +56053,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Finfish and Shellfish Products</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 1500.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 1500.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200014</skos:notation>
     </owl:Class>
     
@@ -56065,7 +56065,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Legumes and Legume Products</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 1600.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 1600.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200015</skos:notation>
     </owl:Class>
     
@@ -56077,7 +56077,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Lamb, Veal, and Game Products</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 1700.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 1700.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200016</skos:notation>
     </owl:Class>
     
@@ -56089,7 +56089,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Baked Products</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 1800.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 1800.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200017</skos:notation>
     </owl:Class>
     
@@ -56101,7 +56101,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Sweets</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 1900.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 1900.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200018</skos:notation>
     </owl:Class>
     
@@ -56113,7 +56113,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Cereal Grains and Pasta</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 2000.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 2000.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200019</skos:notation>
     </owl:Class>
     
@@ -56138,7 +56138,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Fast Foods</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 2100.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 2100.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200020</skos:notation>
     </owl:Class>
     
@@ -56150,7 +56150,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Meals, Entrees, and Side Dishes</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 2200.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 2200.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200021</skos:notation>
     </owl:Class>
     
@@ -56162,7 +56162,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Snacks</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 2500.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 2500.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200022</skos:notation>
     </owl:Class>
     
@@ -56174,7 +56174,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">American Indigenous Foods</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 3500. Previously referred to as “American Indian/Alaska Native Foods”</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 3500. Previously referred to as “American Indian/Alaska Native Foods”</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200023</skos:notation>
     </owl:Class>
     
@@ -56186,7 +56186,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Restaurant Foods</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 3600.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 3600.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200024</skos:notation>
     </owl:Class>
     
@@ -56200,7 +56200,7 @@
         <terms:source>FDC vocabulary upgrade</terms:source>
         <rdfs:comment xml:lang="en">Top level FDC food category.</rdfs:comment>
         <rdfs:label xml:lang="en">Alcoholic Beverages</rdfs:label>
-        <skos:historyNote xml:lang="en">Historic NDB code 1410.</skos:historyNote>
+        <skos:historyNote xml:lang="en">Historic top level category code 1410.</skos:historyNote>
         <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200027</skos:notation>
     </owl:Class>
     
